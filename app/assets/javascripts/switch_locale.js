@@ -1,14 +1,9 @@
 function switchLocale(locale) {
   I18n.locale = locale;
-  var languages = {
-    'en-US': I18n.t('english'),
-    'es-MX': I18n.t('spanish'),
-    'fr-FR': I18n.t('french')
-  };
   
   var items = [
   'emergency_triage_questionnaire',
-  ['language', {language: languages[locale]}],
+  'language',
   'what_is_the_reason',
   'pain',
   'diffused',
