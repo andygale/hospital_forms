@@ -1,0 +1,43 @@
+<div id="content">
+  <div id="header">
+    <h1 id="emergency_triage_questionnaire"></h1>
+    <h2 id="language"></h2>
+  </div>
+
+  <div id="instructions">
+    <h3 id="what_is_the_reason"></h3>
+  </div>
+
+  <div id="questions">
+    <%= form_tag do %>
+    <ol>
+      <li>
+        <h4><%= check_box_item(:pain) %></h4>
+        <p class="indent">
+          <%=check_box_item(:diffused) %> &nbsp;
+          <%=check_box_item(:localized_stabbing) %> &nbsp;
+          <%=check_box_item(:cramps) %> &nbsp;
+          <%=check_box_item(:tightness) %> &nbsp;
+          <%=check_box_item(:pressure) %> &nbsp;
+        </p>
+        <p class="indent">
+          <div id="how_intense_is_pain"></div><br>
+          <div id="pain_scale"></div><br>
+          <% (1..10).each do |pain_number| %>
+          <%= radio_item(:"pain_intensity", pain_number.to_s, pain_number.to_s)%> &nbsp;
+          <% end %>
+        </p>
+      </li>
+
+      <li>
+        <h4><%=check_box_item(:burning_sensation) %></h4>
+      </li>
+
+      <li>
+        <h4><%=check_box_item(:itching) %></h4>
+      </li>
+
+    </ol>
+    <% end %>
+  </div>
+</div>

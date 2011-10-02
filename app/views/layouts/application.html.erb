@@ -1,14 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HospitalForms</title>
+  <title>Emergency Connect</title>
+  <script type="text/javascript" src="/javascripts/locales.js"></script>
   <%= stylesheet_link_tag    "application" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <div id="page">
+    <div id="sidebar">
+      <ul id="sidebar-items">
+        <li>
+          <ul class="languages">
+            <li><a href="#" onclick="switchLocale('en-US');return false;">
+              <img src='http://www.printableworldflags.com/icon-flags/32/United%20Kingdom.png'>
+              Change to English
+            </a></li>
+            <li><a href="#" onclick="switchLocale('es-MX');return false;">
+              <img src='http://www.printableworldflags.com/icon-flags/32/Mexico.png'>
+              Cambiar a español
+            </a></li>
+            <li><a href="#" onclick="switchLocale('fr-FR');return false;">
+              <img src='http://www.printableworldflags.com/icon-flags/32/France.png'>
+              Changer au français
+            </a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
 
-<%= yield %>
+    <%= yield %>
 
+    <div id="footer">&nbsp;</div>
+  </div>
 </body>
 </html>
