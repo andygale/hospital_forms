@@ -1,1 +1,8 @@
 This is an application that helps doctors and nurses evaluate patients who don't speak the same language.  For starters, it will simply be a set of forms that can be translated into different languages
+
+heroku deploy:
+RAILS_ENV=production bundle exec rake assets:precompile
+git commit -a -m "updating precompiled assets"
+git push heroku master
+http://speaksafecare.heroku.com
+http://speaksafecare.dyndns.org
