@@ -15,28 +15,55 @@
         <h4><%= check_box_item(:pain) %></h4>
         <p class="indent">
           <%=check_box_item(:diffused) %> &nbsp;
-          <%=check_box_item(:localized_stabbing) %> &nbsp;
+          <%=check_box_item(:localized) %> &nbsp;
+          <%=check_box_item(:stabbing) %> &nbsp;
           <%=check_box_item(:cramps) %> &nbsp;
           <%=check_box_item(:tightness) %> &nbsp;
           <%=check_box_item(:pressure) %> &nbsp;
         </p>
-        <p class="indent">
-          <div id="how_intense_is_pain"></div><br>
-          <div id="pain_scale"></div><br>
+        <div class="indent">
+          <div id="how_intense_is_pain" class="body_text"></div>
+          <div id="pain_scale" class="body_text"></div>
           <% (1..10).each do |pain_number| %>
           <%= radio_item(:"pain_intensity", pain_number.to_s, pain_number.to_s)%> &nbsp;
           <% end %>
-        </p>
+        </div>
       </li>
-
-      <li>
-        <h4><%=check_box_item(:burning_sensation) %></h4>
+      <li><h4><%=check_box_item(:burning_sensation) %></h4></li>
+      <li><h4><%=check_box_item(:itching) %></h4></li>
+      <li><h4><%=check_box_item(:swelling) %></h4></li>
+      <li><h4><%=check_box_item(:fainting) %></h4></li>
+      <li><h4><%=check_box_item(:dizziness) %></h4></li>
+      <li><h4><%=check_box_item(:fatigue) %></h4></li>
+      <li><h4><%=check_box_item(:numbness) %></h4></li>
+      <li><h4><%=check_box_item(:nausea) %></h4></li>
+      <li><h4><%=check_box_item(:vomiting) %></h4></li>
+      <li><h4><%=check_box_item(:difficulty_breathing) %></h4></li>
+      <li><h4><%=check_box_item(:cough) %></h4>
+        <div class="indent">
+          <%=check_box_item(:with_secretions) %>
+          (<%=check_box_item(:green) %> <%=check_box_item(:brown) %> <%=check_box_item(:white) %> <%=check_box_item(:yellow) %>)
+        </div>
       </li>
-
-      <li>
-        <h4><%=check_box_item(:itching) %></h4>
+      <li><h4><%=check_box_item(:choking) %></h4></li>
+      <li><h4><%=check_box_item(:palpitations) %></h4></li>
+      <li><h4><%=check_box_item(:fever) %></h4></li>
+      <li><h4><%=check_box_item(:appetite_loss) %></h4></li>
+      <li><h4><%=check_box_item(:weight_loss) %></h4></li>
+      <li><h4><%=check_box_item(:burn) %></h4></li>
+      <li><h4><%=check_box_item(:blood_in) %></h4>
+        <div class="indent">
+          <%=check_box_item(:stool_desc) %>
+          <%=check_box_item(:urine) %>
+        </div>
       </li>
-
+      <li><h4><%=check_box_item(:constipation) %></h4></li>
+      <li><h4><%=check_box_item(:diarrhea) %></h4></li>
+      <li><h4><%=check_box_item(:intoxication_with) %></h4>
+        <div class="indent">
+          <%=check_box_item(:drugs) %> <%=check_box_item(:alcohol) %> <%=check_box_item(:poison) %>
+        </div>
+      </li>
     </ol>
     <% end %>
   </div>

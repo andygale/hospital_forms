@@ -1,0 +1,45 @@
+,Arabic,Bulgarian,English (US),Spanish (Mexico),French (France),Porguguese,Russian,Serbian,Chinese
+key,ar,bg,en-US,es-MX,fr-FR,pt-PT,ru-RU,sr,zh
+alcohol,,,alcohol
+appetite_loss,,,Loss of appetite
+blood_in,,,Blood in:
+brown,,,brown
+burn,,,A burn
+burning_sensation,,,Burning Sensation,Sensación de quemazón,Sensation de brûlement
+choking,,,Choking because of an object stuck in throat
+constipation,,,Constipation
+cough,,,Cough
+cramps,,,Cramps,Calambres,Des crampes
+diarrhea,,,Diarrhea
+difficulty_breathing,,,Diffuculty Breathing
+diffused,,,Diffused,General,Diffuse
+dizziness,,,Dizziness
+drugs,,,drugs
+emergency_triage_questionnaire,,,Emergency Triage Questionnaire,Emergencia Cuestionario de Triage,Urgence Questionnaire de Triage
+fainting,,,Fainting/loss of consciousness
+fatigue,,,Fatigue
+fever,,,Fever
+green,,,green
+how_intense_is_pain,,,How intense is your pain on a scale from 1 to 10?,¿Qué tan fuerte si su dolor en una escala del 1 al 10?,Indiquez l'intensité de votre douleur de 1 a 10?
+intoxication_with,,,Intoxication with:
+itching,,,Itching,Comezón,Démangeaison
+language,,,Language: English,Idioma: Español,Langue: Français
+localized,,,Localized
+nausea,,,Nausea
+numbness,,,Numbness
+pain,,,Pain,Tieni un dolor,Une douleur
+pain_scale,,,Tolerable = 1-3   Unbearable = 10,Tolerable = 1-3   Insoportable = 10,Tolérable = 1-3   Insupportable = 10
+palpitations,,,Palpitations
+poison,,,poison (ex: household products)
+pressure,,,Pressure,Opresión,Une pression
+stabbing,,,Stabbing
+stool_desc,,,stool (black stool or red blood with stool)
+swelling,,,Swelling of one or more limbs
+tightness,,,Tightness,Punzadas,Un Serrement
+urine,,,Urine
+vomiting,,,Vomiting
+weight_loss,,,Loss of weight
+what_is_the_reason,,,What is the reason for your consultation? Please select the conditions that describe your situation the best,"¿Cuál es la razón de su consulta? Por favor, seleccione las condiciones que describen su situación lo mejor",Quelle est votre raison de consultation? S'il vous plaît choisir les conditions qui décrivent votre situation meilleure
+white,,,white
+with_secretions,,,with secretions
+yellow,,,yellow

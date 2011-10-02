@@ -26,3 +26,7 @@
 .indent {
   margin-left: 50px;
 }
+
+img {
+  border-style: none;
+}

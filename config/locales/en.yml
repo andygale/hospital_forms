@@ -1,47 +1,167 @@
-# Sample localization file for English. Add more files in this directory for other locales.
-# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+--- 
+zh: {}
 
-en-US:
-  emergency_triage_questionnaire: "Emergency Triage Questionnaire"
+es-MX: 
+  tightness: Punzadas
+  pain: Tieni un dolor
+  pain_scale: Tolerable = 1-3   Insoportable = 10
+  language: "Idioma: Espa\xC3\xB1ol"
+  what_is_the_reason: "\xC2\xBFCu\xC3\xA1l es la raz\xC3\xB3n de su consulta? Por favor, seleccione las condiciones que describen su situaci\xC3\xB3n lo mejor"
+  pressure: "Opresi\xC3\xB3n"
+  emergency_triage_questionnaire: Emergencia Cuestionario de Triage
+  diffused: General
+  burning_sensation: "Sensaci\xC3\xB3n de quemaz\xC3\xB3n"
+  itching: "Comez\xC3\xB3n"
+  how_intense_is_pain: "\xC2\xBFQu\xC3\xA9 tan fuerte si su dolor en una escala del 1 al 10?"
+  cramps: Calambres
+ru-RU: {}
+
+bg: 
+  white: ""
+  fatigue: ""
+  constipation: ""
+  tightness: ""
+  swelling: ""
+  cough: ""
+  with_secretions: ""
+  pain: ""
+  weight_loss: ""
+  pain_scale: ""
+  alcohol: ""
+  stabbing: ""
+  nausea: ""
+  language: ""
+  intoxication_with: ""
+  burn: ""
+  brown: ""
+  appetite_loss: ""
+  what_is_the_reason: ""
+  vomiting: ""
+  pressure: ""
+  green: ""
+  fainting: ""
+  dizziness: ""
+  choking: ""
+  fever: ""
+  emergency_triage_questionnaire: ""
+  diffused: ""
+  urine: ""
+  burning_sensation: ""
+  palpitations: ""
+  diarrhea: ""
+  yellow: ""
+  stool_desc: ""
+  localized: ""
+  itching: ""
+  how_intense_is_pain: ""
+  poison: ""
+  numbness: ""
+  drugs: ""
+  difficulty_breathing: ""
+  cramps: ""
+  blood_in: ""
+pt-PT: {}
+
+fr-FR: 
+  tightness: Un Serrement
+  pain: Une douleur
+  pain_scale: "Tol\xC3\xA9rable = 1-3   Insupportable = 10"
+  language: "Langue: Fran\xC3\xA7ais"
+  what_is_the_reason: "Quelle est votre raison de consultation? S'il vous pla\xC3\xAEt choisir les conditions qui d\xC3\xA9crivent votre situation meilleure"
+  pressure: Une pression
+  emergency_triage_questionnaire: Urgence Questionnaire de Triage
+  diffused: Diffuse
+  burning_sensation: "Sensation de br\xC3\xBBlement"
+  itching: "D\xC3\xA9mangeaison"
+  how_intense_is_pain: "Indiquez l'intensit\xC3\xA9 de votre douleur de 1 a 10?"
+  cramps: Des crampes
+en-US: 
+  white: white
+  fatigue: Fatigue
+  constipation: Constipation
+  tightness: Tightness
+  swelling: Swelling of one or more limbs
+  cough: Cough
+  with_secretions: with secretions
+  pain: Pain
+  weight_loss: Loss of weight
+  pain_scale: Tolerable = 1-3   Unbearable = 10
+  alcohol: alcohol
+  stabbing: Stabbing
+  nausea: Nausea
   language: "Language: English"
-  what_is_the_reason: "What is the reason for your consultation? Please select the conditions that describe your situation the best"
-  pain: "Pain"
-  diffused: "Diffused"
-  localized_stabbing: "Localized Stabbing"
-  cramps: "Cramps"
-  tightness: "Tightness"
-  pressure: "Pressure"
-  how_intense_is_pain: "How intense if your pain on a scale from 1 to 10?"
-  pain_scale: "Tolerable = 1-3   Unbearable = 10"
-  burning_sensation: "Burning Sensation"
-  itching: "Itching"
-  
-es-MX:
-  emergency_triage_questionnaire: "Emergencia Cuestionario de Triage"
-  language: "Idioma: Español"
-  what_is_the_reason: "¿Cuál es la razón de su consulta? Por favor, seleccione las condiciones que describen su situación lo mejor"
-  pain: "Tieni un dolor"
-  diffused: "General"
-  localized_stabbing: "localizada"
-  cramps: "Calambres"
-  tightness: "Punzadas"
-  pressure: "Opresión"
-  how_intense_is_pain: "¿Qué tan fuerte si su dolor en una escala del 1 al 10?"
-  pain_scale: "Tolerable = 1-3   Insoportable = 10"
-  burning_sensation: "Sensación de quemazón"
-  itching: "Comezón"
+  intoxication_with: "Intoxication with:"
+  burn: A burn
+  brown: brown
+  appetite_loss: Loss of appetite
+  what_is_the_reason: What is the reason for your consultation? Please select the conditions that describe your situation the best
+  vomiting: Vomiting
+  pressure: Pressure
+  green: green
+  fainting: Fainting/loss of consciousness
+  dizziness: Dizziness
+  choking: Choking because of an object stuck in throat
+  fever: Fever
+  emergency_triage_questionnaire: Emergency Triage Questionnaire
+  diffused: Diffused
+  urine: Urine
+  burning_sensation: Burning Sensation
+  palpitations: Palpitations
+  diarrhea: Diarrhea
+  yellow: yellow
+  stool_desc: stool (black stool or red blood with stool)
+  localized: Localized
+  itching: Itching
+  how_intense_is_pain: How intense is your pain on a scale from 1 to 10?
+  poison: "poison (ex: household products)"
+  numbness: Numbness
+  drugs: drugs
+  difficulty_breathing: Diffuculty Breathing
+  cramps: Cramps
+  blood_in: "Blood in:"
+ar: 
+  white: ""
+  fatigue: ""
+  constipation: ""
+  tightness: ""
+  swelling: ""
+  cough: ""
+  with_secretions: ""
+  pain: ""
+  weight_loss: ""
+  pain_scale: ""
+  alcohol: ""
+  stabbing: ""
+  nausea: ""
+  language: ""
+  intoxication_with: ""
+  burn: ""
+  brown: ""
+  appetite_loss: ""
+  what_is_the_reason: ""
+  vomiting: ""
+  pressure: ""
+  green: ""
+  fainting: ""
+  dizziness: ""
+  choking: ""
+  fever: ""
+  emergency_triage_questionnaire: ""
+  diffused: ""
+  urine: ""
+  burning_sensation: ""
+  palpitations: ""
+  diarrhea: ""
+  yellow: ""
+  stool_desc: ""
+  localized: ""
+  itching: ""
+  how_intense_is_pain: ""
+  poison: ""
+  numbness: ""
+  drugs: ""
+  difficulty_breathing: ""
+  cramps: ""
+  blood_in: ""
+sr: {}
 
-fr-FR:
-  emergency_triage_questionnaire: "Urgence Questionnaire de Triage"
-  language: "Langue: Français"
-  what_is_the_reason: "Quelle est votre raison de consultation? S'il vous plaît choisir les conditions qui décrivent votre situation meilleure"
-  pain: "Une douleur"
-  diffused: "Diffuse"
-  localized_stabbing: "localisé"
-  cramps: "Des crampes"
-  tightness: "Un Serrement"
-  pressure: "Une pression"
-  how_intense_is_pain: "Indiquez l'intensité de votre douleur de 1 a 10?"
-  pain_scale: "Tolérable = 1-3   Insupportable = 10"
-  burning_sensation: "Sensation de brûlement"
-  itching: "Démangeaison"
