@@ -4,5 +4,6 @@ heroku deploy:
 RAILS_ENV=production bundle exec rake assets:precompile
 git commit -a -m "updating precompiled assets"
 git push heroku master
+
 http://speaksafecare.heroku.com
 http://speaksafecare.dyndns.org
