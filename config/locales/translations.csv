@@ -1,45 +1,45 @@
 ,Arabic,Bulgarian,English (US),Spanish (Mexico),French (France),Porguguese,Russian,Serbian,Chinese
 key,ar,bg,en-US,es-MX,fr-FR,pt-PT,ru-RU,sr,zh
-alcohol,,,alcohol
-appetite_loss,,,Loss of appetite
-blood_in,,,Blood in:
-brown,,,brown
-burn,,,A burn
-burning_sensation,,,Burning Sensation,Sensación de quemazón,Sensation de brûlement
-choking,,,Choking because of an object stuck in throat
-constipation,,,Constipation
-cough,,,Cough
-cramps,,,Cramps,Calambres,Des crampes
-diarrhea,,,Diarrhea
-difficulty_breathing,,,Diffuculty Breathing
-diffused,,,Diffused,General,Diffuse
-dizziness,,,Dizziness
-drugs,,,drugs
-emergency_triage_questionnaire,,,Emergency Triage Questionnaire,Emergencia Cuestionario de Triage,Urgence Questionnaire de Triage
-fainting,,,Fainting/loss of consciousness
-fatigue,,,Fatigue
-fever,,,Fever
-green,,,green
-how_intense_is_pain,,,How intense is your pain on a scale from 1 to 10?,¿Qué tan fuerte si su dolor en una escala del 1 al 10?,Indiquez l'intensité de votre douleur de 1 a 10?
-intoxication_with,,,Intoxication with:
-itching,,,Itching,Comezón,Démangeaison
-language,,,Language: English,Idioma: Español,Langue: Français
-localized,,,Localized
-nausea,,,Nausea
-numbness,,,Numbness
-pain,,,Pain,Tieni un dolor,Une douleur
-pain_scale,,,Tolerable = 1-3   Unbearable = 10,Tolerable = 1-3   Insoportable = 10,Tolérable = 1-3   Insupportable = 10
-palpitations,,,Palpitations
-poison,,,poison (ex: household products)
-pressure,,,Pressure,Opresión,Une pression
-stabbing,,,Stabbing
-stool_desc,,,stool (black stool or red blood with stool)
-swelling,,,Swelling of one or more limbs
-tightness,,,Tightness,Punzadas,Un Serrement
-urine,,,Urine
-vomiting,,,Vomiting
-weight_loss,,,Loss of weight
-what_is_the_reason,,,What is the reason for your consultation? Please select the conditions that describe your situation the best,"¿Cuál es la razón de su consulta? Por favor, seleccione las condiciones que describen su situación lo mejor",Quelle est votre raison de consultation? S'il vous plaît choisir les conditions qui décrivent votre situation meilleure
-white,,,white
-with_secretions,,,with secretions
-yellow,,,yellow
+alcohol,كحول,алкохол,alcohol,alcohol,l'alcool,álcool,алкоголь,алкохол,酒精
+appetite_loss,فقدان الشهية,Загуба на апетит,Loss of appetite,Pérdida del apetito,Perdida del apetito,Perda de apetite,Потеря аппетита,Губитак апетита,食欲不振
+blood_in,الدم في :,Кръв в:,Blood in:,Sangre en:,Sangre fr:,Sangue em:,Кровь в:,Крв у:,血：
+brown,أسمر,кафяв,brown,marrón,Marrón,marrom,коричневый,браон,棕色
+burn,وحرق,Едно изгаряне,A burn,Una quemadura,Una quemadura,Uma queimadura,Сжечь,Гори,烧伤
+burning_sensation,حرقان,Усещане за парене,Burning Sensation,Sensación de quemazón,Sensation de brûlement,Sensação de ardor,Ощущение жжения,Пецкање,烧灼感
+choking,الاختناق بسبب كائن عالقا في الحلق,"Задавяне, тъй като на обект, заседнало в гърлото",Choking because of an object stuck in throat,Asfixia a causa de un objeto atorado en la garganta,Asfixia une causa de l'ONU objeto atorado fr La Garganta,Asfixia por causa de um objeto preso na garganta,Задыхаясь из-за объект застрял в горле,Гушење због објекта заглављен у грлу,窒息，因为在鲠在喉的对象
+constipation,الإمساك,Запек,Constipation,Estreñimiento,Estreñimiento,Constipação,Запор,Затвор,便秘
+cough,سعال,Кашлица,Cough,Tos,Tos,Tosse,Кашель,Кашаљ,咳嗽
+cramps,تشنجات,Спазми,Cramps,Calambres,Des crampes,Cólicas,Колики,Грчеви,抽筋
+diarrhea,الإسهال,Диария,Diarrhea,Diarrea,Diarrea,Diarréia,Понос,Пролив,腹泻
+difficulty_breathing,Diffuculty التنفس,Diffuculty дишане,Diffuculty Breathing,Diffuculty respiración,Diffuculty respiración,Respirar Diffuculty,Diffuculty Дыхание,Диффуцулти дисање,Diffuculty呼吸
+diffused,منتشر,Diffused,Diffused,General,Diffuse,Difuso,Диффузный,Дифузне,扩散
+dizziness,دوخة,Виене на свят,Dizziness,Mareo,Marebbe,Tontura,Головокружение,Вртоглавица,头晕
+drugs,المخدرات,наркотици,drugs,las drogas,Las drogas,drogas,наркотиков,дроге,药物
+emergency_triage_questionnaire,الطوارئ -- استبيان الفرز,Аварийно - Triage Въпросник,Emergency - Triage Questionnaire,Emergencia - Cuestionario de Triage,Urgence - Questionnaire de Triage,Emergência - Questionário de Triagem,Чрезвычайная - Сортировка Анкета,Хитне - Триаге Упитник,紧急 - 分流问卷
+fainting,الإغماء / فقدان الوعي,Прилошаване / загуба на съзнание,Fainting/loss of consciousness,Desmayos / pérdida de la conciencia,Desmayos / Perdida de la conciencia,Desmaio / perda de consciência,Обморок / потеря сознания,Несвестица / губитак свести,昏厥/意识丧失
+fatigue,تعب,Умора,Fatigue,Fatiga,Fatiga,Fadiga,Усталость,Умор,疲劳
+fever,حمى,Треска,Fever,Fiebre,Fiebre,Febre,Лихорадка,Грозница,发烧
+green,أخضر,зелен,green,verde,verde,verde,зеленый,зелена,绿色
+how_intense_is_pain,كيف هو الألم الشديد بك على مقياس من 1 إلى 10؟,Колко интензивна е болката по скала от 1 до 10?,How intense is your pain on a scale from 1 to 10?,¿Qué tan fuerte es su dolor en una escala del 1 al 10?,Indiquez l'intensité de votre douleur de 1 a 10?,Quão intensa é a sua dor numa escala de 1 a 10?,Как интенсивнее ваша боль по шкале от 1 до 10?,Како је ваш интензиван бол на скали од 1 до 10?,你从1到10分的痛苦是多么激烈？
+intoxication_with,التسمم مع :,Интоксикация с:,Intoxication with:,Intoxicación con:,Intoxicación con:,Intoxicação com:,Интоксикация с:,Интоксикација са:,药物中毒：
+itching,الحكة,Сърбеж,Itching,Comezón,Démangeaison,Prurido,Зудящий,Свраб,瘙痒
+language,اللغة : الانكليزية,Език: английски,Language: English,Idioma: Español,Langue: Français,Idioma: Inglês,Язык: английский,Језик: енглески,语言：英语
+localized,المترجمة,Локализирани,Localized,Localizada,Localizada,Localizada,Локализованный,Локализовани,本地化
+nausea,غثيان,Гадене,Nausea,Náusea,Nausées,Náusea,Тошнота,Мучнина,恶心
+numbness,خدر,Скованост,Numbness,Entumecimiento,Entumecimiento,Entorpecimento,Онемение,Утрнулост,麻木
+pain,ألم,Болка,Pain,Tiene dolor,Une douleur,Dor,Боль,Бол,疼痛
+pain_scale,1-3 لا يطاق تحمله = = 10,Допустим = 1-3 Непоносимата = 10,Tolerable = 1-3   Unbearable = 10,Tolerable = 1-3   Insoportable = 10,Tolérable = 1-3   Insupportable = 10,Tolerável = 1-3 Insustentável = 10,Допустимая = 1-3 Невыносимая = 10,Толерисати = 1-3 Неподношљива = 10,容忍= 1-3中不能承受之= 10
+palpitations,خفقان,Сърцебиене,Palpitations,Palpitaciones,Palpitaciones,Palpitações,Сердцебиение,Палпитације,心悸
+poison,السم (مثلا : المنتجات المنزلية),отрова (напр. домакински продукти),poison (ex: household products),veneno (por ejemplo: productos para el hogar),Veneno (por ejemplo: Productos para el hogar),poison (ex: produtos de uso doméstico),яд (например: товары для дома),отров (нпр. производа за домаћинство),毒药（例如：家用产品）
+pressure,الضغط,Налягане,Pressure,Presión,Une pression,Pressão,Давление,Притисак,压力
+stabbing,طعن,Stabbing,Stabbing,Puñalada,Puñalada,Stabbing,Stabbing,Убадање,刺
+stool_desc,البراز (البراز أسود أو أحمر الدم مع البراز),изпражненията (черен изпражнения или червена кръв с изпражненията),stool (black stool or red blood with stool),las heces (materia fecal de color negro o rojo sangre con las heces),Las heces (materia fécales de couleur nègre o Rojo Sangre con heces las),fezes (fezes pretas ou vermelhas do sangue com fezes),стул (черный стул или красной крови с калом),столица (црна столица или црвена крвна са столица),大便（大便黑色或红色的血与大便）
+swelling,تورم واحد أو أكثر أطرافه,Подуване на един или повече крайници,Swelling of one or more limbs,Inflamación de una o más extremidades,Inflamación de una más o extremidades,Inchaço de um ou mais membros,Отек одной или нескольких конечностей,Отицање једног или више екстремитета,一个或多个肢体肿胀
+tightness,ضيق,Стягане,Tightness,Punzadas,Un Serrement,Aperto,Напряженность,Стегнутост,紧张
+urine,بول,Урина,Urine,Orina,Orina,Urina,Моча,Урин,尿液
+vomiting,قيء,Повръщане,Vomiting,Vómitos,Vómitos,Vômitos,Рвота,Повраћање,呕吐
+weight_loss,فقدان الوزن,Загубата на тегло,Loss of weight,Pérdida de peso,Perdida de pesos,Perda de peso,Потеря веса,Губитак тежине,失重
+what_is_the_reason,ما هو السبب الخاص للتشاور؟ يرجى تحديد الظروف التي تصف الوضع الخاص بك أفضل,"Каква е причината за вашата консултация? Моля, изберете условия, които описват положението на най-добрите",What is the reason for your consultation? Please select the conditions that describe your situation the best,"¿Cuál es la razón de su consulta? Por favor, seleccione las condiciones que describen su situación lo mejor",Quelle est votre raison de consultation? S'il vous plaît choisir les conditions qui décrivent votre situation meilleure,"Qual é o motivo de sua consulta? Por favor, selecione as condições que descrevem a sua situação o melhor","Что является причиной Вашей консультации? Пожалуйста, выберите условия, опишите ситуацию лучших",Шта је разлог за консултације? Молимо Вас да одаберете услова које описују вашу ситуацију најбоље,您咨询的原因是什么？请选择条件，说明您的情况最好的
+white,أبيض,бял,white,blanco,blanco,branco,белый,бели,白
+with_secretions,مع افرازات,със секрети,with secretions,con las secreciones,con las secreciones,com secreções,с выделениями,са секретима,分泌物
+yellow,أصفر,жълт,yellow,amarillo,amarillo,amarelo,желтый,жута,黄色

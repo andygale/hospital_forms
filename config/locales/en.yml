@@ -1,80 +1,549 @@
 --- 
-zh: {}
+zh: 
+  white: !binary |
+    55m9
+
+  fatigue: !binary |
+    55ay5Yqz
+
+  constipation: !binary |
+    5L6/56eY
+
+  tightness: !binary |
+    57Sn5byg
+
+  swelling: !binary |
+    5LiA5Liq5oiW5aSa5Liq6IKi5L2T6IK/6IOA
+
+  cough: !binary |
+    5ZKz5Ze9
+
+  with_secretions: !binary |
+    5YiG5rOM54mp
+
+  pain: !binary |
+    55a855eb
+
+  weight_loss: !binary |
+    5aSx6YeN
+
+  pain_scale: !binary |
+    5a655b+NPSAxLTPkuK3kuI3og73mib/lj5fkuYs9IDEw
+
+  alcohol: !binary |
+    6YWS57K+
+
+  stabbing: !binary |
+    5Yi6
+
+  nausea: !binary |
+    5oG25b+D
+
+  language: !binary |
+    6K+t6KiA77ya6Iux6K+t
+
+  intoxication_with: !binary |
+    6I2v54mp5Lit5q+S77ya
+
+  burn: !binary |
+    54On5Lyk
+
+  brown: !binary |
+    5qOV6Imy
+
+  appetite_loss: !binary |
+    6aOf5qyy5LiN5oyv
+
+  what_is_the_reason: !binary |
+    5oKo5ZKo6K+i55qE5Y6f5Zug5piv5LuA5LmI77yf6K+36YCJ5oup5p2h5Lu2
+    77yM6K+05piO5oKo55qE5oOF5Ya15pyA5aW955qE
+
+  vomiting: !binary |
+    5ZGV5ZCQ
+
+  pressure: !binary |
+    5Y6L5Yqb
+
+  green: !binary |
+    57u/6Imy
+
+  fainting: !binary |
+    5piP5Y6lL+aEj+ivhuS4p+WksQ==
+
+  dizziness: !binary |
+    5aS05pmV
+
+  choking: !binary |
+    56qS5oGv77yM5Zug5Li65Zyo6bKg5Zyo5ZaJ55qE5a+56LGh
+
+  fever: !binary |
+    5Y+R54On
+
+  emergency_triage_questionnaire: !binary |
+    57Sn5oClIC0g5YiG5rWB6Zeu5Y23
+
+  diffused: !binary |
+    5omp5pWj
+
+  urine: !binary |
+    5bC/5ray
+
+  burning_sensation: !binary |
+    54On54G85oSf
+
+  palpitations: !binary |
+    5b+D5oK4
+
+  diarrhea: !binary |
+    6IW55rO7
+
+  yellow: !binary |
+    6buE6Imy
+
+  stool_desc: !binary |
+    5aSn5L6/77yI5aSn5L6/6buR6Imy5oiW57qi6Imy55qE6KGA5LiO5aSn5L6/
+    77yJ
+
+  localized: !binary |
+    5pys5Zyw5YyW
+
+  itching: !binary |
+    55iZ55eS
+
+  how_intense_is_pain: !binary |
+    5L2g5LuOMeWIsDEw5YiG55qE55eb6Ium5piv5aSa5LmI5r+A54OI77yf
+
+  poison: !binary |
+    5q+S6I2v77yI5L6L5aaC77ya5a6255So5Lqn5ZOB77yJ
+
+  numbness: !binary |
+    6bq75pyo
+
+  drugs: !binary |
+    6I2v54mp
+
+  difficulty_breathing: !binary |
+    RGlmZnVjdWx0eeWRvOWQuA==
+
+  cramps: !binary |
+    5oq9562L
+
+  blood_in: !binary |
+    6KGA77ya
 
 es-MX: 
+  white: blanco
+  fatigue: Fatiga
+  constipation: "Estre\xC3\xB1imiento"
   tightness: Punzadas
-  pain: Tieni un dolor
+  swelling: "Inflamaci\xC3\xB3n de una o m\xC3\xA1s extremidades"
+  cough: Tos
+  with_secretions: con las secreciones
+  pain: Tiene dolor
+  weight_loss: "P\xC3\xA9rdida de peso"
   pain_scale: Tolerable = 1-3   Insoportable = 10
+  alcohol: alcohol
+  stabbing: "Pu\xC3\xB1alada"
+  nausea: "N\xC3\xA1usea"
   language: "Idioma: Espa\xC3\xB1ol"
+  intoxication_with: "Intoxicaci\xC3\xB3n con:"
+  burn: Una quemadura
+  brown: "marr\xC3\xB3n"
+  appetite_loss: "P\xC3\xA9rdida del apetito"
   what_is_the_reason: "\xC2\xBFCu\xC3\xA1l es la raz\xC3\xB3n de su consulta? Por favor, seleccione las condiciones que describen su situaci\xC3\xB3n lo mejor"
-  pressure: "Opresi\xC3\xB3n"
-  emergency_triage_questionnaire: Emergencia Cuestionario de Triage
+  vomiting: "V\xC3\xB3mitos"
+  pressure: "Presi\xC3\xB3n"
+  green: verde
+  fainting: "Desmayos / p\xC3\xA9rdida de la conciencia"
+  dizziness: Mareo
+  choking: Asfixia a causa de un objeto atorado en la garganta
+  fever: Fiebre
+  emergency_triage_questionnaire: Emergencia - Cuestionario de Triage
   diffused: General
+  urine: Orina
   burning_sensation: "Sensaci\xC3\xB3n de quemaz\xC3\xB3n"
+  palpitations: Palpitaciones
+  diarrhea: Diarrea
+  yellow: amarillo
+  stool_desc: las heces (materia fecal de color negro o rojo sangre con las heces)
+  localized: Localizada
   itching: "Comez\xC3\xB3n"
-  how_intense_is_pain: "\xC2\xBFQu\xC3\xA9 tan fuerte si su dolor en una escala del 1 al 10?"
+  how_intense_is_pain: "\xC2\xBFQu\xC3\xA9 tan fuerte es su dolor en una escala del 1 al 10?"
+  poison: "veneno (por ejemplo: productos para el hogar)"
+  numbness: Entumecimiento
+  drugs: las drogas
+  difficulty_breathing: "Diffuculty respiraci\xC3\xB3n"
   cramps: Calambres
-ru-RU: {}
+  blood_in: "Sangre en:"
+ru-RU: 
+  white: !binary |
+    0LHQtdC70YvQuQ==
+
+  fatigue: !binary |
+    0KPRgdGC0LDQu9C+0YHRgtGM
+
+  constipation: !binary |
+    0JfQsNC/0L7RgA==
+
+  tightness: !binary |
+    0J3QsNC/0YDRj9C20LXQvdC90L7RgdGC0Yw=
+
+  swelling: !binary |
+    0J7RgtC10Log0L7QtNC90L7QuSDQuNC70Lgg0L3QtdGB0LrQvtC70YzQutC4
+    0YUg0LrQvtC90LXRh9C90L7RgdGC0LXQuQ==
+
+  cough: !binary |
+    0JrQsNGI0LXQu9GM
+
+  with_secretions: !binary |
+    0YEg0LLRi9C00LXQu9C10L3QuNGP0LzQuA==
+
+  pain: !binary |
+    0JHQvtC70Yw=
+
+  weight_loss: !binary |
+    0J/QvtGC0LXRgNGPINCy0LXRgdCw
+
+  pain_scale: !binary |
+    0JTQvtC/0YPRgdGC0LjQvNCw0Y8gPSAxLTMg0J3QtdCy0YvQvdC+0YHQuNC8
+    0LDRjyA9IDEw
+
+  alcohol: !binary |
+    0LDQu9C60L7Qs9C+0LvRjA==
+
+  stabbing: Stabbing
+  nausea: !binary |
+    0KLQvtGI0L3QvtGC0LA=
+
+  language: !binary |
+    0K/Qt9GL0Lo6INCw0L3Qs9C70LjQudGB0LrQuNC5
+
+  intoxication_with: !binary |
+    0JjQvdGC0L7QutGB0LjQutCw0YbQuNGPINGBOg==
+
+  burn: !binary |
+    0KHQttC10YfRjA==
+
+  brown: !binary |
+    0LrQvtGA0LjRh9C90LXQstGL0Lk=
+
+  appetite_loss: !binary |
+    0J/QvtGC0LXRgNGPINCw0L/Qv9C10YLQuNGC0LA=
+
+  what_is_the_reason: !binary |
+    0KfRgtC+INGP0LLQu9GP0LXRgtGB0Y8g0L/RgNC40YfQuNC90L7QuSDQktCw
+    0YjQtdC5INC60L7QvdGB0YPQu9GM0YLQsNGG0LjQuD8g0J/QvtC20LDQu9GD
+    0LnRgdGC0LAsINCy0YvQsdC10YDQuNGC0LUg0YPRgdC70L7QstC40Y8sINC+
+    0L/QuNGI0LjRgtC1INGB0LjRgtGD0LDRhtC40Y4g0LvRg9GH0YjQuNGF
+
+  vomiting: !binary |
+    0KDQstC+0YLQsA==
+
+  pressure: !binary |
+    0JTQsNCy0LvQtdC90LjQtQ==
+
+  green: !binary |
+    0LfQtdC70LXQvdGL0Lk=
+
+  fainting: !binary |
+    0J7QsdC80L7RgNC+0LogLyDQv9C+0YLQtdGA0Y8g0YHQvtC30L3QsNC90LjR
+    jw==
+
+  dizziness: !binary |
+    0JPQvtC70L7QstC+0LrRgNGD0LbQtdC90LjQtQ==
+
+  choking: !binary |
+    0JfQsNC00YvRhdCw0Y/RgdGMINC40Lct0LfQsCDQvtCx0YrQtdC60YIg0LfQ
+    sNGB0YLRgNGP0Lsg0LIg0LPQvtGA0LvQtQ==
+
+  fever: !binary |
+    0JvQuNGF0L7RgNCw0LTQutCw
+
+  emergency_triage_questionnaire: !binary |
+    0KfRgNC10LfQstGL0YfQsNC50L3QsNGPIC0g0KHQvtGA0YLQuNGA0L7QstC6
+    0LAg0JDQvdC60LXRgtCw
+
+  diffused: !binary |
+    0JTQuNGE0YTRg9C30L3Ri9C5
+
+  urine: !binary |
+    0JzQvtGH0LA=
+
+  burning_sensation: !binary |
+    0J7RidGD0YnQtdC90LjQtSDQttC20LXQvdC40Y8=
+
+  palpitations: !binary |
+    0KHQtdGA0LTRhtC10LHQuNC10L3QuNC1
+
+  diarrhea: !binary |
+    0J/QvtC90L7RgQ==
+
+  yellow: !binary |
+    0LbQtdC70YLRi9C5
+
+  stool_desc: !binary |
+    0YHRgtGD0LsgKNGH0LXRgNC90YvQuSDRgdGC0YPQuyDQuNC70Lgg0LrRgNCw
+    0YHQvdC+0Lkg0LrRgNC+0LLQuCDRgSDQutCw0LvQvtC8KQ==
+
+  localized: !binary |
+    0JvQvtC60LDQu9C40LfQvtCy0LDQvdC90YvQuQ==
+
+  itching: !binary |
+    0JfRg9C00Y/RidC40Lk=
+
+  how_intense_is_pain: !binary |
+    0JrQsNC6INC40L3RgtC10L3RgdC40LLQvdC10LUg0LLQsNGI0LAg0LHQvtC7
+    0Ywg0L/QviDRiNC60LDQu9C1INC+0YIgMSDQtNC+IDEwPw==
+
+  poison: !binary |
+    0Y/QtCAo0L3QsNC/0YDQuNC80LXRgDog0YLQvtCy0LDRgNGLINC00LvRjyDQ
+    tNC+0LzQsCk=
+
+  numbness: !binary |
+    0J7QvdC10LzQtdC90LjQtQ==
+
+  drugs: !binary |
+    0L3QsNGA0LrQvtGC0LjQutC+0LI=
+
+  difficulty_breathing: !binary |
+    RGlmZnVjdWx0eSDQlNGL0YXQsNC90LjQtQ==
+
+  cramps: !binary |
+    0JrQvtC70LjQutC4
+
+  blood_in: !binary |
+    0JrRgNC+0LLRjCDQsjo=
 
 bg: 
-  white: ""
-  fatigue: ""
-  constipation: ""
-  tightness: ""
-  swelling: ""
-  cough: ""
-  with_secretions: ""
-  pain: ""
-  weight_loss: ""
-  pain_scale: ""
-  alcohol: ""
-  stabbing: ""
-  nausea: ""
-  language: ""
-  intoxication_with: ""
-  burn: ""
-  brown: ""
-  appetite_loss: ""
-  what_is_the_reason: ""
-  vomiting: ""
-  pressure: ""
-  green: ""
-  fainting: ""
-  dizziness: ""
-  choking: ""
-  fever: ""
-  emergency_triage_questionnaire: ""
-  diffused: ""
-  urine: ""
-  burning_sensation: ""
-  palpitations: ""
-  diarrhea: ""
-  yellow: ""
-  stool_desc: ""
-  localized: ""
-  itching: ""
-  how_intense_is_pain: ""
-  poison: ""
-  numbness: ""
-  drugs: ""
-  difficulty_breathing: ""
-  cramps: ""
-  blood_in: ""
-pt-PT: {}
+  white: !binary |
+    0LHRj9C7
 
+  fatigue: !binary |
+    0KPQvNC+0YDQsA==
+
+  constipation: !binary |
+    0JfQsNC/0LXQug==
+
+  tightness: !binary |
+    0KHRgtGP0LPQsNC90LU=
+
+  swelling: !binary |
+    0J/QvtC00YPQstCw0L3QtSDQvdCwINC10LTQuNC9INC40LvQuCDQv9C+0LLQ
+    tdGH0LUg0LrRgNCw0LnQvdC40YbQuA==
+
+  cough: !binary |
+    0JrQsNGI0LvQuNGG0LA=
+
+  with_secretions: !binary |
+    0YHRitGBINGB0LXQutGA0LXRgtC4
+
+  pain: !binary |
+    0JHQvtC70LrQsA==
+
+  weight_loss: !binary |
+    0JfQsNCz0YPQsdCw0YLQsCDQvdCwINGC0LXQs9C70L4=
+
+  pain_scale: !binary |
+    0JTQvtC/0YPRgdGC0LjQvCA9IDEtMyDQndC10L/QvtC90L7RgdC40LzQsNGC
+    0LAgPSAxMA==
+
+  alcohol: !binary |
+    0LDQu9C60L7RhdC+0Ls=
+
+  stabbing: Stabbing
+  nausea: !binary |
+    0JPQsNC00LXQvdC1
+
+  language: !binary |
+    0JXQt9C40Lo6INCw0L3Qs9C70LjQudGB0LrQuA==
+
+  intoxication_with: !binary |
+    0JjQvdGC0L7QutGB0LjQutCw0YbQuNGPINGBOg==
+
+  burn: !binary |
+    0JXQtNC90L4g0LjQt9Cz0LDRgNGP0L3QtQ==
+
+  brown: !binary |
+    0LrQsNGE0Y/Qsg==
+
+  appetite_loss: !binary |
+    0JfQsNCz0YPQsdCwINC90LAg0LDQv9C10YLQuNGC
+
+  what_is_the_reason: !binary |
+    0JrQsNC60LLQsCDQtSDQv9GA0LjRh9C40L3QsNGC0LAg0LfQsCDQstCw0YjQ
+    sNGC0LAg0LrQvtC90YHRg9C70YLQsNGG0LjRjz8g0JzQvtC70Y8sINC40LfQ
+    sdC10YDQtdGC0LUg0YPRgdC70L7QstC40Y8sINC60L7QuNGC0L4g0L7Qv9C4
+    0YHQstCw0YIg0L/QvtC70L7QttC10L3QuNC10YLQviDQvdCwINC90LDQuS3Q
+    tNC+0LHRgNC40YLQtQ==
+
+  vomiting: !binary |
+    0J/QvtCy0YDRitGJ0LDQvdC1
+
+  pressure: !binary |
+    0J3QsNC70Y/Qs9Cw0L3QtQ==
+
+  green: !binary |
+    0LfQtdC70LXQvQ==
+
+  fainting: !binary |
+    0J/RgNC40LvQvtGI0LDQstCw0L3QtSAvINC30LDQs9GD0LHQsCDQvdCwINGB
+    0YrQt9C90LDQvdC40LU=
+
+  dizziness: !binary |
+    0JLQuNC10L3QtSDQvdCwINGB0LLRj9GC
+
+  choking: !binary |
+    0JfQsNC00LDQstGP0L3QtSwg0YLRitC5INC60LDRgtC+INC90LAg0L7QsdC1
+    0LrRgiwg0LfQsNGB0LXQtNC90LDQu9C+INCyINCz0YrRgNC70L7RgtC+
+
+  fever: !binary |
+    0KLRgNC10YHQutCw
+
+  emergency_triage_questionnaire: !binary |
+    0JDQstCw0YDQuNC50L3QviAtIFRyaWFnZSDQktGK0L/RgNC+0YHQvdC40Lo=
+
+  diffused: Diffused
+  urine: !binary |
+    0KPRgNC40L3QsA==
+
+  burning_sensation: !binary |
+    0KPRgdC10YnQsNC90LUg0LfQsCDQv9Cw0YDQtdC90LU=
+
+  palpitations: !binary |
+    0KHRitGA0YbQtdCx0LjQtdC90LU=
+
+  diarrhea: !binary |
+    0JTQuNCw0YDQuNGP
+
+  yellow: !binary |
+    0LbRitC70YI=
+
+  stool_desc: !binary |
+    0LjQt9C/0YDQsNC20L3QtdC90LjRj9GC0LAgKNGH0LXRgNC10L0g0LjQt9C/
+    0YDQsNC20L3QtdC90LjRjyDQuNC70Lgg0YfQtdGA0LLQtdC90LAg0LrRgNGK
+    0LIg0YEg0LjQt9C/0YDQsNC20L3QtdC90LjRj9GC0LAp
+
+  localized: !binary |
+    0JvQvtC60LDQu9C40LfQuNGA0LDQvdC4
+
+  itching: !binary |
+    0KHRitGA0LHQtdC2
+
+  how_intense_is_pain: !binary |
+    0JrQvtC70LrQviDQuNC90YLQtdC90LfQuNCy0L3QsCDQtSDQsdC+0LvQutCw
+    0YLQsCDQv9C+INGB0LrQsNC70LAg0L7RgiAxINC00L4gMTA/
+
+  poison: !binary |
+    0L7RgtGA0L7QstCwICjQvdCw0L/RgC4g0LTQvtC80LDQutC40L3RgdC60Lgg
+    0L/RgNC+0LTRg9C60YLQuCk=
+
+  numbness: !binary |
+    0KHQutC+0LLQsNC90L7RgdGC
+
+  drugs: !binary |
+    0L3QsNGA0LrQvtGC0LjRhtC4
+
+  difficulty_breathing: !binary |
+    RGlmZnVjdWx0eSDQtNC40YjQsNC90LU=
+
+  cramps: !binary |
+    0KHQv9Cw0LfQvNC4
+
+  blood_in: !binary |
+    0JrRgNGK0LIg0LI6
+
+pt-PT: 
+  white: branco
+  fatigue: Fadiga
+  constipation: !binary |
+    Q29uc3RpcGHDp8Ojbw==
+
+  tightness: Aperto
+  swelling: "Incha\xC3\xA7o de um ou mais membros"
+  cough: Tosse
+  with_secretions: "com secre\xC3\xA7\xC3\xB5es"
+  pain: Dor
+  weight_loss: Perda de peso
+  pain_scale: "Toler\xC3\xA1vel = 1-3 Insustent\xC3\xA1vel = 10"
+  alcohol: "\xC3\xA1lcool"
+  stabbing: Stabbing
+  nausea: "N\xC3\xA1usea"
+  language: "Idioma: Ingl\xC3\xAAs"
+  intoxication_with: "Intoxica\xC3\xA7\xC3\xA3o com:"
+  burn: Uma queimadura
+  brown: marrom
+  appetite_loss: Perda de apetite
+  what_is_the_reason: "Qual \xC3\xA9 o motivo de sua consulta? Por favor, selecione as condi\xC3\xA7\xC3\xB5es que descrevem a sua situa\xC3\xA7\xC3\xA3o o melhor"
+  vomiting: "V\xC3\xB4mitos"
+  pressure: "Press\xC3\xA3o"
+  green: verde
+  fainting: "Desmaio / perda de consci\xC3\xAAncia"
+  dizziness: Tontura
+  choking: Asfixia por causa de um objeto preso na garganta
+  fever: Febre
+  emergency_triage_questionnaire: "Emerg\xC3\xAAncia - Question\xC3\xA1rio de Triagem"
+  diffused: Difuso
+  urine: Urina
+  burning_sensation: "Sensa\xC3\xA7\xC3\xA3o de ardor"
+  palpitations: !binary |
+    UGFscGl0YcOnw7Vlcw==
+
+  diarrhea: "Diarr\xC3\xA9ia"
+  yellow: amarelo
+  stool_desc: fezes (fezes pretas ou vermelhas do sangue com fezes)
+  localized: Localizada
+  itching: Prurido
+  how_intense_is_pain: "Qu\xC3\xA3o intensa \xC3\xA9 a sua dor numa escala de 1 a 10?"
+  poison: "poison (ex: produtos de uso dom\xC3\xA9stico)"
+  numbness: Entorpecimento
+  drugs: drogas
+  difficulty_breathing: Respirar Diffuculty
+  cramps: "C\xC3\xB3licas"
+  blood_in: "Sangue em:"
 fr-FR: 
+  white: blanco
+  fatigue: Fatiga
+  constipation: "Estre\xC3\xB1imiento"
   tightness: Un Serrement
+  swelling: "Inflamaci\xC3\xB3n de una m\xC3\xA1s o extremidades"
+  cough: Tos
+  with_secretions: con las secreciones
   pain: Une douleur
+  weight_loss: Perdida de pesos
   pain_scale: "Tol\xC3\xA9rable = 1-3   Insupportable = 10"
+  alcohol: l'alcool
+  stabbing: "Pu\xC3\xB1alada"
+  nausea: "Naus\xC3\xA9es"
   language: "Langue: Fran\xC3\xA7ais"
+  intoxication_with: "Intoxicaci\xC3\xB3n con:"
+  burn: Una quemadura
+  brown: "Marr\xC3\xB3n"
+  appetite_loss: Perdida del apetito
   what_is_the_reason: "Quelle est votre raison de consultation? S'il vous pla\xC3\xAEt choisir les conditions qui d\xC3\xA9crivent votre situation meilleure"
+  vomiting: "V\xC3\xB3mitos"
   pressure: Une pression
-  emergency_triage_questionnaire: Urgence Questionnaire de Triage
+  green: verde
+  fainting: Desmayos / Perdida de la conciencia
+  dizziness: Marebbe
+  choking: Asfixia une causa de l'ONU objeto atorado fr La Garganta
+  fever: Fiebre
+  emergency_triage_questionnaire: Urgence - Questionnaire de Triage
   diffused: Diffuse
+  urine: Orina
   burning_sensation: "Sensation de br\xC3\xBBlement"
+  palpitations: Palpitaciones
+  diarrhea: Diarrea
+  yellow: amarillo
+  stool_desc: "Las heces (materia f\xC3\xA9cales de couleur n\xC3\xA8gre o Rojo Sangre con heces las)"
+  localized: Localizada
   itching: "D\xC3\xA9mangeaison"
   how_intense_is_pain: "Indiquez l'intensit\xC3\xA9 de votre douleur de 1 a 10?"
+  poison: "Veneno (por ejemplo: Productos para el hogar)"
+  numbness: Entumecimiento
+  drugs: Las drogas
+  difficulty_breathing: "Diffuculty respiraci\xC3\xB3n"
   cramps: Des crampes
+  blood_in: "Sangre fr:"
 en-US: 
   white: white
   fatigue: Fatigue
@@ -102,7 +571,7 @@ en-US:
   dizziness: Dizziness
   choking: Choking because of an object stuck in throat
   fever: Fever
-  emergency_triage_questionnaire: Emergency Triage Questionnaire
+  emergency_triage_questionnaire: Emergency - Triage Questionnaire
   diffused: Diffused
   urine: Urine
   burning_sensation: Burning Sensation
@@ -120,48 +589,279 @@ en-US:
   cramps: Cramps
   blood_in: "Blood in:"
 ar: 
-  white: ""
-  fatigue: ""
-  constipation: ""
-  tightness: ""
-  swelling: ""
-  cough: ""
-  with_secretions: ""
-  pain: ""
-  weight_loss: ""
-  pain_scale: ""
-  alcohol: ""
-  stabbing: ""
-  nausea: ""
-  language: ""
-  intoxication_with: ""
-  burn: ""
-  brown: ""
-  appetite_loss: ""
-  what_is_the_reason: ""
-  vomiting: ""
-  pressure: ""
-  green: ""
-  fainting: ""
-  dizziness: ""
-  choking: ""
-  fever: ""
-  emergency_triage_questionnaire: ""
-  diffused: ""
-  urine: ""
-  burning_sensation: ""
-  palpitations: ""
-  diarrhea: ""
-  yellow: ""
-  stool_desc: ""
-  localized: ""
-  itching: ""
-  how_intense_is_pain: ""
-  poison: ""
-  numbness: ""
-  drugs: ""
-  difficulty_breathing: ""
-  cramps: ""
-  blood_in: ""
-sr: {}
+  white: !binary |
+    2KPYqNmK2LY=
+
+  fatigue: !binary |
+    2KrYudio
+
+  constipation: !binary |
+    2KfZhNil2YXYs9in2YM=
+
+  tightness: !binary |
+    2LbZitmC
+
+  swelling: !binary |
+    2KrZiNix2YUg2YjYp9it2K8g2KPZiCDYo9mD2KvYsSDYo9i32LHYp9mB2Yc=
+
+  cough: !binary |
+    2LPYudin2YQ=
+
+  with_secretions: !binary |
+    2YXYuSDYp9mB2LHYp9iy2KfYqg==
+
+  pain: !binary |
+    2KPZhNmF
+
+  weight_loss: !binary |
+    2YHZgtiv2KfZhiDYp9mE2YjYstmG
+
+  pain_scale: !binary |
+    MS0zINmE2Kcg2YrYt9in2YIg2KrYrdmF2YTZhyA9ID0gMTA=
+
+  alcohol: !binary |
+    2YPYrdmI2YQ=
+
+  stabbing: !binary |
+    2LfYudmG
+
+  nausea: !binary |
+    2LrYq9mK2KfZhg==
+
+  language: !binary |
+    2KfZhNmE2LrYqSA6INin2YTYp9mG2YPZhNmK2LLZitip
+
+  intoxication_with: !binary |
+    2KfZhNiq2LPZhdmFINmF2LkgOg==
+
+  burn: !binary |
+    2YjYrdix2YI=
+
+  brown: !binary |
+    2KPYs9mF2LE=
+
+  appetite_loss: !binary |
+    2YHZgtiv2KfZhiDYp9mE2LTZh9mK2Kk=
+
+  what_is_the_reason: !binary |
+    2YXYpyDZh9mIINin2YTYs9io2Kgg2KfZhNiu2KfYtSDZhNmE2KrYtNin2YjY
+    sdifINmK2LHYrNmJINiq2K3Yr9mK2K8g2KfZhNi42LHZiNmBINin2YTYqtmK
+    INiq2LXZgSDYp9mE2YjYtti5INin2YTYrtin2LUg2KjZgyDYo9mB2LbZhA==
+
+  vomiting: !binary |
+    2YLZitih
+
+  pressure: !binary |
+    2KfZhNi22LrYtw==
+
+  green: !binary |
+    2KPYrti22LE=
+
+  fainting: !binary |
+    2KfZhNil2LrZhdin2KEgLyDZgdmC2K/Yp9mGINin2YTZiNi52Yo=
+
+  dizziness: !binary |
+    2K/ZiNiu2Kk=
+
+  choking: !binary |
+    2KfZhNin2K7YqtmG2KfZgiDYqNiz2KjYqCDZg9in2KbZhiDYudin2YTZgtin
+    INmB2Yog2KfZhNit2YTZgg==
+
+  fever: !binary |
+    2K3ZhdmJ
+
+  emergency_triage_questionnaire: !binary |
+    2KfZhNi32YjYp9ix2KYgLS0g2KfYs9iq2KjZitin2YYg2KfZhNmB2LHYsg==
+
+  diffused: !binary |
+    2YXZhtiq2LTYsQ==
+
+  urine: !binary |
+    2KjZiNmE
+
+  burning_sensation: !binary |
+    2K3YsdmC2KfZhg==
+
+  palpitations: !binary |
+    2K7ZgdmC2KfZhg==
+
+  diarrhea: !binary |
+    2KfZhNil2LPZh9in2YQ=
+
+  yellow: !binary |
+    2KPYtdmB2LE=
+
+  stool_desc: !binary |
+    2KfZhNio2LHYp9iyICjYp9mE2KjYsdin2LIg2KPYs9mI2K8g2KPZiCDYo9it
+    2YXYsSDYp9mE2K/ZhSDZhdi5INin2YTYqNix2KfYsik=
+
+  localized: !binary |
+    2KfZhNmF2KrYsdis2YXYqQ==
+
+  itching: !binary |
+    2KfZhNit2YPYqQ==
+
+  how_intense_is_pain: !binary |
+    2YPZitmBINmH2Ygg2KfZhNij2YTZhSDYp9mE2LTYr9mK2K8g2KjZgyDYudmE
+    2Ykg2YXZgtmK2KfYsyDZhdmGIDEg2KXZhNmJIDEw2J8=
+
+  poison: !binary |
+    2KfZhNiz2YUgKNmF2KvZhNinIDog2KfZhNmF2YbYqtis2KfYqiDYp9mE2YXZ
+    htiy2YTZitipKQ==
+
+  numbness: !binary |
+    2K7Yr9ix
+
+  drugs: !binary |
+    2KfZhNmF2K7Yr9ix2KfYqg==
+
+  difficulty_breathing: !binary |
+    RGlmZnVjdWx0eSDYp9mE2KrZhtmB2LM=
+
+  cramps: !binary |
+    2KrYtNmG2KzYp9iq
+
+  blood_in: !binary |
+    2KfZhNiv2YUg2YHZiiA6
+
+sr: 
+  white: !binary |
+    0LHQtdC70Lg=
+
+  fatigue: !binary |
+    0KPQvNC+0YA=
+
+  constipation: !binary |
+    0JfQsNGC0LLQvtGA
+
+  tightness: !binary |
+    0KHRgtC10LPQvdGD0YLQvtGB0YI=
+
+  swelling: !binary |
+    0J7RgtC40YbQsNGa0LUg0ZjQtdC00L3QvtCzINC40LvQuCDQstC40YjQtSDQ
+    tdC60YHRgtGA0LXQvNC40YLQtdGC0LA=
+
+  cough: !binary |
+    0JrQsNGI0LDRmQ==
+
+  with_secretions: !binary |
+    0YHQsCDRgdC10LrRgNC10YLQuNC80LA=
+
+  pain: !binary |
+    0JHQvtC7
+
+  weight_loss: !binary |
+    0JPRg9Cx0LjRgtCw0Log0YLQtdC20LjQvdC1
+
+  pain_scale: !binary |
+    0KLQvtC70LXRgNC40YHQsNGC0LggPSAxLTMg0J3QtdC/0L7QtNC90L7RiNGZ
+    0LjQstCwID0gMTA=
+
+  alcohol: !binary |
+    0LDQu9C60L7RhdC+0Ls=
+
+  stabbing: !binary |
+    0KPQsdCw0LTQsNGa0LU=
+
+  nausea: !binary |
+    0JzRg9GH0L3QuNC90LA=
+
+  language: !binary |
+    0IjQtdC30LjQujog0LXQvdCz0LvQtdGB0LrQuA==
+
+  intoxication_with: !binary |
+    0JjQvdGC0L7QutGB0LjQutCw0YbQuNGY0LAg0YHQsDo=
+
+  burn: !binary |
+    0JPQvtGA0Lg=
+
+  brown: !binary |
+    0LHRgNCw0L7QvQ==
+
+  appetite_loss: !binary |
+    0JPRg9Cx0LjRgtCw0Log0LDQv9C10YLQuNGC0LA=
+
+  what_is_the_reason: !binary |
+    0KjRgtCwINGY0LUg0YDQsNC30LvQvtCzINC30LAg0LrQvtC90YHRg9C70YLQ
+    sNGG0LjRmNC1PyDQnNC+0LvQuNC80L4g0JLQsNGBINC00LAg0L7QtNCw0LHQ
+    tdGA0LXRgtC1INGD0YHQu9C+0LLQsCDQutC+0ZjQtSDQvtC/0LjRgdGD0ZjR
+    gyDQstCw0YjRgyDRgdC40YLRg9Cw0YbQuNGY0YMg0L3QsNGY0LHQvtGZ0LU=
+
+  vomiting: !binary |
+    0J/QvtCy0YDQsNGb0LDRmtC1
+
+  pressure: !binary |
+    0J/RgNC40YLQuNGB0LDQug==
+
+  green: !binary |
+    0LfQtdC70LXQvdCw
+
+  fainting: !binary |
+    0J3QtdGB0LLQtdGB0YLQuNGG0LAgLyDQs9GD0LHQuNGC0LDQuiDRgdCy0LXR
+    gdGC0Lg=
+
+  dizziness: !binary |
+    0JLRgNGC0L7Qs9C70LDQstC40YbQsA==
+
+  choking: !binary |
+    0JPRg9GI0LXRmtC1INC30LHQvtCzINC+0LHRmNC10LrRgtCwINC30LDQs9C7
+    0LDQstGZ0LXQvSDRgyDQs9GA0LvRgw==
+
+  fever: !binary |
+    0JPRgNC+0LfQvdC40YbQsA==
+
+  emergency_triage_questionnaire: !binary |
+    0KXQuNGC0L3QtSAtINCi0YDQuNCw0LPQtSDQo9C/0LjRgtC90LjQug==
+
+  diffused: !binary |
+    0JTQuNGE0YPQt9C90LU=
+
+  urine: !binary |
+    0KPRgNC40L0=
+
+  burning_sensation: !binary |
+    0J/QtdGG0LrQsNGa0LU=
+
+  palpitations: !binary |
+    0J/QsNC70L/QuNGC0LDRhtC40ZjQtQ==
+
+  diarrhea: !binary |
+    0J/RgNC+0LvQuNCy
+
+  yellow: !binary |
+    0LbRg9GC0LA=
+
+  stool_desc: !binary |
+    0YHRgtC+0LvQuNGG0LAgKNGG0YDQvdCwINGB0YLQvtC70LjRhtCwINC40LvQ
+    uCDRhtGA0LLQtdC90LAg0LrRgNCy0L3QsCDRgdCwINGB0YLQvtC70LjRhtCw
+    KQ==
+
+  localized: !binary |
+    0JvQvtC60LDQu9C40LfQvtCy0LDQvdC4
+
+  itching: !binary |
+    0KHQstGA0LDQsQ==
+
+  how_intense_is_pain: !binary |
+    0JrQsNC60L4g0ZjQtSDQstCw0Ygg0LjQvdGC0LXQvdC30LjQstCw0L0g0LHQ
+    vtC7INC90LAg0YHQutCw0LvQuCDQvtC0IDEg0LTQviAxMD8=
+
+  poison: !binary |
+    0L7RgtGA0L7QsiAo0L3Qv9GALiDQv9GA0L7QuNC30LLQvtC00LAg0LfQsCDQ
+    tNC+0LzQsNGb0LjQvdGB0YLQstC+KQ==
+
+  numbness: !binary |
+    0KPRgtGA0L3Rg9C70L7RgdGC
+
+  drugs: !binary |
+    0LTRgNC+0LPQtQ==
+
+  difficulty_breathing: !binary |
+    0JTQuNGE0YTRg9GG0YPQu9GC0Lgg0LTQuNGB0LDRmtC1
+
+  cramps: !binary |
+    0JPRgNGH0LXQstC4
+
+  blood_in: !binary |
+    0JrRgNCyINGDOg==
 
