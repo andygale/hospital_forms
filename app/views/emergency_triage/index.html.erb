@@ -1,15 +1,13 @@
+<%= form_tag do %>
 <div id="content">
   <div id="header">
-    <h1 id="emergency_triage_questionnaire"></h1>
-    <h2 id="language"></h2>
+    <h1 class="translate_emergency_triage_questionnaire"></h1>
+    <h2 class="translate_language"></h2>
   </div>
 
-  <div id="instructions">
-    <h3 id="what_is_the_reason"></h3>
-  </div>
+  <ol id="l1-list">
+    <li><h3 class="translate_what_is_the_reason"></h3></li>
 
-  <div id="questions">
-    <%= form_tag do %>
     <ol>
       <li>
         <h4><%= check_box_item(:pain) %></h4>
@@ -22,10 +20,10 @@
           <%=check_box_item(:pressure) %> &nbsp;
         </p>
         <div class="indent">
-          <div id="how_intense_is_pain" class="body_text"></div>
-          <div id="pain_scale" class="body_text"></div>
+          <div class="translate_how_intense_is_pain body_text"></div>
+          <div class="translate_pain_scale body_text"></div>
           <% (1..10).each do |pain_number| %>
-          <%= radio_item(:"pain_intensity", pain_number.to_s, pain_number.to_s)%> &nbsp;
+          <%= radio_item(:"pain_intensity", pain_number.to_s, nil, pain_number.to_s)%> &nbsp;
           <% end %>
         </div>
       </li>
@@ -52,10 +50,10 @@
       <li><h4><%=check_box_item(:weight_loss) %></h4></li>
       <li><h4><%=check_box_item(:burn) %></h4></li>
       <li><h4><%=check_box_item(:blood_in) %></h4>
-        <div class="indent">
-          <%=check_box_item(:stool_desc) %>
-          <%=check_box_item(:urine) %>
-        </div>
+        <ul  class="ul-no-bullets">
+          <li><%=check_box_item(:stool) %> (<%=check_box_item(:stool_black)%> <%=check_box_item(:stool_red)%>)</li>
+          <li><%=check_box_item(:urine) %></li>
+        </ul>
       </li>
       <li><h4><%=check_box_item(:constipation) %></h4></li>
       <li><h4><%=check_box_item(:diarrhea) %></h4></li>
@@ -65,6 +63,57 @@
         </div>
       </li>
     </ol>
-    <% end %>
-  </div>
+
+    <li><h3 class="translate_how_long_suffering"></h3></li>
+    <div class="indent">
+      <%=text_field_item(:days) %> <%=text_field_item(:months) %> <%=text_field_item(:years) %> 
+    </div>
+
+    <li><h3 class="translate_is_this_the_first_time"></h3></li>
+    <div class="indent">
+      <%=yes_no_item(:first_time)%> (<%=text_field_item(:number_of_times, :number_of_times, 2, true) %>)
+    </div>
+
+    <li><h3 class="translate_have_you_been_diagnosed"></h3></li>
+    <ol>
+      <li><%=check_box_item(:hypertension) %></li>
+      <li><%=check_box_item(:congestive_heart_failure) %></li>
+      <li><%=check_box_item(:heart_attack) %> (<%=text_field_item(:heart_attack_date, :date, 11, true) %> <span class="translate_day_month_year body_text"></span>)</li>
+      <li><%=check_box_item(:emphysema) %></li>
+      <li><%=check_box_item(:chronic_bronchitis) %></li>
+      <li><%=check_box_item(:asthma) %></li>
+      <li><%=check_box_item(:stroke) %> (<%=text_field_item(:stroke_date, :date, 11, true) %> <span class="translate_day_month_year body_text"></span>)</li>
+      <li><%=check_box_item(:diabetes) %> <%=check_box_item(:type1) %> <%=check_box_item(:type2) %></li>
+      <li><%=check_box_item(:hiv_aids) %></li>
+      <li><%=check_box_item(:physical_or_mental_handicap) %> (<%=text_field_item(:handicap_specify, :specify, 60, true) %>)</li>
+      <li><%=check_box_item(:psychiatric_problems) %></li>
+      <li><%=check_box_item(:cancer) %></li>
+      <li><%=check_box_item(:stomach_ulcer) %></li>
+      <li><div class="translate_other_diseases body_text"></div>
+        <ul class="ul-no-bullets">
+          <li><%=check_box_item(:heart_and_veins) %></li>
+          <li><%=check_box_item(:lungs) %></li>
+          <li><%=check_box_item(:digestive_tract) %></li>
+          <li><%=check_box_item(:reproductive_system) %></li>
+          <li><%=check_box_item(:endocrine_system) %></li>
+          <li><%=check_box_item(:muscles_and_bones) %></li>
+        </ul>
+      </li>
+    </ol>
+
+    <li><h3 class="translate_do_you_take_meds"></h3></li>
+    <ul class="ul-no-bullets">
+      <li><%=yes_no_item(:take_meds)%></li>
+      <li>&nbsp;</li>
+      <li><span class="translate_do_you_have_list_of_meds body_text"></span> <%=yes_no_item(:have_list)%></li>
+      <li><%=text_field_item(:which_meds_do_you_take, :which_meds_do_you_take, 60, true)%></li>
+    </ul>
+
+    <li><h3 class="translate_do_you_have_allergies"></h3></li>
+    <ul class="ul-no-bullets">
+      <li><%=check_box_item(:to_medication) %> (<%=text_field_item(:med_allergy_specify, :specify, 60, true) %>)</li>
+      <li><%=check_box_item(:to_food) %> (<%=text_field_item(:food_allergy_specify, :specify, 60, true) %>)</li>
+    </ul>
+  </ol>
 </div>
+<% end %>

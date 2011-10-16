@@ -6,7 +6,9 @@
  *= require_tree . 
 */
 #sidebar {
-  float: right;
+  position: fixed;
+  top: 30px;
+  right: 5px;
   width: 250px;
 }
 
@@ -15,8 +17,12 @@
   padding-left: 0;
 }
 
-#sidebar li {
+#sidebar li, .ul-no-bullets {
   list-style-type: none;
+}
+
+#l1-list {
+  list-style-type: upper-roman;
 }
 
 #sidebar img {

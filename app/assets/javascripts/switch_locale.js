@@ -13,7 +13,7 @@ function switchLocale(locale) {
     } else {
       name = item;
     }
-    $('#'+name).text(I18n.t(name, opts) || '!missing_translation!');
+    $('.translate_'+name).each(function(index) { $(this).text(I18n.t(name, opts) || '!missing_translation!'); });
   });
 }
 

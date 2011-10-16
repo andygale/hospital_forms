@@ -1,45 +1,89 @@
 ,Arabic,Bulgarian,English (US),Spanish (Mexico),French (France),Porguguese,Russian,Serbian,Chinese
 key,ar,bg,en-US,es-MX,fr-FR,pt-PT,ru-RU,sr,zh
-alcohol,كحول,алкохол,alcohol,alcohol,l'alcool,álcool,алкоголь,алкохол,酒精
-appetite_loss,فقدان الشهية,Загуба на апетит,Loss of appetite,Pérdida del apetito,Perdida del apetito,Perda de apetite,Потеря аппетита,Губитак апетита,食欲不振
-blood_in,الدم في :,Кръв в:,Blood in:,Sangre en:,Sangre fr:,Sangue em:,Кровь в:,Крв у:,血：
-brown,أسمر,кафяв,brown,marrón,Marrón,marrom,коричневый,браон,棕色
-burn,وحرق,Едно изгаряне,A burn,Una quemadura,Una quemadura,Uma queimadura,Сжечь,Гори,烧伤
-burning_sensation,حرقان,Усещане за парене,Burning Sensation,Sensación de quemazón,Sensation de brûlement,Sensação de ardor,Ощущение жжения,Пецкање,烧灼感
-choking,الاختناق بسبب كائن عالقا في الحلق,"Задавяне, тъй като на обект, заседнало в гърлото",Choking because of an object stuck in throat,Asfixia a causa de un objeto atorado en la garganta,Asfixia une causa de l'ONU objeto atorado fr La Garganta,Asfixia por causa de um objeto preso na garganta,Задыхаясь из-за объект застрял в горле,Гушење због објекта заглављен у грлу,窒息，因为在鲠在喉的对象
-constipation,الإمساك,Запек,Constipation,Estreñimiento,Estreñimiento,Constipação,Запор,Затвор,便秘
-cough,سعال,Кашлица,Cough,Tos,Tos,Tosse,Кашель,Кашаљ,咳嗽
-cramps,تشنجات,Спазми,Cramps,Calambres,Des crampes,Cólicas,Колики,Грчеви,抽筋
-diarrhea,الإسهال,Диария,Diarrhea,Diarrea,Diarrea,Diarréia,Понос,Пролив,腹泻
-difficulty_breathing,Diffuculty التنفس,Diffuculty дишане,Diffuculty Breathing,Diffuculty respiración,Diffuculty respiración,Respirar Diffuculty,Diffuculty Дыхание,Диффуцулти дисање,Diffuculty呼吸
-diffused,منتشر,Diffused,Diffused,General,Diffuse,Difuso,Диффузный,Дифузне,扩散
-dizziness,دوخة,Виене на свят,Dizziness,Mareo,Marebbe,Tontura,Головокружение,Вртоглавица,头晕
-drugs,المخدرات,наркотици,drugs,las drogas,Las drogas,drogas,наркотиков,дроге,药物
-emergency_triage_questionnaire,الطوارئ -- استبيان الفرز,Аварийно - Triage Въпросник,Emergency - Triage Questionnaire,Emergencia - Cuestionario de Triage,Urgence - Questionnaire de Triage,Emergência - Questionário de Triagem,Чрезвычайная - Сортировка Анкета,Хитне - Триаге Упитник,紧急 - 分流问卷
-fainting,الإغماء / فقدان الوعي,Прилошаване / загуба на съзнание,Fainting/loss of consciousness,Desmayos / pérdida de la conciencia,Desmayos / Perdida de la conciencia,Desmaio / perda de consciência,Обморок / потеря сознания,Несвестица / губитак свести,昏厥/意识丧失
-fatigue,تعب,Умора,Fatigue,Fatiga,Fatiga,Fadiga,Усталость,Умор,疲劳
-fever,حمى,Треска,Fever,Fiebre,Fiebre,Febre,Лихорадка,Грозница,发烧
-green,أخضر,зелен,green,verde,verde,verde,зеленый,зелена,绿色
-how_intense_is_pain,كيف هو الألم الشديد بك على مقياس من 1 إلى 10؟,Колко интензивна е болката по скала от 1 до 10?,How intense is your pain on a scale from 1 to 10?,¿Qué tan fuerte es su dolor en una escala del 1 al 10?,Indiquez l'intensité de votre douleur de 1 a 10?,Quão intensa é a sua dor numa escala de 1 a 10?,Как интенсивнее ваша боль по шкале от 1 до 10?,Како је ваш интензиван бол на скали од 1 до 10?,你从1到10分的痛苦是多么激烈？
-intoxication_with,التسمم مع :,Интоксикация с:,Intoxication with:,Intoxicación con:,Intoxicación con:,Intoxicação com:,Интоксикация с:,Интоксикација са:,药物中毒：
-itching,الحكة,Сърбеж,Itching,Comezón,Démangeaison,Prurido,Зудящий,Свраб,瘙痒
-language,اللغة : الانكليزية,Език: английски,Language: English,Idioma: Español,Langue: Français,Idioma: Inglês,Язык: английский,Језик: енглески,语言：英语
-localized,المترجمة,Локализирани,Localized,Localizada,Localizada,Localizada,Локализованный,Локализовани,本地化
-nausea,غثيان,Гадене,Nausea,Náusea,Nausées,Náusea,Тошнота,Мучнина,恶心
-numbness,خدر,Скованост,Numbness,Entumecimiento,Entumecimiento,Entorpecimento,Онемение,Утрнулост,麻木
+alcohol,كحول,алкохол,alcohol,alcohol,de l'alcool,álcool,алкоголь,алкохол,酒精
+appetite_loss,فقدان الشهية,Загуба на апетит,Loss of appetite,Pérdida de apetito,Perte d'appétit,Perda de apetite,Потеря аппетита,Губитак апетита,食欲不振
+blood_in,الدم في كل من :,Кръв в:,Blood in:,Sangre en:,Sang dans:,Sangue nas:,Кровь в:,Крв у:,血：
+brown,أسمر,кафяв,brown,marrón,brune,marrom,коричневые,браон,棕色
+burn,وحرق,Едно изгаряне,A burn,Una quemadura,Brûlure,Uma queimadura,Жжение,Гори,烧伤
+burning_sensation,حرق الإحساس,Усещане за парене,Burning Sensation,Sensación de quemazón,Sensation de brûlement,Sensação ardente ,Ощущение жжения,Пецкање,烧灼感
+choking,الاختناق بسبب كائن عالقا في الحلق,"Задавяне, тъй като на обект, заседнало в гърлото",Choking because of an object stuck in throat,Asfixia a causa de un objeto/alimentos atorado en la garganta,Etouffement du a une obstruction des voies respiratoire par un objet/de la nourriture,Asfixia por causa de um objeto preso na garganta,Задыхаясь из-за объект застрял в горле,Гушење због објекта заглављен у грлу,窒息，因为鲠在喉的对象
+constipation,الإمساك,Запек,Constipation,Estreñimiento,Constipation,Constipation,Запор,Затвор,便秘
+cough,سعال,Кашлица,Cough,Tos,Toux,Tosse,Кашель,Кашаљ,咳嗽
+cramps,تشنجات,Спазми,Cramps,Calambres,Des crampes,Caibras,Колики,Грчеви,抽筋
+diarrhea,الإسهال,Диария,Diarrhea,Diarrea,Diarrhée,Diarreia ,Понос,Пролив,腹泻
+difficulty_breathing,Diffuculty التنفس,Diffuculty дишане,Diffuculty Breathing,Dificultad para respirar,Respiration difficile,Respiração dificil, трудность с дыханием,Диффуцулти дисање,Diffuculty呼吸
+diffused,منتشر,Diffused,Diffused,General,Diffuse,Difuso,Pаспространённая,Дифузне,扩散
+dizziness,دوخة,Виене на свят,Dizziness,Mareo,Étourdissements,Vertigem,Головокружение,Вртоглавица,头晕
+drugs,المخدرات,наркотици,drugs,las drogas,de la drogue,drogas,наркотикaми,лекови,药物
+emergency_triage_questionnaire,الطوارئ -- استبيان الفرز,Аварийно - Triage Въпросник,Emergency - Triage Questionnaire,Emergencia - Cuestionario de Triage,Urgence - Questionnaire de Triage,Emergência - Questionário de Triagem,критическое положение - анкетный опрос сортировки,Хитне - Триаге Упитник,紧急 - 分流问卷
+fainting,الإغماء / فقدان الوعي,Прилошаване / загуба на съзнание,Fainting/loss of consciousness,Desmayo/ Pérdida de conocimiento,Évanouissements/Perte de conscience,Desmaios / perda de consciência,Обморок / потеря сознания,Несвестица / губитак свести,昏厥/意识丧失
+fatigue,تعب,Умора,Fatigue,Fatiga,Fatigue,Cansaço,Усталость,Умор,疲劳
+fever,حمى,Треска,Fever,Fiebre,Fièvre,Fébre,Лихорадка,Грозница,发烧
+green,أخضر,зелен,green,verde,vertes,verdes,зеленые,зелена,绿色
+how_intense_is_pain,كيف هي شديدة الألم على مقياس من 1 إلى 10؟,Колко интензивен е болката си по скала от 1 до 10?,How intense is your pain on a scale from 1 to 10?,Como intenso es su dolor en una escala de 1 a 10?,Indiquez l'intensité de votre douleur de 1 a 10?,Como intensa é sua dor em uma escala de 1 a 10 ,сколько стоит ваша боль по шкале от 1 до 10?,Како је ваш интензиван бол на скали од 1 до 10?,你从1到10分的痛苦是多么激烈？
+intoxication_with,التسمم مع :,Интоксикация с:,Intoxication with:,Intoxicación con:,lnloxication avec:,Intoxicação com:,Опьянение от:,Интоксикација са:,药物中毒：
+itching,الحكة,Сърбеж,Itching,Comezón,Démangeaison,Comichão ,Зудящий,Свраб,瘙痒
+language,اللغة : الانكليزية,Език: английски,Language: English,Idioma: Español,Langue: Français,Língua: Português ,Язык: Русский  ,Језик: енглески,语言：英语
+localized,مترجم,Локализирани,Localized,Localizada,localisée,Localizada,Локализованная,Локализовани,本地化
+nausea,غثيان,Гадене,Nausea,Náusea,Nausée,Náusea,Тошнота,Мучнина,恶心
+numbness,خدر,Скованост,Numbness,Entumecimiento,Engourdissement,Entorpecimento,Онемение,Утрнулост,麻木
 pain,ألم,Болка,Pain,Tiene dolor,Une douleur,Dor,Боль,Бол,疼痛
-pain_scale,1-3 لا يطاق تحمله = = 10,Допустим = 1-3 Непоносимата = 10,Tolerable = 1-3   Unbearable = 10,Tolerable = 1-3   Insoportable = 10,Tolérable = 1-3   Insupportable = 10,Tolerável = 1-3 Insustentável = 10,Допустимая = 1-3 Невыносимая = 10,Толерисати = 1-3 Неподношљива = 10,容忍= 1-3中不能承受之= 10
-palpitations,خفقان,Сърцебиене,Palpitations,Palpitaciones,Palpitaciones,Palpitações,Сердцебиение,Палпитације,心悸
-poison,السم (مثلا : المنتجات المنزلية),отрова (напр. домакински продукти),poison (ex: household products),veneno (por ejemplo: productos para el hogar),Veneno (por ejemplo: Productos para el hogar),poison (ex: produtos de uso doméstico),яд (например: товары для дома),отров (нпр. производа за домаћинство),毒药（例如：家用产品）
-pressure,الضغط,Налягане,Pressure,Presión,Une pression,Pressão,Давление,Притисак,压力
-stabbing,طعن,Stabbing,Stabbing,Puñalada,Puñalada,Stabbing,Stabbing,Убадање,刺
-stool_desc,البراز (البراز أسود أو أحمر الدم مع البراز),изпражненията (черен изпражнения или червена кръв с изпражненията),stool (black stool or red blood with stool),las heces (materia fecal de color negro o rojo sangre con las heces),Las heces (materia fécales de couleur nègre o Rojo Sangre con heces las),fezes (fezes pretas ou vermelhas do sangue com fezes),стул (черный стул или красной крови с калом),столица (црна столица или црвена крвна са столица),大便（大便黑色或红色的血与大便）
-swelling,تورم واحد أو أكثر أطرافه,Подуване на един или повече крайници,Swelling of one or more limbs,Inflamación de una o más extremidades,Inflamación de una más o extremidades,Inchaço de um ou mais membros,Отек одной или нескольких конечностей,Отицање једног или више екстремитета,一个或多个肢体肿胀
-tightness,ضيق,Стягане,Tightness,Punzadas,Un Serrement,Aperto,Напряженность,Стегнутост,紧张
-urine,بول,Урина,Urine,Orina,Orina,Urina,Моча,Урин,尿液
-vomiting,قيء,Повръщане,Vomiting,Vómitos,Vómitos,Vômitos,Рвота,Повраћање,呕吐
-weight_loss,فقدان الوزن,Загубата на тегло,Loss of weight,Pérdida de peso,Perdida de pesos,Perda de peso,Потеря веса,Губитак тежине,失重
-what_is_the_reason,ما هو السبب الخاص للتشاور؟ يرجى تحديد الظروف التي تصف الوضع الخاص بك أفضل,"Каква е причината за вашата консултация? Моля, изберете условия, които описват положението на най-добрите",What is the reason for your consultation? Please select the conditions that describe your situation the best,"¿Cuál es la razón de su consulta? Por favor, seleccione las condiciones que describen su situación lo mejor",Quelle est votre raison de consultation? S'il vous plaît choisir les conditions qui décrivent votre situation meilleure,"Qual é o motivo de sua consulta? Por favor, selecione as condições que descrevem a sua situação o melhor","Что является причиной Вашей консультации? Пожалуйста, выберите условия, опишите ситуацию лучших",Шта је разлог за консултације? Молимо Вас да одаберете услова које описују вашу ситуацију најбоље,您咨询的原因是什么？请选择条件，说明您的情况最好的
-white,أبيض,бял,white,blanco,blanco,branco,белый,бели,白
-with_secretions,مع افرازات,със секрети,with secretions,con las secreciones,con las secreciones,com secreções,с выделениями,са секретима,分泌物
-yellow,أصفر,жълт,yellow,amarillo,amarillo,amarelo,желтый,жута,黄色
+pain_scale,1-3 لا يطاق تحمله = = 10,Допустим = 1-3 Непоносимата = 10,Tolerable = 1-3   Unbearable = 10,Tolerable = 1-3   Insoportable = 10,Tolérable = 1-3   Insupportable = 10,Tolerável = 1-3 Insuportável = 10,сносный = 1-3 Невыносимая = 10,Толерисати = 1-3 Неподношљива = 10,容忍= 1-3不堪忍受= 10
+palpitations,خفقان,Сърцебиене,Palpitations,Palpitaciones,Palpitations,Palpitações,Cердцебиение,Палпитације,心悸
+poison,السم (مثلا : المنتجات المنزلية),отрова (напр. домакински продукти),poison (ex: household products),veneno (por ejemplo: productos de limpieza),du poison (ex. produits ménagers),veneno (ex: Produtos de uso doméstico),яд (например: домашними продуктами),отров (на пример: производа за домаћинство),毒药（例如：家用产品）
+pressure,الضغط,Налягане,Pressure,Presión,Une pression,Una pressão,Давление,Притисак,压力
+stabbing,طعن,Stabbing,Stabbing,en puñalada,Poignardante,Penetrante,шарп,Убадање,刺
+stool_desc,البراز (براز أسود أو أحمر الدم مع البراز),изпражненията (черни изпражнения или червена кръв с изпражненията),stool (black stool or red blood with stool),Uno o varios miembros hinchados,selles (selles noires ou sang rouge avec selles),fézes (fézes pretas ou sangue vermelho com as fézes),стул (черный стул или красной крови с калом),столица (црна столица или црвена крвна са столици),便血（黑便或大便红细胞）
+swelling,تورم واحد أو أكثر من أطرافهم,Подуване на един или повече крайници,Swelling of one or more limbs,Uno o más miembros hinchados,Un/des membres enflés,Inchaço de um ou mais membros,Отек одной или нескольких конечностей,Отицање једног или више удова,一个或多个肢体肿胀
+tightness,ضيق,Стягане,Tightness,Punzadas,Un serrement,Um aperto,Напряженность,Стегнутост,紧张
+urine,بول,Урина,Urine,Orina,Urine,Urina,Моча,Урин,尿液
+vomiting,قيء,Повръщане,Vomiting,Vómitos,vomissements,Vômitos,Рвота,Повраћање,呕吐
+weight_loss,فقدان الوزن,Загубата на тегло,Loss of weight,Pérdida de peso,Perte de poids,Perda de peso,Потеря веса,Губитак тежине,失重
+what_is_the_reason,ما هو السبب الخاص للتشاور؟ يرجى تحديد الظروف التي تصف الوضع افضل ما لديكم.,"Каква е причината за вашата консултация? Моля, изберете условия, които описват най-добрия си положение.",What is the reason for your consultation? Please select the conditions that describe your situation best.,"¿Cuál es la razón de su consulta? Por favor, seleccione las condiciones que describen su situación lo mejor.",Quelle est votre raison de consultation? S'il vous plaît choisir les conditions qui décrivent votre situation.,Qual é a razão de sua consulta? Por favor seleccione a condições que descrevem melhor a suia situacao.,"Что является причиной Вашей консультации? Пожалуйста, выберите условия, которые описывают вашу ситуацию лучше.",Шта је разлог за консултације? Молимо Вас да одаберете услове који описују ваш најбољи ситуацију.,您咨询的原因是什么？请描述您的情况最好的选择条件。
+white,أبيض,бял,white,blanca,blanches,brancas,белый,бели,白
+with_secretions,مع افرازات,със секрети,with secretions,con secreción,avec secrétions,com secreções,с выделениями,са секретима,分泌物
+yellow,أصفر,жълт,yellow,amarillenta,jaunâtres,amarelas,желтый,жута,黄色
+
+how_long_suffering,منذ متى وأنت تعاني من هذا الشرط؟,"Колко време сте били, страдащи от това състояние?",How long have you been suffering from this condition?,¿Cuánto tiempo ha estado sufriendo de esta condición?,Combien de temps avez-vous été atteint de cette maladie?,Quanto tempo você tem que sofrem desta condição?,Как давно вы страдающих от этого состояния?,Колико дуго сте пате од овог стања?,你已患这种情况下有多久？
+days,أيام,ден,days,día,jours,dia,дней,дани,天
+months,أشهر,месеца,months,mes,mois,mês,месяцев,месеци,个月
+years,سنة,година,years,años,années,anos,лет,године,年
+is_this_the_first_time,هل هذه هي المرة الأولى؟,Дали това е първи път?,Is this the first time?,¿Es esta la primera vez?,Est-ce la première fois?,É esta a primeira vez?,Разве это впервые?,Да ли је ово први пут?,这是第一次吗？
+yes,نعم,Да,Yes,Sí,Oui,Sim,Да,Да,是
+no,لا,Не,No,No,Aucun,Não,Нет,Не,无
+number_of_times,عدد المرات,Колко пъти,Number of times,Número de veces,Nombre de fois,Número de vezes,Количество раз,Број пута,数次数
+have_you_been_diagnosed,هل سبق لك أن تم تشخيص أو علاج أي من القضايا الصحية التالية؟,Били ли сте някога били диагностицирани или лекувани за някоя от следните здравни проблеми?,Have you ever been diagnosed or treated for any of the following health issues?,¿Alguna vez ha sido diagnosticado o tratado por ninguna de las cuestiones de salud?,Avez-vous jamais été diagnostiqués ou traités pour toute les problèmes de santé suivants?,Você já foi diagnosticado ou tratado por qualquer das seguintes questões de saúde?,Вы когда-нибудь был поставлен диагноз или лечение по одной из следующих вопросах здоровья?,Да ли сте икада били дијагноза или третман за било који од следећих здравствених проблема?,你有过诊断或以下任何健康问题的处理？
+hypertension,ارتفاع ضغط الدم,Хипертония,Hypertension,Hipertensión,Hypertension,Hipertensão,Гипертензия,Хипертензија,高血压
+congestive_heart_failure,فشل القلب الاحتقاني,Застойна сърдечна недостатъчност,Congestive Heart Failure,Insuficiencia Cardíaca Congestiva,Insuffisance cardiaque congestive,Insuficiência Cardíaca Congestiva,Застойная сердечная недостаточность,Конгестивне срчане инсуфицијенције,充血性心力衰竭
+heart_attack,نوبة قلبية,Heart Attack,Heart Attack,Ataque del corazón,Attaque cardiaque,Ataque cardíaco,Сердечный приступ,Срчани напад,心脏病发作
+date,تاريخ,дата,date,fecha,jour,data,дата,датум,日期
+emphysema,نفاخ,Емфизема,Emphysema,Enfisema,Emphysème,Enfisema,Эмфизема,Емфизем,气肿
+chronic_bronchitis,التهاب الشعب الهوائية المزمن,Хроничен бронхит,Chronic bronchitis,La bronquitis crónica,La bronchite chronique,Bronquite crônica,Хронический бронхит,Хронични бронхитис,慢性支气管炎
+asthma,الربو,Астма,Asthma,Asma,L'asthme,Asma,Астма,Астма,哮喘
+stroke,السكتة الدماغية,Удар,Stroke,Carrera,Maladies,Golpe,Ход,Удар,中风
+diabetes,مرض السكري,Диабет,Diabetes,Diabetes,Diabète,Diabetes,Диабет,Дијабетес,糖尿病
+type1,النوع الأول,тип I,type I,tipo I,type I,tipo I,типа я,тип И,I型
+type2,النوع الثاني,Тип II,type II,tipo II,de type II,tipo II,Тип II,типа ИИ,II型
+hiv_aids,فيروس نقص المناعة البشرية / الإيدز,ХИВ / СПИН,HIV / AIDS,VIH / SIDA,VIH / SIDA,HIV / AIDS,ВИЧ / СПИД,ХИВ / АИДС-,艾滋病毒/艾滋病
+physical_or_mental_handicap,والإعاقة الجسدية أو الإعاقة العقلية,А физически недъг или умствени недъзи,A physical handicap or mental handicap,Una discapacidad física o deficiencia mental,Un handicap physique ou un handicap mental,A deficiência física ou deficiência mental,Физического недостатка или умственной отсталостью,Физички хендикеп или менталним хендикепом,一个肢体伤残或弱智
+specify,تحديد,Посочете,Specify,Especificar,Précisez,Especificar,Указывать,Одредите,指定
+psychiatric_problems,المشاكل النفسية,Психиатрични проблеми,Psychiatric problems,Problemas psiquiátricos,Les problèmes psychiatriques,Problemas psiquiátricos,Психиатрические проблемы,Психијатријски проблеми,精神问题
+cancer,سرطان,Рак,Cancer,Cáncer,Cancer,Câncer,Рак,Рак,癌症
+stomach_ulcer,قرحة المعدة,Язва на стомаха,Stomach Ulcer,Úlcera de estómago,Ulcère à l'estomac,Úlcera de estômago,Язвенная болезнь желудка,Чира на желуцу,胃溃疡
+other_diseases,أمراض أخرى,Други заболявания на,Other diseases of the,Otras enfermedades del,Autres maladies de l',Outras doenças do,Другие болезни,Други болести,其他疾病
+heart_and_veins,القلب والأوردة,сърцето и вените,heart and veins,corazón y las venas,cœur et les veines,coração e as veias,сердце и вены,срце и вене,心脏和静脉
+lungs,الرئتين,бели дробове,lungs,los pulmones,poumons,pulmões,легкие,плућа,肺
+digestive_tract,الجهاز الهضمي,храносмилателния тракт,digestive tract,del tracto digestivo,tractus digestif,trato digestivo,желудочно-кишечный тракт,дигестивног тракта,消化道
+reproductive_system,الجهاز التناسلي,репродуктивната система,reproductive system,sistema reproductivo,système reproducteur,sistema reprodutivo,репродуктивной системы,репродуктивни систем,生殖系统
+endocrine_system,نظام الغدد الصماء,ендокринната система,endocrine system,del sistema endocrino,système endocrinien,sistema endócrino,эндокринной системы,ендокриног система,内分泌系统
+muscles_and_bones,العضلات والعظام,мускулите и костите,muscles and bones,músculos y huesos,muscles et les os,músculos e ossos,мышцах и костях,мишићи и кости,肌肉和骨骼
+do_you_take_meds,هل تناول الدواء و / أو الفيتامينات؟,"Смятате ли, лекарства и / или витамини?",Do you take medication and/or vitamins?,¿Toma medicación y / o vitaminas?,Ne vous prenez des médicaments et / ou vitamines?,Você toma medicação e / ou vitaminas?,Принимаете ли вы лекарства и / или витамины?,Да ли узимате лекове и / или витамина?,你是否采取药物治疗和/或维生素吗？
+do_you_have_list_of_meds,هل لديك قائمة من الأدوية التي يمكنك تبين لنا؟,"Имате ли списък на лекарствата, които можете да ни покаже?",Do you have a list of your medications that you can show us?,¿Tiene usted una lista de sus medicamentos que nos puede mostrar?,Avez-vous une liste de vos médicaments que vous pouvez nous montrer?,Você tem uma lista dos seus medicamentos que você pode nos mostrar?,"У вас есть список ваших лекарств, которые вы можете показать нам?",Да ли имате листу лекова који може да нам покаже?,你有你的药物列表，您可以向我们展示吗？
+which_meds_do_you_take,إن لم يكن ، والتي لا تأخذ الأدوية,"Ако не, лекарства взимате","If not, which medications do you take","Si no, los medicamentos que usted toma","Si non, quels médicaments prenez-vous","Se não, quais os medicamentos que você toma","Если нет, какие лекарства вы принимаете","Ако не, који лекове узимате",如果没有，你带的药物
+do_you_have_allergies,هل لديك أي نوع من الحساسية :,Имате ли някакви алергии:,Do you have any allergies:,¿Tiene alguna alergia:,Avez-vous des allergies:,Você tem alguma alergia:,Есть ли у вас аллергии:,Да ли имате било каквих алергија:,你有任何过敏：
+to_medication,على الدواء,До медикаменти,To medication,A la medicación,Pour les médicaments,À medicação,Чтобы лекарство,За лекове,服药
+to_food,في الغذاء,Към храната,To food,A los alimentos,Pour la nourriture,À alimentação,Чтобы пища,За храну,食物
+day_month_year,DD / MM / YYYY,ДД / ММ / ГГГГ,DD/MM/YYYY,DD / MM / AAAA,JJ / MM / AAAA,DD / MM / AAAA,DD / MM / YYYY,ДД / ММ / ГГГГ,DD / MM / YYYY
+stool,براز,табуретка,stool,taburete,selles,tamborete,стул,столица,粪便
+stool_black,أسود البراز,черно изпражненията,black stool,negro heces,selles noires,fezes pretas,черный стул,црна столица,黑色大便
+stool_red,الدم الحمراء مع البراز,червените кръвни с табуретка,red blood with stool,rojas de la sangre con las heces,rouge sang avec les selles,vermelhas do sangue com fezes,красной крови с калом,црвених крвних са столици,红血与大便
