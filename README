@@ -1,6 +1,7 @@
 This is an application that helps doctors and nurses evaluate patients who don't speak the same language.  For starters, it will simply be a set of forms that can be translated into different languages
 
 heroku deploy:
+rake translations:import
 load a page to make the translations compile
 RAILS_ENV=production bundle exec rake assets:precompile
 git add .
