@@ -13,7 +13,7 @@ ht:
   alcohol: !binary |
     YWxrw7Js
 
-  have_you_been_diagnosed: "\xC3\x88ske w te janm te dyagnostike oswa dlo trete pou nenp\xC3\xB2t nan pwobl\xC3\xA8m pi ba la yo?"
+  have_you_been_diagnosed: "Eske ou janm te dyagnostike oswa trete pou nenp\xC3\xB2t nan pwobl\xC3\xA8m yo ki sante yo?"
   is_this_the_first_time: "\xC3\x88ske sa se premye fwa a?"
   difficulty_breathing: Respirasyon Diffuculty
   how_intense_is_pain: "Ki jan entans se doul\xC3\xA8 ou sou yon ech\xC3\xA8l de 1 a 10?"
@@ -50,7 +50,7 @@ ht:
   urine: Pipi
   emergency_triage_questionnaire: "Ijans - Kesyon\xC3\xA8 Triyaj"
   type1: type I
-  language: "Lang: kreyòl"
+  language: "Lang: krey\xC3\xB2l"
   constipation: Konstipasyon
   stool_black: "nwa tabour\xC3\xA8"
   cramps: Lakranp
@@ -81,9 +81,7 @@ ht:
   fever: "Lafy\xC3\xA8v"
   what_is_the_reason: "Ki sa ki se rezon ki f\xC3\xA8 la pou konsiltasyon ou a? Tanpri chwazi kondisyon yo ki dekri pi byen sitiyasyon ou."
   brown: mawon
-  nausea: !binary |
-    4oCiIEvDqCBwbGVu
-
+  nausea: Noze
   stool: "tabour\xC3\xA8"
   do_you_have_list_of_meds: "\xC3\x88ske ou gen yon lis medikaman ou ke ou ka montre nou?"
   do_you_take_meds: "\xC3\x88ske w ap pran medikaman ak / oswa vitamin?"
@@ -119,7 +117,7 @@ zh:
     5Lit6aOO
 
   intoxication_with: !binary |
-    6I2v54mp5Lit5q+S77ya
+    5Lit5q+S5LiO77ya
 
   alcohol: !binary |
     6YWS57K+IA==
@@ -315,8 +313,7 @@ zh:
     5bGV56S65ZCX77yf
 
   do_you_take_meds: !binary |
-    5L2g5piv5ZCm6YeH5Y+W6I2v54mp5rK755aX5ZKML+aIlue7tOeUn+e0oOWQ
-    l++8nw==
+    5L2g5ZCD6I2v5ZKML+aIlue7tOeUn+e0oO+8nw==
 
   blood_in: !binary |
     6KGA77ya
@@ -456,6 +453,93 @@ es-MX:
   how_long_suffering: "\xC2\xBFCu\xC3\xA1nto tiempo ha estado sufriendo de esta condici\xC3\xB3n?"
   "no": "No"
   emphysema: Enfisema
+sw: 
+  psychiatric_problems: Matatizo ya akili
+  drugs: madawa ya kulevya
+  diffused: Diffused
+  dizziness: Kizunguzungu
+  stroke: Kiharusi
+  intoxication_with: "Ulevi na:"
+  alcohol: pombe
+  have_you_been_diagnosed: Je, umewahi kuwa kukutwa au kutibiwa kwa yoyote ya masuala yafuatayo ya afya?
+  is_this_the_first_time: Je, hii ni mara ya kwanza?
+  difficulty_breathing: Kinga Diffuculty
+  how_intense_is_pain: Jinsi maumivu yako ni makali kwa kiwango 1-10?
+  asthma: Pumu
+  with_secretions: na majimaji ya
+  muscles_and_bones: misuli na mifupa
+  fainting: Watazirai / kupoteza fahamu
+  heart_attack: Heart Attack
+  diabetes: Ugonjwa wa kisukari
+  specify: TAJA
+  burn: kuchoma
+  day_month_year: DD / MM / YYYY
+  digestive_tract: njia ya utumbo
+  heart_and_veins: moyo na mishipa
+  palpitations: Palpitations
+  hypertension: Shinikizo la damu
+  choking: Choking kwa sababu ya kitu kukwama katika koo
+  vomiting: Kutapika
+  to_medication: Kwa dawa
+  which_meds_do_you_take: Kama siyo, ambayo dawa gani unaweza kuchukua
+  diarrhea: Kuhara
+  months: miezi
+  pressure: Shinikizo
+  appetite_loss: Kupoteza hamu ya kula
+  pain_scale: Nafuu = 1-3 magumu = 10
+  cough: Kikohozi
+  stool_red: nyekundu za damu na kinyesi
+  reproductive_system: mfumo wa uzazi
+  lungs: mapafu
+  green: kijani
+  date: tarehe
+  urine: Mkojo
+  emergency_triage_questionnaire: Dharura - triage dodoso
+  type1: aina mimi
+  language: "Lugha: Kiingereza"
+  constipation: Constipation
+  stool_black: nyeusi kinyesi
+  cramps: Tumbo
+  type2: aina II
+  days: siku
+  years: miaka
+  yellow: manjano
+  "yes": Ndiyo
+  physical_or_mental_handicap: ulemavu wa kimwili au ulemavu wa akili
+  stomach_ulcer: Tumbo kidonda
+  itching: Itching
+  swelling: Kuvimba kwa viungo moja au zaidi
+  endocrine_system: endocrine mfumo
+  burning_sensation: Mchomo
+  pain: Maumivu
+  white: nyeupe
+  cancer: Kansa
+  chronic_bronchitis: Mkamba sugu
+  to_food: Kwa chakula
+  do_you_have_allergies: "Je, una allergy yeyote:"
+  congestive_heart_failure: Congestive Moyo Kushindwa
+  fever: Homa
+  what_is_the_reason: Ni sababu gani kwa ajili ya mashauriano yako? Tafadhali chagua masharti ambayo kuelezea hali yako bora.
+  brown: kahawia
+  nausea: Kichefuchefu
+  stool: kinyesi
+  do_you_have_list_of_meds: Je una orodha ya dawa zako kwamba unaweza kuonyesha sisi?
+  do_you_take_meds: Je, dawa na / au vitamini?
+  blood_in: "Damu kwa:"
+  number_of_times: "Idadi ya mara:"
+  localized: Localized
+  tightness: Kifua
+  numbness: Ganzi
+  stool_desc: kinyesi (nyeusi kinyesi au damu nyekundu na kinyesi)
+  stabbing: Kudungwa na kisu
+  hiv_aids: VVU / UKIMWI
+  fatigue: Uchovu
+  other_diseases: Magonjwa mengine ya
+  poison: "sumu (ex: kaya bidhaa)"
+  weight_loss: Hasara ya uzito
+  how_long_suffering: Muda gani umekuwa mateso kutokana na hali hii?
+  "no": Hakuna
+  emphysema: Emphysema
 ru-RU: 
   psychiatric_problems: !binary |
     0J/RgdC40YXQuNCw0YLRgNC40YfQtdGB0LrQuNC1INC/0YDQvtCx0LvQtdC8
@@ -1014,8 +1098,8 @@ bg:
     0JfQsNCz0YPQsdCw0YLQsCDQvdCwINGC0LXQu9C10YHQvdCwINC80LDRgdCw
 
   how_long_suffering: !binary |
-    0JrQvtC70LrQviDQstGA0LXQvNC1INGB0YLQtSDQsdC40LvQuCwg0YHRgtGA
-    0LDQtNCw0YnQuCDQvtGCINGC0L7QstCwINGB0YrRgdGC0L7Rj9C90LjQtT8=
+    0JrQvtC70LrQviDQtNGK0LvQs9C+INGB0YLQtSDQsdC40LvQuCDRgdGC0YDQ
+    sNC00LDQvdC40LUg0L7RgiDRgtC+0LLQsCDRgdGK0YHRgtC+0Y/QvdC40LU/
 
   "no": !binary |
     0J3QtQ==
@@ -1297,10 +1381,10 @@ en-US:
   emphysema: Emphysema
 ar: 
   psychiatric_problems: !binary |
-    2KfZhNmF2LTYp9mD2YQg2KfZhNmG2YHYs9mK2Kk=
+    2YbZgdiz2YrYqSDYp9mE2YXYtNin2YPZhA==
 
   drugs: !binary |
-    2KfZhNmF2K7Yr9ix2KfYqg==
+    2KfZhNi52YLYp9mC2YrYsQ==
 
   diffused: !binary |
     2YXZhtiq2LTYsQ==
@@ -1323,7 +1407,7 @@ ar:
     2KfZhNiq2KfZhNmK2KnYnw==
 
   is_this_the_first_time: !binary |
-    2YfZhCDZh9iw2Ycg2YfZiiDYp9mE2YXYsdipINin2YTYo9mI2YTZidif
+    2YfZiCDZh9iw2Kcg2KPZiNmEINmF2LHYqdif
 
   difficulty_breathing: !binary |
     RGlmZnVjdWx0eSDYp9mE2KrZhtmB2LM=
@@ -1426,13 +1510,13 @@ ar:
     2KfZhNmG2YjYuSDYp9mE2KPZiNmE
 
   language: !binary |
-    2KfZhNmE2LrYqSA6INin2YTYp9mG2YPZhNmK2LLZitip
+    2YTYutipIDog2KXZhtis2YTZitiy2YrYqQ==
 
   constipation: !binary |
     2KfZhNil2YXYs9in2YM=
 
   stool_black: !binary |
-    2KPYs9mI2K8g2KfZhNio2LHYp9iy
+    2LPZiNiv2KfYoSDYp9mE2KjYsdin2LI=
 
   cramps: !binary |
     2KrYtNmG2KzYp9iq
@@ -1444,7 +1528,7 @@ ar:
     2KPZitin2YU=
 
   years: !binary |
-    2LPZhtip
+    2LPZhtmI2KfYqg==
 
   yellow: !binary |
     2KPYtdmB2LE=
@@ -1453,8 +1537,8 @@ ar:
     2YbYudmF
 
   physical_or_mental_handicap: !binary |
-    2YjYp9mE2KXYudin2YLYqSDYp9mE2KzYs9iv2YrYqSDYo9mIINin2YTYpdi5
-    2KfZgtipINin2YTYudmC2YTZitip
+    QSDYp9mE2LnZiNmCINin2YTYqNiv2YbZiiDYo9mIINin2YTYudmI2YIg2KfZ
+    hNi52YLZhNmK2Kk=
 
   stomach_ulcer: !binary |
     2YLYsdit2Kkg2KfZhNmF2LnYr9ip
@@ -1463,8 +1547,7 @@ ar:
     2KfZhNit2YPYqQ==
 
   swelling: !binary |
-    2KrZiNix2YUg2YjYp9it2K8g2KPZiCDYo9mD2KvYsSDZhdmGINij2LfYsdin
-    2YHZh9mF
+    2KrZiNix2YUg2KfYrdivINij2Ygg2KPZg9ir2LEg2KPYt9ix2KfZgdmH2YU=
 
   endocrine_system: !binary |
     2YbYuNin2YUg2KfZhNi62K/YryDYp9mE2LXZhdin2KE=
@@ -1517,8 +1600,8 @@ ar:
     2KfZhNiq2Yog2YrZhdmD2YbZgyDYqtio2YrZhiDZhNmG2KfYnw==
 
   do_you_take_meds: !binary |
-    2YfZhCDYqtmG2KfZiNmEINin2YTYr9mI2KfYoSDZiCAvINij2Ygg2KfZhNmB
-    2YrYqtin2YXZitmG2KfYqtif
+    2KrZgdi52YQg2YPZhtiqINiq2KPYrtiwINin2YTYr9mI2KfYoSDZiCAvINij
+    2Ygg2KfZhNmB2YrYqtin2YXZitmG2KfYqtif
 
   blood_in: !binary |
     2KfZhNiv2YUg2YHZiiDZg9mEINmF2YYgOg==
@@ -1571,7 +1654,8 @@ ar:
 
 sr: 
   psychiatric_problems: !binary |
-    0J/RgdC40YXQuNGY0LDRgtGA0LjRmNGB0LrQuCDQv9GA0L7QsdC70LXQvNC4
+    0J/RgdC40YXQuNGY0LDRgtGA0LjRmNGB0LrQuNC8INC/0YDQvtCx0LvQtdC8
+    0Lg=
 
   drugs: !binary |
     0LvQtdC60L7QstC4
@@ -1681,7 +1765,7 @@ sr:
     0JrQsNGI0LDRmQ==
 
   stool_red: !binary |
-    0YbRgNCy0LXQvdC40YUg0LrRgNCy0L3QuNGFINGB0LAg0YHRgtC+0LvQuNGG
+    0YbRgNCy0LXQvdC40Lwg0LrRgNCy0L3QuNC8INGB0LAg0YHRgtC+0LvQuNGG
     0Lg=
 
   reproductive_system: !binary |
@@ -1709,7 +1793,7 @@ sr:
     0IjQtdC30LjQujog0LXQvdCz0LvQtdGB0LrQuA==
 
   constipation: !binary |
-    0JfQsNGC0LLQvtGA
+    0JrQvtC90YHRgtC40L/QsNGG0LjRmNCw
 
   stool_black: !binary |
     0YbRgNC90LAg0YHRgtC+0LvQuNGG0LA=
@@ -1772,8 +1856,8 @@ sr:
     0LvQtdGA0LPQuNGY0LA6
 
   congestive_heart_failure: !binary |
-    0JrQvtC90LPQtdGB0YLQuNCy0L3QtSDRgdGA0YfQsNC90LUg0LjQvdGB0YPR
-    hNC40YbQuNGY0LXQvdGG0LjRmNC1
+    0JrQvtC90LPQtdGB0YLQuNCy0L3QvtC8INGB0YDRh9Cw0L3QvtC8INC40L3R
+    gdGD0YTQuNGG0LjRmNC10L3RhtC40ZjQvtC8
 
   fever: !binary |
     0JPRgNC+0LfQvdC40YbQsA==
@@ -1798,8 +1882,8 @@ sr:
     0LrQvtGY0Lgg0LzQvtC20LUg0LTQsCDQvdCw0Lwg0L/QvtC60LDQttC1Pw==
 
   do_you_take_meds: !binary |
-    0JTQsCDQu9C4INGD0LfQuNC80LDRgtC1INC70LXQutC+0LLQtSDQuCAvINC4
-    0LvQuCDQstC40YLQsNC80LjQvdCwPw==
+    0JTQsCDRg9C30LjQvNCw0YLQtSDQu9C10LrQvtCy0LUg0LggLyDQuNC70Lgg
+    0LLQuNGC0LDQvNC40L3QtT8=
 
   blood_in: !binary |
     0JrRgNCyINGDOg==
