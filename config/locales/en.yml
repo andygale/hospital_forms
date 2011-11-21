@@ -2,7 +2,6 @@
 it: 
   psychiatric_problems: Problemi psichiatrici
   drugs: farmaci
-  diffused: Diffuso
   dizziness: Vertigini
   stroke: Corsa
   intoxication_with: "Intossicazione con:"
@@ -19,7 +18,7 @@ it:
   diabetes: Diabete
   specify: Specificare
   burn: A bruciare
-  day_month_year: Gg / MM / AAAA
+  day_month_year: GG / MM / AAAA
   digestive_tract: tratto digestivo
   heart_and_veins: cuore e le vene
   palpitations: Palpitazioni
@@ -54,6 +53,7 @@ it:
     U8Os
 
   physical_or_mental_handicap: Un handicap fisico o di un handicap mentale
+  diffuse: Diffondere
   stomach_ulcer: Ulcera allo stomaco
   itching: Prurito
   swelling: "Gonfiore di uno o pi\xC3\xB9 arti"
@@ -65,7 +65,7 @@ it:
   chronic_bronchitis: Bronchite cronica
   to_food: Al cibo
   do_you_have_allergies: "Avete delle allergie:"
-  congestive_heart_failure: Scompenso cardiaco congestizio
+  congestive_heart_failure: Insufficienza cardiaca congestizia
   fever: Febbre
   what_is_the_reason: "Qual \xC3\xA8 la ragione per un consulto? Si prega di selezionare le condizioni che descrivono il tuo migliore situazione."
   brown: marrone
@@ -80,7 +80,7 @@ it:
   numbness: Intorpidimento
   stool_desc: feci (feci nere o rosso sangue con le feci)
   stabbing: Stabbing
-  hiv_aids: Sull'HIV / AIDS
+  hiv_aids: HIV / AIDS
   fatigue: Fatica
   other_diseases: Altre malattie del
   poison: "veleno (es: prodotti per la casa)"
@@ -93,7 +93,6 @@ ht:
   drugs: !binary |
     ZHfDsmc=
 
-  diffused: Diffuse
   dizziness: !binary |
     VsOodGlq
 
@@ -122,7 +121,9 @@ ht:
   choking: "Wap toufe paske yo te yon obj\xC3\xA8 kole nan g\xC3\xB2j"
   vomiting: Vomisman
   to_medication: Medikaman
-  which_meds_do_you_take: Si ou pa, ki medikaman w pran
+  which_meds_do_you_take: !binary |
+    5aaC5p6c5rKh5pyJ77yM5oKo5pyN55So55qE6I2v54mp54K6
+
   diarrhea: Dyare
   months: mwa
   pressure: Presyon
@@ -150,7 +151,8 @@ ht:
     asOybg==
 
   "yes": Wi
-  physical_or_mental_handicap: Yon andikap fizik oswa andikap mantal
+  physical_or_mental_handicap: andikap fizik oswa mantal
+  diffuse: Difize
   stomach_ulcer: "Uls\xC3\xA8r nan p\xC3\xB2ch lestomak"
   itching: Demanjezon
   swelling: Anfle a youn oubyen plis manm yo
@@ -196,10 +198,7 @@ zh:
     57K+56We6Zeu6aKY
 
   drugs: !binary |
-    6I2v54mp
-
-  diffused: !binary |
-    5omp5pWj
+    6I2v54mp5Lit5q+S
 
   dizziness: !binary |
     5aS05pmV
@@ -207,36 +206,43 @@ zh:
   stroke: !binary |
     5Lit6aOO
 
+  yes__first_time: !binary |
+    5piv
+
   intoxication_with: !binary |
-    6I2v54mp5Lit5q+S77ya
+    5Lit5q+S77ya
 
   alcohol: !binary |
-    6YWS57K+IA==
+    6YWS57K+5Lit5q+S
 
   have_you_been_diagnosed: !binary |
-    5L2g5pyJ5pu+57uP6KKr6K+K5pat5oiW5rK755aX5LiL5YiX5Lu75L2V5YGl
-    5bq36Zeu6aKY77yf
+    5oKo5pyJ6K+K5pat5oiW5rK755mC6L+H5Lul5LiL5Lu75L2V5YGl5bq36Zeu
+    6aKY5ZCXPw==
 
   is_this_the_first_time: !binary |
     6L+Z5piv56ys5LiA5qyh5ZCX77yf
 
   difficulty_breathing: !binary |
-    RGlmZnVjdWx0eeWRvOWQuA==
+    5ZG85ZC45Zuw6Zuj
 
   how_intense_is_pain: !binary |
-    5L2g5LuOMeWIsDEw5YiG55qE55eb6Ium5piv5aSa5LmI5r+A54OI77yf
+    5oKo55qE55eb5qWa56iL5bqm5pyJ5aSa5by354OI77yfIOiri+S7pTEtMTDn
+    grrllq7kvY3ooaHph48g
 
   asthma: !binary |
     5ZOu5ZaY
 
   with_secretions: !binary |
-    5YiG5rOM54mp
+    5YiG5rOM54mp5ZGIIA==
+
+  specify__food_allergy: !binary |
+    6K+35YW35L2T6K+05piO
 
   muscles_and_bones: !binary |
     6IKM6IKJ5ZKM6aqo6aq8
 
   fainting: !binary |
-    5piP5Y6lL+aEj+ivhuS4p+WksQ==
+    5piP5Y6lL+S4p+WkseaEj+ivhg==
 
   heart_attack: !binary |
     5b+D6ISP55eF5Y+R5L2c
@@ -245,10 +251,16 @@ zh:
     57OW5bC/55eF
 
   specify: !binary |
-    5oyH5a6a
+    6KuL5YW35L2T6Kqq5piOIA==
 
   burn: !binary |
     54On5Lyk
+
+  specify__med_allergy: !binary |
+    6KuL5YW35L2T6Kqq5piO
+
+  no__have_list: !binary |
+    5rKh5pyJ
 
   day_month_year: DD / MM / YYYY
   digestive_tract: !binary |
@@ -264,16 +276,16 @@ zh:
     6auY6KGA5Y6L
 
   choking: !binary |
-    56qS5oGv77yM5Zug5Li66bKg5Zyo5ZaJ55qE5a+56LGh
+    56qS5oGv77yM5Zug5pyJ54mp5L2T6bKg5Zyo5ZaJ5ZKZ
 
   vomiting: !binary |
     5ZGV5ZCQ
 
   to_medication: !binary |
-    5pyN6I2v
+    6I2v54mpIA==
 
   which_meds_do_you_take: !binary |
-    5aaC5p6c5rKh5pyJ77yM5L2g5bim55qE6I2v54mp
+    5aaC5p6c5rKh5pyJ77yM5oKo5pyN55So55qE6I2v54mp54K6
 
   diarrhea: !binary |
     6IW55rO7
@@ -288,13 +300,13 @@ zh:
     6aOf5qyy5LiN5oyv
 
   pain_scale: !binary |
-    5a655b+NPSAxLTPkuI3loKrlv43lj5c9IDEw
+    5Y+v5a655b+NPSAxLTPkuI3loKrlv43lj5c9IDEw
 
   cough: !binary |
     5ZKz5Ze9
 
   stool_red: !binary |
-    57qi6KGA5LiO5aSn5L6/
+    57qi6KGA5aSn5L6/
 
   reproductive_system: !binary |
     55Sf5q6W57O757uf
@@ -309,7 +321,7 @@ zh:
     5pel5pyf
 
   urine: !binary |
-    5bC/5ray
+    5bC/5ray5ZGI6KGA
 
   emergency_triage_questionnaire: !binary |
     57Sn5oClIC0g5YiG5rWB6Zeu5Y23
@@ -318,7 +330,7 @@ zh:
     SeWeiw==
 
   language: !binary |
-    6K+t6KiA77ya5Lit5Zu9
+    6K+t6KiA77ya6Iux6K+t
 
   constipation: !binary |
     5L6/56eY
@@ -327,7 +339,7 @@ zh:
     6buR6Imy5aSn5L6/
 
   cramps: !binary |
-    5oq9562L
+    5oq9562LL+e1nueXmyAg
 
   type2: !binary |
     SUnlnos=
@@ -345,7 +357,10 @@ zh:
     5piv
 
   physical_or_mental_handicap: !binary |
-    5LiA5Liq6IKi5L2T5Lyk5q6L5oiW5byx5pm6
+    IOiCouS9k+S8pOaui+aIluW8seaZuiA=
+
+  diffuse: !binary |
+    5omp5pWj55a855ebIA==
 
   stomach_ulcer: !binary |
     6IOD5rqD55ah
@@ -354,7 +369,7 @@ zh:
     55iZ55eS
 
   swelling: !binary |
-    5LiA5Liq5oiW5aSa5Liq6IKi5L2T6IK/6IOA
+    6IKi5L2T6IK/6IOA
 
   endocrine_system: !binary |
     5YaF5YiG5rOM57O757uf
@@ -368,6 +383,9 @@ zh:
   white: !binary |
     55m9
 
+  specify__handicap: !binary |
+    6KuL5YW35L2T6Kqq5piO
+
   cancer: !binary |
     55mM55eH
 
@@ -378,7 +396,7 @@ zh:
     6aOf54mp
 
   do_you_have_allergies: !binary |
-    5L2g5pyJ5Lu75L2V6L+H5pWP77ya
+    5oKo5pyJ5Lu75L2V6L+H5pWP55eH5ZCX77yf
 
   congestive_heart_failure: !binary |
     5YWF6KGA5oCn5b+D5Yqb6KGw56ut
@@ -387,8 +405,8 @@ zh:
     5Y+R54On
 
   what_is_the_reason: !binary |
-    5oKo5ZKo6K+i55qE5Y6f5Zug5piv5LuA5LmI77yf6K+35o+P6L+w5oKo55qE
-    5oOF5Ya15pyA5aW955qE6YCJ5oup5p2h5Lu244CC
+    5oKo5ZKo6K+i55qE5Y6f5Zug5piv5LuA5LmI77yf6K+36YCJ5oup5pyA6IO9
+    5aSg5o+P6L+w5oKo55qE5oOF5Ya1
 
   brown: !binary |
     5qOV6Imy
@@ -397,36 +415,46 @@ zh:
     5oG25b+D
 
   stool: !binary |
-    57Kq5L6/
+    57Kq5L6/5ZGI6KGA
 
   do_you_have_list_of_meds: !binary |
-    5L2g5pyJ5L2g55qE6I2v54mp5YiX6KGo77yM5oKo5Y+v5Lul5ZCR5oiR5Lus
-    5bGV56S65ZCX77yf
+    5oKo5Y+v5Lul5o+Q5L6b5oKo5pyN55So55qE6I2v54mp5YiX6KGo5ZCX77yf
 
   do_you_take_meds: !binary |
-    5L2g5piv5ZCm6YeH5Y+W6I2v54mp5rK755aX5ZKML+aIlue7tOeUn+e0oOWQ
-    l++8nw==
+    5oKo5pyJ5pyN55So6I2v54mp5oiW57u055Sf57Sg5ZCX77yf
 
   blood_in: !binary |
     6KGA77ya
 
   number_of_times: !binary |
-    5qyh5pWw77ya
+    55m855Sf5qyh5pWw77yaIA==
 
   localized: !binary |
-    5pys5Zyw5YyW
+    5bGA6YOo55a855ebIA==
 
   tightness: !binary |
     57Sn5byg
 
+  no__take_meds: !binary |
+    5peg
+
+  yes__have_list: !binary |
+    5Y+v5Lul
+
+  yes__take_meds: !binary |
+    5pyJ
+
   numbness: !binary |
-    6bq75pyo
+    6bq755e6L+WHjeWDtQ==
+
+  no__first_time: !binary |
+    5LiN5piv
 
   stool_desc: !binary |
     5L6/6KGA77yI6buR5L6/5oiW5aSn5L6/57qi57uG6IOe77yJ
 
   stabbing: !binary |
-    5Yi6
+    5Yi655ebICAg
 
   hiv_aids: !binary |
     6Im+5ruL55eF5q+SL+iJvua7i+eXhQ==
@@ -441,23 +469,23 @@ zh:
     5q+S6I2v77yI5L6L5aaC77ya5a6255So5Lqn5ZOB77yJ
 
   weight_loss: !binary |
-    5aSx6YeN
+    5L2T6YeN5LiL6ZmN
 
   how_long_suffering: !binary |
-    5L2g5bey5oKj6L+Z56eN5oOF5Ya15LiL5pyJ5aSa5LmF77yf
+    5Lul5LiK5oOF5Ya155m855Sf5pyJ5aSa5LmF77yf
 
   "no": !binary |
-    5peg
+    5LiN5piv
 
   emphysema: !binary |
-    5rCU6IK/
+    6IK65rCU6IK/
 
 es-MX: 
   psychiatric_problems: "Trastornos psiqui\xC3\xA1tricos"
   drugs: las drogas
-  diffused: General
   dizziness: Mareo
   stroke: Accidente cerebrovascular/ derrame cerebral
+  yes__first_time: ""
   intoxication_with: "Intoxicaci\xC3\xB3n con:"
   alcohol: alcohol
   have_you_been_diagnosed: "\xC2\xBFAlguna vez ha sido diagnosticado o tratado por alguna de las siguientes condiciones:"
@@ -466,12 +494,15 @@ es-MX:
   how_intense_is_pain: Como intenso es su dolor en una escala de 1 a 10?
   asthma: Asma
   with_secretions: "con secreci\xC3\xB3n"
+  specify__food_allergy: ""
   muscles_and_bones: "musculo-esquel\xC3\xA9tico"
   fainting: "Desmayo/ P\xC3\xA9rdida de conocimiento"
   heart_attack: "Infarto agudo de miocardio/ Ataque card\xC3\xADaco/ Infarto"
   diabetes: ""
   specify: Especifique
   burn: Una quemadura
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: DD / MM / AAAA
   digestive_tract: digestivo
   heart_and_veins: cardio-vascular
@@ -511,6 +542,7 @@ es-MX:
     U8Ot
 
   physical_or_mental_handicap: "Impedimento f\xC3\xADsico o discapacidad intelectual"
+  diffuse: General
   stomach_ulcer: "\xC3\x9Alcera de est\xC3\xB3mago"
   itching: "Comez\xC3\xB3n"
   swelling: "Uno o m\xC3\xA1s miembros hinchados"
@@ -518,6 +550,7 @@ es-MX:
   burning_sensation: "Sensaci\xC3\xB3n de quemaz\xC3\xB3n"
   pain: Tiene dolor
   white: blanca
+  specify__handicap: ""
   cancer: "C\xC3\xA1ncer"
   chronic_bronchitis: "Bronquitis cr\xC3\xB3nica"
   to_food: alimentos
@@ -534,7 +567,11 @@ es-MX:
   number_of_times: "N\xC3\xBAmero de veces:"
   localized: Localizada
   tightness: Punzadas
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: Entumecimiento
+  no__first_time: ""
   stool_desc: Uno o varios miembros hinchados
   stabbing: "en pu\xC3\xB1alada"
   hiv_aids: VIH / SIDA
@@ -548,7 +585,6 @@ es-MX:
 sw: 
   psychiatric_problems: Matatizo ya akili
   drugs: madawa ya kulevya
-  diffused: Diffused
   dizziness: Kizunguzungu
   stroke: Kiharusi
   intoxication_with: "Ulevi na:"
@@ -598,6 +634,7 @@ sw:
   yellow: manjano
   "yes": Ndiyo
   physical_or_mental_handicap: ulemavu wa kimwili au ulemavu wa akili
+  diffuse: Kueneza
   stomach_ulcer: Tumbo kidonda
   itching: Itching
   swelling: Kuvimba kwa viungo moja au zaidi
@@ -640,15 +677,13 @@ ru-RU:
   drugs: !binary |
     0L3QsNGA0LrQvtGC0LjQumHQvNC4
 
-  diffused: !binary |
-    UNCw0YHQv9GA0L7RgdGC0YDQsNC90ZHQvdC90LDRjw==
-
   dizziness: !binary |
     0JPQvtC70L7QstC+0LrRgNGD0LbQtdC90LjQtQ==
 
   stroke: !binary |
     0JjQvdGB0YPQu9GM0YI=
 
+  yes__first_time: ""
   intoxication_with: !binary |
     0J7Qv9GM0Y/QvdC10L3QuNC1INC+0YI6
 
@@ -677,6 +712,7 @@ ru-RU:
   with_secretions: !binary |
     0YEg0LLRi9C00LXQu9C10L3QuNGP0LzQuA==
 
+  specify__food_allergy: ""
   muscles_and_bones: !binary |
     0LzRi9GI0YYg0Lgg0LrQvtGB0YLQtdC5
 
@@ -696,6 +732,8 @@ ru-RU:
   burn: !binary |
     0JbQttC10L3QuNC1
 
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: !binary |
     0JTQlC/QnNCcL9CT0JPQk9CT
 
@@ -801,6 +839,9 @@ ru-RU:
     0YTQuNC30LjRh9C10YHQutC40YUg0LjQu9C4INGD0LzRgdGC0LLQtdC90L3R
     i9GFINC90LXQtNC+0YHRgtCw0YLQutC+0LI=
 
+  diffuse: !binary |
+    UNCw0YHQv9GA0L7RgdGC0YDQsNC90ZHQvdC90LDRjw==
+
   stomach_ulcer: !binary |
     0K/Qt9Cy0LAg0LbQtdC70YPQtNC60LA=
 
@@ -823,6 +864,7 @@ ru-RU:
   white: !binary |
     0LHQtdC70YvQtQ==
 
+  specify__handicap: ""
   cancer: !binary |
     0KDQsNC6
 
@@ -880,9 +922,13 @@ ru-RU:
   tightness: !binary |
     0L/Qu9C+0YLQvdCw0Y8=
 
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: !binary |
     0J7QvdC10LzQtdC90LjQtQ==
 
+  no__first_time: ""
   stool_desc: !binary |
     0LrQsNC70LUgKNGH0LXRgNC90YvQuSDQutCw0Lsg0LjQu9C4INC60YDQsNGB
     0L3QsNGPINC60YDQvtCy0Ywg0LIg0LrQsNC70LUp
@@ -923,15 +969,13 @@ bg:
   drugs: !binary |
     0L3QsNGA0LrQvtGC0LjRhtC4
 
-  diffused: !binary |
-    0YDQsNC30YHQtdGP0L3QsA==
-
   dizziness: !binary |
     0LfQsNC80LDRj9C90L7RgdGC
 
   stroke: !binary |
     0JjQvdGB0YPQu9GC
 
+  yes__first_time: ""
   intoxication_with: !binary |
     0JjQvdGC0L7QutGB0LjQutCw0YbQuNGPINGBOg==
 
@@ -941,8 +985,8 @@ bg:
   have_you_been_diagnosed: !binary |
     0JHQuNC70Lgg0LvQuCDRgdGC0LUg0L3Rj9C60L7Qs9CwINCx0LjQu9C4INC0
     0LjQsNCz0L3QvtGB0YLQuNGG0LjRgNCw0L3QuCDQuNC70Lgg0LvQtdC60YPQ
-    stCw0L3QuCDQt9CwINCy0YHRj9C60L4g0L7RgiDRgdC70LXQtNC90LjRgtC1
-    INC30LTRgNCw0LLQvtGB0LvQvtCy0L3QuCDQv9GA0L7QsdC70LXQvNC4Pw==
+    stCw0L3QuCDQt9CwINC90Y/QutC+0Y8g0L7RgiDRgdC70LXQtNC90LjRgtC1
+    INC30LTRgNCw0LLQvdC4INC/0YDQvtCx0LvQtdC80Lg/
 
   is_this_the_first_time: !binary |
     0JTQsNC70Lgg0YLQvtCy0LAg0LUg0L/RitGA0LLQuCDQv9GK0YI/
@@ -960,6 +1004,7 @@ bg:
   with_secretions: !binary |
     0YHRitGBINGB0LXQutGA0LXRgtC4
 
+  specify__food_allergy: ""
   muscles_and_bones: !binary |
     0LzRg9GB0LrRg9C70L3Qvi3RgdC60LXQu9C10YLQvdCw0YLQsCDRgdC40YHR
     gtC10LzQsA==
@@ -979,6 +1024,8 @@ bg:
   burn: !binary |
     0JXQtNC90L4g0LjQt9Cz0LDRgNGP0L3QtQ==
 
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: !binary |
     0JTQlCAvINCc0JwgLyDQk9CT0JPQkw==
 
@@ -1084,6 +1131,9 @@ bg:
     CtGE0LjQt9C40YfQtdGB0LrQsCDQuNC70Lgg0YPQvNGB0YLQstC10L3QsCDQ
     vdC10LTRitC30Lg=
 
+  diffuse: !binary |
+    0YDQsNC30YHQtdGP0L3QsA==
+
   stomach_ulcer: !binary |
     0K/Qt9Cy0LAg0L3QsCDRgdGC0L7QvNCw0YXQsA==
 
@@ -1106,6 +1156,7 @@ bg:
   white: !binary |
     0LHRj9C7
 
+  specify__handicap: ""
   cancer: !binary |
     0YDQsNC6
 
@@ -1127,10 +1178,10 @@ bg:
 
   what_is_the_reason: !binary |
     0JrQsNC60LLQsCDQtSDQv9GA0LjRh9C40L3QsNGC0LAg0LfQsCDQstCw0YjQ
-    sNGC0LAg0LrQvtC90YHRg9C70YLQsNGG0LjRjz8g0JzQvtC70Y8g0LjQt9Cx
-    0LXRgNC10YLQtSDRg9GB0LvQvtCy0LjRjywg0LrQvtC40YLQviDQvtC/0LjR
-    gdCy0LDRgiDQvdCw0Lkt0LTQvtCx0YDQuNGPINGB0Lgg0L/QvtC70L7QttC1
-    0L3QuNC1Lg==
+    sNGC0LAg0LrQvtC90YHRg9C70YLQsNGG0LjRjz8g0JzQvtC70Y8sINC40LfQ
+    sdC10YDQtdGC0LUg0YPRgdC70L7QstC40Y8sINC60L7QuNGC0L4g0L7Qv9C4
+    0YHQstCw0YIg0L3QsNC5LdC00L7QsdGA0LjRjyDRgdC4INC/0L7Qu9C+0LbQ
+    tdC90LjQtS4=
 
   brown: !binary |
     0LrQsNGE0Y/Qsg==
@@ -1162,9 +1213,13 @@ bg:
   tightness: !binary |
     0KHRgtGP0LPQsNC90LU=
 
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: !binary |
     0KHQutC+0LLQsNC90L7RgdGC
 
+  no__first_time: ""
   stool_desc: !binary |
     CtC40LfQv9GA0LDQttC90LXQvdC40Y/RgtCwICjQuNC30L/RgNCw0LbQvdC1
     0L3QuNGP0YLQsCDRgdCwINGH0LXRgNC90LgsINGH0LXRgNCy0LXQvdCwINC6
@@ -1202,9 +1257,9 @@ bg:
 pt-PT: 
   psychiatric_problems: "Problemas psiqui\xC3\xA1tricos"
   drugs: drogas
-  diffused: Difuso
   dizziness: Vertigem
   stroke: Acidente vascular cerebral/ derrame cerebral
+  yes__first_time: ""
   intoxication_with: "Intoxica\xC3\xA7\xC3\xA3o com:"
   alcohol: "\xC3\xA1lcool"
   have_you_been_diagnosed: "\n\
@@ -1214,12 +1269,15 @@ pt-PT:
   how_intense_is_pain: "Como intensa \xC3\xA9 sua dor em uma escala de 1 a 10 "
   asthma: Asma
   with_secretions: "com secre\xC3\xA7\xC3\xB5es"
+  specify__food_allergy: ""
   muscles_and_bones: musculo-esqueletico
   fainting: "Desmaios / perda de consci\xC3\xAAncia"
   heart_attack: "Ataque card\xC3\xADaco/ infarto "
   diabetes: Diabete
   specify: Especifique
   burn: Uma queimadura
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: DD / MM / AAAA
   digestive_tract: trato digestivo
   heart_and_veins: cardiovascular
@@ -1257,6 +1315,7 @@ pt-PT:
   yellow: amarelas
   "yes": Sim
   physical_or_mental_handicap: "uma defici\xC3\xAAncia f\xC3\xADsica ou mental"
+  diffuse: Difuso
   stomach_ulcer: "\xC3\x9Alcera de est\xC3\xB4mago"
   itching: "Comich\xC3\xA3o "
   swelling: "Incha\xC3\xA7o de um ou mais membros"
@@ -1264,6 +1323,7 @@ pt-PT:
   burning_sensation: "Sensa\xC3\xA7\xC3\xA3o ardente "
   pain: Dor
   white: brancas
+  specify__handicap: ""
   cancer: Cancro
   chronic_bronchitis: "Bronquite cr\xC3\xB3nica"
   to_food: !binary |
@@ -1284,7 +1344,11 @@ pt-PT:
   number_of_times: "Quantas vezes:"
   localized: Localizada
   tightness: Um aperto
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: Entorpecimento
+  no__first_time: ""
   stool_desc: "f\xC3\xA9zes (f\xC3\xA9zes pretas ou sangue vermelho com as f\xC3\xA9zes)"
   stabbing: Penetrante
   hiv_aids: HIV/ SIDA
@@ -1300,9 +1364,9 @@ pt-PT:
 fr-FR: 
   psychiatric_problems: Troubles psychiatriques
   drugs: de la drogue
-  diffused: Diffuse
   dizziness: "\xC3\x89tourdissements"
   stroke: "Accident Vasculaire C\xC3\xA9r\xC3\xA9bral (ACV)"
+  yes__first_time: ""
   intoxication_with: "lnloxication avec:"
   alcohol: de l'alcool
   have_you_been_diagnosed: "Avez-vous d\xC3\xA9ja \xC3\xA9t\xC3\xA9 diagnostiqu\xC3\xA9s ou trait\xC3\xA9s pour les probl\xC3\xA8mes de sant\xC3\xA9 suivants?"
@@ -1311,12 +1375,15 @@ fr-FR:
   how_intense_is_pain: "Indiquez l'intensit\xC3\xA9 de votre douleur de 1 a 10?"
   asthma: L'asthme
   with_secretions: "avec secr\xC3\xA9tions"
+  specify__food_allergy: ""
   muscles_and_bones: musculo-squelettique
   fainting: "\xC3\x89vanouissements/Perte de conscience"
   heart_attack: Crise cardiaque
   diabetes: "Diab\xC3\xA8te"
   specify: "Pr\xC3\xA9cisez"
   burn: "Br\xC3\xBBlure"
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: JJ / MM / AAAA
   digestive_tract: digestif
   heart_and_veins: cardio-vasculaire
@@ -1350,6 +1417,7 @@ fr-FR:
   yellow: "jaun\xC3\xA2tres"
   "yes": Oui
   physical_or_mental_handicap: handicap physique ou mental
+  diffuse: Diffuse
   stomach_ulcer: "Ulc\xC3\xA8re \xC3\xA0 l'estomac"
   itching: "D\xC3\xA9mangeaison"
   swelling: "Un/des membres enfl\xC3\xA9s"
@@ -1357,6 +1425,7 @@ fr-FR:
   burning_sensation: "Sensation de br\xC3\xBBlement"
   pain: Une douleur
   white: blanches
+  specify__handicap: ""
   cancer: Cancer
   chronic_bronchitis: La bronchite chronique
   to_food: A la nourriture
@@ -1373,7 +1442,11 @@ fr-FR:
   number_of_times: "Nombre de fois:"
   localized: "localis\xC3\xA9e"
   tightness: Un serrement
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: Engourdissement
+  no__first_time: ""
   stool_desc: selles (selles noires ou sang rouge avec selles)
   stabbing: Poignardante
   hiv_aids: VIH / SIDA
@@ -1387,9 +1460,9 @@ fr-FR:
 en-US: 
   psychiatric_problems: Psychiatric problems
   drugs: drugs
-  diffused: Diffused
   dizziness: Dizziness
   stroke: Stroke
+  yes__first_time: ""
   intoxication_with: "Intoxication with:"
   alcohol: alcohol
   have_you_been_diagnosed: Have you ever been diagnosed or treated for any of the following health issues?
@@ -1398,12 +1471,15 @@ en-US:
   how_intense_is_pain: How intense is your pain on a scale from 1 to 10?
   asthma: Asthma
   with_secretions: with secretions
+  specify__food_allergy: ""
   muscles_and_bones: muscles and bones
   fainting: Fainting/loss of consciousness
   heart_attack: Heart Attack
   diabetes: Diabetes
   specify: Specify
   burn: A burn
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: DD/MM/YYYY
   digestive_tract: digestive tract
   heart_and_veins: heart and veins
@@ -1437,6 +1513,7 @@ en-US:
   yellow: yellow
   "yes": "Yes"
   physical_or_mental_handicap: A physical handicap or mental handicap
+  diffuse: Diffuse
   stomach_ulcer: Stomach Ulcer
   itching: Itching
   swelling: Swelling of one or more limbs
@@ -1444,6 +1521,7 @@ en-US:
   burning_sensation: Burning Sensation
   pain: Pain
   white: white
+  specify__handicap: ""
   cancer: Cancer
   chronic_bronchitis: Chronic bronchitis
   to_food: To food
@@ -1460,7 +1538,11 @@ en-US:
   number_of_times: "Number of times:"
   localized: Localized
   tightness: Tightness
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: Numbness
+  no__first_time: ""
   stool_desc: stool (black stool or red blood with stool)
   stabbing: Stabbing
   hiv_aids: HIV / AIDS
@@ -1478,15 +1560,13 @@ ar:
   drugs: !binary |
     2KfZhNmF2K7Yr9ix2KfYqg==
 
-  diffused: !binary |
-    2YXZhtiq2LTYsQ==
-
   dizziness: !binary |
     2K/ZiNiu2Kk=
 
   stroke: !binary |
     2KfZhNiz2YPYqtipINin2YTYr9mF2KfYutmK2Kk=
 
+  yes__first_time: ""
   intoxication_with: !binary |
     2KfZhNiq2LPZhdmFINmF2LkgOg==
 
@@ -1514,6 +1594,7 @@ ar:
   with_secretions: !binary |
     2YXYuSDYp9mB2LHYp9iy2KfYqg==
 
+  specify__food_allergy: ""
   muscles_and_bones: !binary |
     2KfZhNi52LbZhNin2Kog2YjYp9mE2LnYuNin2YU=
 
@@ -1530,8 +1611,10 @@ ar:
     2KrYrdiv2YrYrw==
 
   burn: !binary |
-    2YjZitit2LHZgg==
+    2YjYrdix2YI=
 
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: DD / MM / YYYY
   digestive_tract: !binary |
     2KfZhNis2YfYp9iyINin2YTZh9i22YXZig==
@@ -1546,7 +1629,7 @@ ar:
     2KfYsdiq2YHYp9i5INi22LrYtyDYp9mE2K/ZhQ==
 
   choking: !binary |
-    2KjYs9io2Kgg2KfZhNin2K7YqtmG2KfZgiDZg9in2KbZhiDYudin2YTZgtin
+    2KfZhNin2K7YqtmG2KfZgiDYqNiz2KjYqCDZg9in2KbZhiDYudin2YTZgtin
     INmB2Yog2KfZhNit2YTZgg==
 
   vomiting: !binary |
@@ -1632,6 +1715,9 @@ ar:
     2YjYp9mE2KXYudin2YLYqSDYp9mE2KzYs9iv2YrYqSDYo9mIINin2YTYpdi5
     2KfZgtipINin2YTYudmC2YTZitip
 
+  diffuse: !binary |
+    2YXZhtiq2LTYsQ==
+
   stomach_ulcer: !binary |
     2YLYsdit2Kkg2KfZhNmF2LnYr9ip
 
@@ -1654,11 +1740,13 @@ ar:
   white: !binary |
     2KPYqNmK2LY=
 
+  specify__handicap: ""
   cancer: !binary |
     2LPYsdi32KfZhg==
 
   chronic_bronchitis: !binary |
-    2KfZhNiq2YfYp9ioINin2YTZgti12KjYp9iqINin2YTZhdiy2YXZhg==
+    2KfZhNiq2YfYp9ioINin2YTYtNi52Kgg2KfZhNmH2YjYp9im2YrYqSDYp9mE
+    2YXYstmF2YY=
 
   to_food: !binary |
     2YHZiiDYp9mE2LrYsNin2KE=
@@ -1707,9 +1795,13 @@ ar:
   tightness: !binary |
     2LbZitmC
 
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: !binary |
     2K7Yr9ix
 
+  no__first_time: ""
   stool_desc: !binary |
     2KfZhNio2LHYp9iyICjYqNix2KfYsiDYo9iz2YjYryDYo9mIINij2K3Zhdix
     INin2YTYr9mFINmF2Lkg2KfZhNio2LHYp9iyKQ==
@@ -1751,15 +1843,13 @@ sr:
   drugs: !binary |
     0LvQtdC60L7QstC4
 
-  diffused: !binary |
-    0JTQuNGE0YPQt9C90LU=
-
   dizziness: !binary |
     0JLRgNGC0L7Qs9C70LDQstC40YbQsA==
 
   stroke: !binary |
     0KPQtNCw0YA=
 
+  yes__first_time: ""
   intoxication_with: !binary |
     0JjQvdGC0L7QutGB0LjQutCw0YbQuNGY0LAg0YHQsDo=
 
@@ -1776,11 +1866,11 @@ sr:
     0JTQsCDQu9C4INGY0LUg0L7QstC+INC/0YDQstC4INC/0YPRgj8=
 
   difficulty_breathing: !binary |
-    0JTQuNGE0YTRg9GG0YPQu9GC0Lgg0JHRgNC10LDRgtGF0LjQvdCz
+    0JTQuNGE0YTRg9GG0YPQu9GC0Lgg0LTQuNGB0LDRmtC1
 
   how_intense_is_pain: !binary |
-    0JrQsNC60L4g0LjQvdGC0LXQvdC30LjQstCw0L0g0ZjQtSDQstCw0YjQsCDQ
-    sdC+0Lsg0L3QsCDRgdC60LDQu9C4INC+0LQgMSDQtNC+IDEwPw==
+    0JrQsNC60L4g0ZjQtSDQstCw0Ygg0LjQvdGC0LXQvdC30LjQstCw0L0g0LHQ
+    vtC7INC90LAg0YHQutCw0LvQuCDQvtC0IDEg0LTQviAxMD8=
 
   asthma: !binary |
     0JDRgdGC0LzQsA==
@@ -1788,6 +1878,7 @@ sr:
   with_secretions: !binary |
     0YHQsCDRgdC10LrRgNC10YLQuNC80LA=
 
+  specify__food_allergy: ""
   muscles_and_bones: !binary |
     0LzQuNGI0LjRm9C4INC4INC60L7RgdGC0Lg=
 
@@ -1807,6 +1898,8 @@ sr:
   burn: !binary |
     0JPQvtGA0Lg=
 
+  specify__med_allergy: ""
+  no__have_list: ""
   day_month_year: !binary |
     0JTQlCAvINCc0JwgLyDQk9CT0JPQkw==
 
@@ -1911,6 +2004,9 @@ sr:
     0KTQuNC30LjRh9C60Lgg0YXQtdC90LTQuNC60LXQvyDQuNC70Lgg0LzQtdC9
     0YLQsNC70L3QuNC8INGF0LXQvdC00LjQutC10L/QvtC8
 
+  diffuse: !binary |
+    0JTQuNGE0YPQt9Cw0L0=
+
   stomach_ulcer: !binary |
     0KfQuNGA0LAg0L3QsCDQttC10LvRg9GG0YM=
 
@@ -1933,6 +2029,7 @@ sr:
   white: !binary |
     0LHQtdC70Lg=
 
+  specify__handicap: ""
   cancer: !binary |
     0KDQsNC6
 
@@ -1970,8 +2067,7 @@ sr:
 
   do_you_have_list_of_meds: !binary |
     0JTQsCDQu9C4INC40LzQsNGC0LUg0LvQuNGB0YLRgyDQu9C10LrQvtCy0LAg
-    0LrQvtGY0LUg0LzQvtC20LXRgtC1INC00LAg0L3QsNC8INC/0L7QutCw0LbQ
-    tT8=
+    0LrQvtGY0Lgg0LzQvtC20LUg0LTQsCDQvdCw0Lwg0L/QvtC60LDQttC1Pw==
 
   do_you_take_meds: !binary |
     0JTQsCDQu9C4INGD0LfQuNC80LDRgtC1INC70LXQutC+0LLQtSDQuCAvINC4
@@ -1989,9 +2085,13 @@ sr:
   tightness: !binary |
     0KHRgtC10LPQvdGD0YLQvtGB0YI=
 
+  no__take_meds: ""
+  yes__have_list: ""
+  yes__take_meds: ""
   numbness: !binary |
     0KPRgtGA0L3Rg9C70L7RgdGC
 
+  no__first_time: ""
   stool_desc: !binary |
     0YHRgtC+0LvQuNGG0LAgKNGG0YDQvdCwINGB0YLQvtC70LjRhtCwINC40LvQ
     uCDRhtGA0LLQtdC90LAg0LrRgNCy0L3QsCDRgdCwINGB0YLQvtC70LjRhtC4

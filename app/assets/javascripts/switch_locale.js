@@ -13,7 +13,16 @@ function switchLocale(locale) {
     } else {
       name = item;
     }
-    $('.translate_'+name).each(function(index) { $(this).text(I18n.t(name, opts) || '!missing_translation!'); });
+    
+    var text = I18n.t(name, opts);
+    if (!text || text.length == 0) {
+      var match = name.match(/(.*)__/);
+      if (match && match.length >= 2) {
+        var newName = match[1];
+        text = I18n.t(newName, opts);
+      }
+    }
+    $('.translate_'+name).each(function(index) { $(this).text(text || '!missing_translation!'); });
   });
 }
 

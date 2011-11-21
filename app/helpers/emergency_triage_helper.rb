@@ -16,7 +16,7 @@ module EmergencyTriageHelper
   end
   
   def yes_no_item(name)
-    radio_item(name, :yes, :yes) + ' ' + radio_item(name, :no, :no)
+    radio_item(name, :yes, :"yes__#{name}") + ' ' + radio_item(name, :no, :"no__#{name}")
   end
   
   def text_field_item(name, label_class = nil, size = 2, label_first = false)
