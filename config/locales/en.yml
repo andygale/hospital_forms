@@ -3,37 +3,37 @@ it:
   psychiatric_problems: Problemi psichiatrici
   drugs: farmaci
   dizziness: Vertigini
-  stroke: Corsa
+  stroke: Colpo apoplettico
   intoxication_with: "Intossicazione con:"
   alcohol: alcool
-  have_you_been_diagnosed: Sei mai stata diagnosticata o trattata per uno qualsiasi dei seguenti problemi di salute?
-  is_this_the_first_time: "\xC3\x88 questa la prima volta?"
-  difficulty_breathing: Diffuculty respirazione
+  have_you_been_diagnosed: Sei mai stata diagnosticato/a o trattato/a per uno qualsiasi dei seguenti problemi di salute?
+  is_this_the_first_time: "Questa \xC3\xA8 la prima volta?"
+  difficulty_breathing: Difficolta a respirare
   how_intense_is_pain: "Quanto intenso \xC3\xA8 il vostro dolore su una scala da 1 a 10?"
   asthma: Asma
   with_secretions: con secrezioni
-  muscles_and_bones: muscoli e le ossa
-  fainting: Svenimento / perdita di coscienza
-  heart_attack: Cardiaco
+  muscles_and_bones: i muscoli e le ossa
+  fainting: Emergenza - Questionario Triage
+  heart_attack: Infarto
   diabetes: Diabete
   specify: Specificare
-  burn: A bruciare
+  burn: Una bruciatura
   day_month_year: GG / MM / AAAA
   digestive_tract: tratto digestivo
-  heart_and_veins: cuore e le vene
+  heart_and_veins: il cuore e le vene
   palpitations: Palpitazioni
   hypertension: Ipertensione
   choking: Soffocamento a causa di un oggetto bloccato in gola
   vomiting: Vomito
-  to_medication: Ai farmaci
-  which_meds_do_you_take: Se no, quali farmaci si prendono
+  to_medication: Al farmaci
+  which_meds_do_you_take: Se no, quali farmaci prendete
   diarrhea: Diarrea
-  months: mese
+  months: mesi
   pressure: Pressione
   appetite_loss: Perdita di appetito
   pain_scale: Tollerabile = 1-3 insostenibile = 10
   cough: Tosse
-  stool_red: rosso sangue con le feci
+  stool_red: feci rossi di sangue
   reproductive_system: sistema riproduttivo
   lungs: polmoni
   green: verde
@@ -43,7 +43,7 @@ it:
   type1: di tipo I
   language: "Lingua: Italiano"
   constipation: Costipazione
-  stool_black: sgabello nero
+  stool_black: feci neri
   cramps: Spasmi
   type2: di tipo II
   days: giorno
@@ -53,7 +53,7 @@ it:
     U8Os
 
   physical_or_mental_handicap: Un handicap fisico o di un handicap mentale
-  diffuse: Diffondere
+  diffuse: Diffuso
   stomach_ulcer: Ulcera allo stomaco
   itching: Prurito
   swelling: "Gonfiore di uno o pi\xC3\xB9 arti"
@@ -67,29 +67,29 @@ it:
   do_you_have_allergies: "Avete delle allergie:"
   congestive_heart_failure: Insufficienza cardiaca congestizia
   fever: Febbre
-  what_is_the_reason: "Qual \xC3\xA8 la ragione per un consulto? Si prega di selezionare le condizioni che descrivono il tuo migliore situazione."
+  what_is_the_reason: "Qual \xC3\xA8 la ragione per la sua consulta? Si prega di selezionare le condizioni che descrivono la sua situazione piu accuratamente."
   brown: marrone
   nausea: Nausea
-  stool: sgabello
-  do_you_have_list_of_meds: "Avete un elenco dei farmaci che si pu\xC3\xB2 mostrarci?"
-  do_you_take_meds: Avete assumere farmaci e / o vitamine?
+  stool: feci
+  do_you_have_list_of_meds: "Avete una lista dei vostri farmaci che  pu\xC3\xB2 mostrarci?"
+  do_you_take_meds: Avete preso farmaci e / o vitamine?
   blood_in: "Sangue in:"
-  number_of_times: "Numero di volte:"
+  number_of_times: "Quante volte:"
   localized: Localizzata
   tightness: Tensione
   numbness: Intorpidimento
-  stool_desc: feci (feci nere o rosso sangue con le feci)
-  stabbing: Stabbing
+  stool_desc: feci (feci neri o sangue rosso con le feci)
+  stabbing: Lanciante
   hiv_aids: HIV / AIDS
   fatigue: Fatica
   other_diseases: Altre malattie del
   poison: "veleno (es: prodotti per la casa)"
   weight_loss: Perdita di peso
-  how_long_suffering: Da quanto tempo sei stato colpito da questa condizione?
+  how_long_suffering: Da quanto tempo sei colpito da questa condizione?
   "no": "No"
   emphysema: Enfisema
 ht: 
-  psychiatric_problems: "Pwobl\xC3\xA8m Sikyatrik"
+  psychiatric_problems: "Pwobl\xC3\xA8m t\xC3\xA8t ou pa byen"
   drugs: !binary |
     ZHfDsmc=
 
@@ -101,19 +101,19 @@ ht:
   alcohol: !binary |
     YWxrw7Js
 
-  have_you_been_diagnosed: "\xC3\x88ske w te janm te dyagnostike oswa dlo trete pou nenp\xC3\xB2t nan pwobl\xC3\xA8m pi ba la yo?"
+  have_you_been_diagnosed: "Eske ou janm te dyagnostike oswa trete pou nenp\xC3\xB2t nan pwobl\xC3\xA8m sante sa yo?"
   is_this_the_first_time: "\xC3\x88ske sa se premye fwa a?"
-  difficulty_breathing: Respirasyon Diffuculty
+  difficulty_breathing: Respirasyon ak difikilte
   how_intense_is_pain: "Ki jan entans se doul\xC3\xA8 ou sou yon ech\xC3\xA8l de 1 a 10?"
   asthma: Opresyon
   with_secretions: ak sekresyon
   muscles_and_bones: misk ak zo
-  fainting: "Endispoze / p\xC3\xA8di konesans"
+  fainting: "Endispoze / p\xC3\xA8t konesans"
   heart_attack: Kriz Kadyak
   diabetes: "Dyab\xC3\xA8t"
   specify: Espesifye
   burn: Yon boule
-  day_month_year: JJ / MWA / AAAA
+  day_month_year: jou/mwa/ane
   digestive_tract: "apar\xC3\xA8y dijestif"
   heart_and_veins: "k\xC3\xA8 ak venn"
   palpitations: Palpitasyon
@@ -121,17 +121,15 @@ ht:
   choking: "Wap toufe paske yo te yon obj\xC3\xA8 kole nan g\xC3\xB2j"
   vomiting: Vomisman
   to_medication: Medikaman
-  which_meds_do_you_take: !binary |
-    5aaC5p6c5rKh5pyJ77yM5oKo5pyN55So55qE6I2v54mp54K6
-
+  which_meds_do_you_take: Si no, di nou ki medikaman w pran
   diarrhea: Dyare
   months: mwa
   pressure: Presyon
   appetite_loss: "P\xC3\xA8t apeti"
-  pain_scale: "R\xC3\xA8d = 1-3 ensip\xC3\xB2tab = 10"
+  pain_scale: "sip\xC3\xB2tab = 1-3 ensip\xC3\xB2tab = 10"
   cough: Tous
-  stool_red: wouj san ak poupou
-  reproductive_system: "repwodiksyon sist\xC3\xA8m"
+  stool_red: " poupou wouj"
+  reproductive_system: "sist\xC3\xA8m repwodiksyon "
   lungs: poumon
   green: !binary |
     dsOodA==
@@ -139,25 +137,25 @@ ht:
   date: dat
   urine: Pipi
   emergency_triage_questionnaire: "Ijans - Kesyon\xC3\xA8 Triyaj"
-  type1: type I
+  type1: Tip 1
   language: "Lang: krey\xC3\xB2l"
   constipation: Konstipasyon
-  stool_black: "nwa tabour\xC3\xA8"
+  stool_black: "poupou nwa "
   cramps: Lakranp
-  type2: type II
+  type2: Tip 2
   days: jou
   years: ane
   yellow: !binary |
     asOybg==
 
   "yes": Wi
-  physical_or_mental_handicap: andikap fizik oswa mantal
-  diffuse: Difize
+  physical_or_mental_handicap: Yon andikap fizik oswa andikap mantal
+  diffuse: Dou
   stomach_ulcer: "Uls\xC3\xA8r nan p\xC3\xB2ch lestomak"
   itching: Demanjezon
   swelling: Anfle a youn oubyen plis manm yo
   endocrine_system: "sist\xC3\xA8m andokrinyen"
-  burning_sensation: Burning Sensation
+  burning_sensation: Senti lap boule
   pain: !binary |
     RG91bMOo
 
@@ -165,33 +163,33 @@ ht:
   cancer: !binary |
     S2Fuc8Oo
 
-  chronic_bronchitis: Kwonik bwonchit
-  to_food: Yo a manje nan
-  do_you_have_allergies: "\xC3\x88ske ou gen nenp\xC3\xB2t al\xC3\xA8ji:"
+  chronic_bronchitis: "Bwonchit kwonik "
+  to_food: ak manje
+  do_you_have_allergies: "\xC3\x88ske ou kon gen  al\xC3\xA8ji:"
   congestive_heart_failure: "Konjestif k\xC3\xA8 Si w"
   fever: "Lafy\xC3\xA8v"
-  what_is_the_reason: "Ki sa ki se rezon ki f\xC3\xA8 la pou konsiltasyon ou a? Tanpri chwazi kondisyon yo ki dekri pi byen sitiyasyon ou."
+  what_is_the_reason: "Ki sa ki se rezon ki f\xC3\xA8 ou la pou konsiltasyon ou a? Tanpri chwazi kondisyon yo ki dekri sitiyasyon ou pi byen "
   brown: mawon
-  nausea: !binary |
-    4oCiIEvDqCBwbGVu
-
-  stool: "tabour\xC3\xA8"
-  do_you_have_list_of_meds: "\xC3\x88ske ou gen yon lis medikaman ou ke ou ka montre nou?"
+  nausea: Noze
+  stool: "poupou "
+  do_you_have_list_of_meds: "\xC3\x88ske ou gen yon lis medikaman wap pren pou ou ka montre nou?"
   do_you_take_meds: "\xC3\x88ske w ap pran medikaman ak / oswa vitamin?"
   blood_in: "San nan:"
   number_of_times: "Kantite fwa nan:"
   localized: Lokalize
   tightness: Sere
   numbness: "P\xC3\xA8t sansasyon"
-  stool_desc: poupou (nwa poupou oswa wouj san ak poupou)
-  stabbing: Kout kouto
+  stool_desc: poupou ( poupou nwa oswa poupou ak wouj san  )
+  stabbing: |-
+    Presyon
+    Kout kouto
   hiv_aids: VIH / SIDA
   fatigue: Fatig
   other_diseases: "L\xC3\xB2t maladi ki nan la"
   poison: "pwazon (eks: pwodwi kay la)"
-  weight_loss: "P\xC3\xA8t pwa"
+  weight_loss: "P\xC3\xA8di pwa"
   how_long_suffering: Depi konbyen tan ou te soufri nan kondisyon sa a?
-  "no": Pa gen
+  "no": "No"
   emphysema: "Anfiz\xC3\xA8m"
 zh: 
   psychiatric_problems: !binary |
@@ -305,9 +303,7 @@ zh:
   cough: !binary |
     5ZKz5Ze9
 
-  stool_red: !binary |
-    57qi6KGA5aSn5L6/
-
+  stool_red: ""
   reproductive_system: !binary |
     55Sf5q6W57O757uf
 
@@ -475,7 +471,7 @@ zh:
     5Lul5LiK5oOF5Ya155m855Sf5pyJ5aSa5LmF77yf
 
   "no": !binary |
-    5LiN5piv
+    0J3QtQ==
 
   emphysema: !binary |
     6IK65rCU6IK/
@@ -498,7 +494,7 @@ es-MX:
   muscles_and_bones: "musculo-esquel\xC3\xA9tico"
   fainting: "Desmayo/ P\xC3\xA9rdida de conocimiento"
   heart_attack: "Infarto agudo de miocardio/ Ataque card\xC3\xADaco/ Infarto"
-  diabetes: ""
+  diabetes: Diabetes
   specify: Especifique
   burn: Una quemadura
   specify__med_allergy: ""
@@ -528,7 +524,7 @@ es-MX:
   type1: tipo I
   language: "Idioma: Espa\xC3\xB1ol"
   constipation: "Estre\xC3\xB1imiento"
-  stool_black: negro heces
+  stool_black: heces negras
   cramps: Calambres
   type2: tipo II
   days: !binary |
@@ -1221,9 +1217,9 @@ bg:
 
   no__first_time: ""
   stool_desc: !binary |
-    CtC40LfQv9GA0LDQttC90LXQvdC40Y/RgtCwICjQuNC30L/RgNCw0LbQvdC1
-    0L3QuNGP0YLQsCDRgdCwINGH0LXRgNC90LgsINGH0LXRgNCy0LXQvdCwINC6
-    0YDRitCyINGBINC40LfQv9GA0LDQttC90LXQvdC40Y/RgtCwKQ==
+    0LjQt9C/0YDQsNC20L3QtdC90LjRj9GC0LAgKNC40LfQv9GA0LDQttC90LXQ
+    vdC40Y/RgtCwINGB0LAg0YfQtdGA0L3QuCwg0YfQtdGA0LLQtdC90LAg0LrR
+    gNGK0LIg0YEg0LjQt9C/0YDQsNC20L3QtdC90LjRj9GC0LAp
 
   stabbing: !binary |
     T9GB0YLRgNCw
