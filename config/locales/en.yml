@@ -205,7 +205,7 @@ zh:
     5Lit6aOO
 
   yes__first_time: !binary |
-    5piv
+    5pivIA==
 
   intoxication_with: !binary |
     5Lit5q+S77ya
@@ -303,7 +303,9 @@ zh:
   cough: !binary |
     5ZKz5Ze9
 
-  stool_red: ""
+  stool_red: !binary |
+    57qi6KGA5aSn5L6/
+
   reproductive_system: !binary |
     55Sf5q6W57O757uf
 
@@ -332,7 +334,7 @@ zh:
     5L6/56eY
 
   stool_black: !binary |
-    6buR6Imy5aSn5L6/
+    57qi6KGA5aSn5L6/
 
   cramps: !binary |
     5oq9562LL+e1nueXmyAg
@@ -392,7 +394,7 @@ zh:
     6aOf54mp
 
   do_you_have_allergies: !binary |
-    5oKo5pyJ5Lu75L2V6L+H5pWP55eH5ZCX77yf
+    5oKo5pyJ5Lu75L2V6L+H5pWP55eH5ZCXOg==
 
   congestive_heart_failure: !binary |
     5YWF6KGA5oCn5b+D5Yqb6KGw56ut
@@ -471,7 +473,7 @@ zh:
     5Lul5LiK5oOF5Ya155m855Sf5pyJ5aSa5LmF77yf
 
   "no": !binary |
-    0J3QtQ==
+    0L3QtQ==
 
   emphysema: !binary |
     6IK65rCU6IK/
@@ -499,7 +501,7 @@ es-MX:
   burn: Una quemadura
   specify__med_allergy: ""
   no__have_list: ""
-  day_month_year: DD / MM / AAAA
+  day_month_year: "D\xC3\xADa / Mes / A\xC3\xB1o"
   digestive_tract: digestivo
   heart_and_veins: cardio-vascular
   palpitations: Palpitaciones
@@ -581,38 +583,38 @@ es-MX:
 sw: 
   psychiatric_problems: Matatizo ya akili
   drugs: madawa ya kulevya
-  dizziness: Kizunguzungu
+  dizziness: kizunguzungu
   stroke: Kiharusi
-  intoxication_with: "Ulevi na:"
+  intoxication_with: "wamelewa na matumizi ya:"
   alcohol: pombe
   have_you_been_diagnosed: Je, umewahi kuwa kukutwa au kutibiwa kwa yoyote ya masuala yafuatayo ya afya?
   is_this_the_first_time: Je, hii ni mara ya kwanza?
-  difficulty_breathing: Kinga Diffuculty
+  difficulty_breathing: vigumu kupumua
   how_intense_is_pain: Jinsi maumivu yako ni makali kwa kiwango 1-10?
   asthma: Pumu
-  with_secretions: na majimaji ya
+  with_secretions: kukohoa up kamasi
   muscles_and_bones: misuli na mifupa
-  fainting: Watazirai / kupoteza fahamu
-  heart_attack: Heart Attack
+  fainting: watazirai/kupoteza fahamu
+  heart_attack: Moyo mashambulizi
   diabetes: Ugonjwa wa kisukari
   specify: TAJA
   burn: kuchoma
-  day_month_year: DD / MM / YYYY
+  day_month_year: siku / mwezi / mwaka
   digestive_tract: njia ya utumbo
   heart_and_veins: moyo na mishipa
-  palpitations: Palpitations
+  palpitations: Hisia za moyo wako kuwapiga katika kifua chako
   hypertension: Shinikizo la damu
-  choking: Choking kwa sababu ya kitu kukwama katika koo
+  choking: choking kwa sababu kitu ni kukwama katika koo yako
   vomiting: Kutapika
-  to_medication: Kwa dawa
+  to_medication: kwa dawa
   which_meds_do_you_take: Kama siyo, ambayo dawa gani unaweza kuchukua
-  diarrhea: Kuhara
+  diarrhea: kuhara
   months: miezi
   pressure: Shinikizo
   appetite_loss: Kupoteza hamu ya kula
-  pain_scale: Nafuu = 1-3 magumu = 10
-  cough: Kikohozi
-  stool_red: nyekundu za damu na kinyesi
+  pain_scale: vumilika= 1-3, yasiyovumilika = 10
+  cough: kikohozi
+  stool_red: nyekundu za damu katika kinyesi
   reproductive_system: mfumo wa uzazi
   lungs: mapafu
   green: kijani
@@ -620,22 +622,24 @@ sw:
   urine: Mkojo
   emergency_triage_questionnaire: Dharura - triage dodoso
   type1: aina mimi
-  language: "Lugha: Kiswahili"
-  constipation: Constipation
-  stool_black: nyeusi kinyesi
-  cramps: Tumbo
+  language: "Lugha: Swahili"
+  constipation: kuvimbiwa
+  stool_black: |-
+    
+    nyeusi kinyesi
+  cramps: mawimbi makali ya maumivu
   type2: aina II
   days: siku
   years: miaka
   yellow: manjano
   "yes": Ndiyo
   physical_or_mental_handicap: ulemavu wa kimwili au ulemavu wa akili
-  diffuse: Kueneza
+  diffuse: sawa kila mahali
   stomach_ulcer: Tumbo kidonda
-  itching: Itching
-  swelling: Kuvimba kwa viungo moja au zaidi
+  itching: Mwasho
+  swelling: Uvimbe katika mikono na miguu
   endocrine_system: endocrine mfumo
-  burning_sensation: Mchomo
+  burning_sensation: hisia ya moto
   pain: Maumivu
   white: nyeupe
   cancer: Kansa
@@ -649,10 +653,10 @@ sw:
   nausea: Kichefuchefu
   stool: kinyesi
   do_you_have_list_of_meds: Je una orodha ya dawa zako kwamba unaweza kuonyesha sisi?
-  do_you_take_meds: Je, dawa na / au vitamini?
-  blood_in: "Damu kwa:"
+  do_you_take_meds: Ni wewe kuchukua tiba yoyote na / au vitamini?
+  blood_in: Damu juu ya
   number_of_times: "Idadi ya mara:"
-  localized: Localized
+  localized: katika sehemu moja
   tightness: Kifua
   numbness: Ganzi
   stool_desc: kinyesi (nyeusi kinyesi au damu nyekundu na kinyesi)
@@ -664,7 +668,7 @@ sw:
   weight_loss: Hasara ya uzito
   how_long_suffering: Muda gani umekuwa mateso kutokana na hali hii?
   "no": Hakuna
-  emphysema: Emphysema
+  emphysema: Emphazyma
 ru-RU: 
   psychiatric_problems: !binary |
     0J/RgdC40YXQuNCw0YLRgNC40YfQtdGB0LrQuNC1INC/0YDQvtCx0LvQtdC8
@@ -1274,7 +1278,7 @@ pt-PT:
   burn: Uma queimadura
   specify__med_allergy: ""
   no__have_list: ""
-  day_month_year: DD / MM / AAAA
+  day_month_year: "Dia / M\xC3\xAAs / Ano"
   digestive_tract: trato digestivo
   heart_and_veins: cardiovascular
   palpitations: !binary |
@@ -1380,7 +1384,7 @@ fr-FR:
   burn: "Br\xC3\xBBlure"
   specify__med_allergy: ""
   no__have_list: ""
-  day_month_year: JJ / MM / AAAA
+  day_month_year: "Jour / Mois / Ann\xC3\xA9e"
   digestive_tract: digestif
   heart_and_veins: cardio-vasculaire
   palpitations: Palpitations
@@ -1551,7 +1555,7 @@ en-US:
   emphysema: Emphysema
 ar: 
   psychiatric_problems: !binary |
-    2KfZhNmF2LTYp9mD2YQg2KfZhNmG2YHYs9mK2Kk=
+    2YXYtNin2YPZhCDYp9mE2LXYrdipINin2YTYudmC2YTZitip
 
   drugs: !binary |
     2KfZhNmF2K7Yr9ix2KfYqg==
@@ -1571,14 +1575,14 @@ ar:
 
   have_you_been_diagnosed: !binary |
     2YfZhCDYs9io2YIg2YTZgyDYo9mGINiq2YUg2KrYtNiu2YrYtSDYo9mIINi5
-    2YTYp9isINij2Yog2YXZhiDYp9mE2YLYttin2YrYpyDYp9mE2LXYrdmK2Kkg
-    2KfZhNiq2KfZhNmK2KnYnw==
+    2YTYp9isINmF2YYg2KPZiiDZhdmGINin2YTZhdiz2KfYptmEINin2YTYqtin
+    2YTZitipIDo=
 
   is_this_the_first_time: !binary |
     2YfZhCDZh9iw2Ycg2YfZiiDYp9mE2YXYsdipINin2YTYo9mI2YTZidif
 
   difficulty_breathing: !binary |
-    RGlmZnVjdWx0eSDYp9mE2KrZhtmB2LM=
+    2LXYudmI2KjYqSDZgdmKINin2YTYqtmG2YHYsw==
 
   how_intense_is_pain: !binary |
     2YPZitmBINmH2Yog2LTYr9mK2K/YqSDYp9mE2KPZhNmFINi52YTZiSDZhdmC
@@ -1604,14 +1608,16 @@ ar:
     2YXYsdi2INin2YTYs9mD2LHZig==
 
   specify: !binary |
-    2KrYrdiv2YrYrw==
+    2KfYs9mFIA==
 
   burn: !binary |
-    2YjYrdix2YI=
+    2K3YsdmC
 
   specify__med_allergy: ""
   no__have_list: ""
-  day_month_year: DD / MM / YYYY
+  day_month_year: !binary |
+    2KfZhNmK2YjZhSAvINin2YTYtNmH2LEgLyDYp9mE2LPZhtip
+
   digestive_tract: !binary |
     2KfZhNis2YfYp9iyINin2YTZh9i22YXZig==
 
@@ -1625,8 +1631,8 @@ ar:
     2KfYsdiq2YHYp9i5INi22LrYtyDYp9mE2K/ZhQ==
 
   choking: !binary |
-    2KfZhNin2K7YqtmG2KfZgiDYqNiz2KjYqCDZg9in2KbZhiDYudin2YTZgtin
-    INmB2Yog2KfZhNit2YTZgg==
+    2KfZhNiu2KfZhtmC2Kkg2KjYs9io2Kgg2YPYp9im2YYg2LnYp9mE2YLYpyDZ
+    gdmKINin2YTYrdmE2YI=
 
   vomiting: !binary |
     2YLZitih
@@ -1635,8 +1641,8 @@ ar:
     2LnZhNmJINin2YTYr9mI2KfYoQ==
 
   which_meds_do_you_take: !binary |
-    2KXZhiDZhNmFINmK2YPZhiDYjCDZiNin2YTYqtmKINmE2Kcg2KrYo9iu2LAg
-    2KfZhNij2K/ZiNmK2Kk=
+    2YXYp9iw2Kcg2KrZgdi52YQg2KfZhNij2K/ZiNmK2Kkg2KfZhNiq2Yog2KrY
+    o9iu2LDZh9in2J8=
 
   diarrhea: !binary |
     2KfZhNil2LPZh9in2YQ=
@@ -1651,7 +1657,7 @@ ar:
     2YHZgtiv2KfZhiDYp9mE2LTZh9mK2Kk=
 
   pain_scale: !binary |
-    MS0zINmE2Kcg2YrYt9in2YIg2KrYrdmF2YTZhyA9ID0gMTA=
+    MS0zID0g2YXZgtio2YjZhArZhNinINmK2LfYp9mCID0gMTA=
 
   cough: !binary |
     2LPYudin2YQ=
@@ -1708,8 +1714,7 @@ ar:
     2YbYudmF
 
   physical_or_mental_handicap: !binary |
-    2YjYp9mE2KXYudin2YLYqSDYp9mE2KzYs9iv2YrYqSDYo9mIINin2YTYpdi5
-    2KfZgtipINin2YTYudmC2YTZitip
+    2LnYp9im2YIg2KzYs9iv2Yog2KPZiCDYudmC2YTZig==
 
   diffuse: !binary |
     2YXZhtiq2LTYsQ==
@@ -1721,8 +1726,7 @@ ar:
     2KfZhNit2YPYqQ==
 
   swelling: !binary |
-    2KrZiNix2YUg2YjYp9it2K8g2KPZiCDYo9mD2KvYsSDZhdmGINij2LfYsdin
-    2YHZh9mF
+    2YXYqtmI2LHZhQ==
 
   endocrine_system: !binary |
     2YbYuNin2YUg2KfZhNi62K/YryDYp9mE2LXZhdin2KE=
@@ -1769,7 +1773,7 @@ ar:
     2LrYq9mK2KfZhg==
 
   stool: !binary |
-    2KjYsdin2LI=
+    2KfZhNio2LHYp9iy
 
   do_you_have_list_of_meds: !binary |
     2YfZhCDZhNiv2YrZgyDZgtin2KbZhdipINmF2YYg2KfZhNij2K/ZiNmK2Kkg
@@ -1786,7 +1790,7 @@ ar:
     2LnYr9ivINin2YTZhdix2KfYqiA6
 
   localized: !binary |
-    2YXYqtix2KzZhQ==
+    2YXYrdmE2Yo=
 
   tightness: !binary |
     2LbZitmC
@@ -1799,11 +1803,11 @@ ar:
 
   no__first_time: ""
   stool_desc: !binary |
-    2KfZhNio2LHYp9iyICjYqNix2KfYsiDYo9iz2YjYryDYo9mIINij2K3Zhdix
-    INin2YTYr9mFINmF2Lkg2KfZhNio2LHYp9iyKQ==
+    Ctin2YTYqNix2KfYsiAo2KfZhNio2LHYp9iyINij2LPZiNivINij2Ygg2KPY
+    rdmF2LEg2KfZhNiv2YUg2YXYuSDYp9mE2KjYsdin2LIp
 
   stabbing: !binary |
-    2LfYudmG
+    2LfYudmGL9it2KfYrw==
 
   hiv_aids: !binary |
     2YHZitix2YjYsyDZhtmC2LUg2KfZhNmF2YbYp9i52Kkg2KfZhNio2LTYsdmK
@@ -1889,7 +1893,7 @@ sr:
     0JTQuNGY0LDQsdC10YLQtdGB
 
   specify: !binary |
-    0J7QtNGA0LXQtNC40YLQtQ==
+    0YPQutCw0LfQsNGC0Lg=
 
   burn: !binary |
     0JPQvtGA0Lg=
@@ -1897,7 +1901,7 @@ sr:
   specify__med_allergy: ""
   no__have_list: ""
   day_month_year: !binary |
-    0JTQlCAvINCc0JwgLyDQk9CT0JPQkw==
+    0LTQsNC9IC8g0LzQtdGB0LXRhiAvINCz0L7QtNC40L3QsA==
 
   digestive_tract: !binary |
     0LTQuNCz0LXRgdGC0LjQstC90L7QsyDRgtGA0LDQutGC0LA=
@@ -1919,11 +1923,11 @@ sr:
     0J/QvtCy0YDQsNGb0LDRmtC1
 
   to_medication: !binary |
-    0JfQsCDQu9C10LrQvtCy0LU=
+    0LfQsCDQu9C10LrQvtCy0LU=
 
   which_meds_do_you_take: !binary |
-    0JDQutC+INC90LUsINC60L7RmNC4INC70LXQutC+0LLQtSDRg9C30LjQvNCw
-    0YLQtQ==
+    0JDQutC+INC90LUsINGI0YLQsCDQu9C10LrQvtCy0LUg0YPQt9C40LzQsNGC
+    0LU=
 
   diarrhea: !binary |
     0J/RgNC+0LvQuNCy
@@ -1945,8 +1949,7 @@ sr:
     0JrQsNGI0LDRmQ==
 
   stool_red: !binary |
-    0YbRgNCy0LXQvdC40YUg0LrRgNCy0L3QuNGFINGB0LAg0YHRgtC+0LvQuNGG
-    0Lg=
+    0YbRgNCy0LXQvdC40YUg0LrRgNCy0L3QuNGFINC40LfQvNC10YLQvtC8
 
   reproductive_system: !binary |
     0YDQtdC/0YDQvtC00YPQutGC0LjQstC90Lgg0YHQuNGB0YLQtdC8
@@ -1976,7 +1979,7 @@ sr:
     0JfQsNGC0LLQvtGA
 
   stool_black: !binary |
-    0YbRgNC90LAg0YHRgtC+0LvQuNGG0LA=
+    0YbRgNC90LAg0LjQt9C80LXRgg==
 
   cramps: !binary |
     0JPRgNGH0LXQstC4
@@ -1998,13 +2001,13 @@ sr:
 
   physical_or_mental_handicap: !binary |
     0KTQuNC30LjRh9C60Lgg0YXQtdC90LTQuNC60LXQvyDQuNC70Lgg0LzQtdC9
-    0YLQsNC70L3QuNC8INGF0LXQvdC00LjQutC10L/QvtC8
+    0YLQsNC70L3QtSDQvdC10YHQv9C+0YHQvtCx0L3QvtGB0YLQuA==
 
   diffuse: !binary |
     0JTQuNGE0YPQt9Cw0L0=
 
   stomach_ulcer: !binary |
-    0KfQuNGA0LAg0L3QsCDQttC10LvRg9GG0YM=
+    0YHRgtC+0LzQsNC6INGH0LjRgA==
 
   itching: !binary |
     0KHQstGA0LDQsQ==
@@ -2059,11 +2062,11 @@ sr:
     0JzRg9GH0L3QuNC90LA=
 
   stool: !binary |
-    0YHRgtC+0LvQuNGG0LA=
+    0LjQt9C80LXRgg==
 
   do_you_have_list_of_meds: !binary |
-    0JTQsCDQu9C4INC40LzQsNGC0LUg0LvQuNGB0YLRgyDQu9C10LrQvtCy0LAg
-    0LrQvtGY0Lgg0LzQvtC20LUg0LTQsCDQvdCw0Lwg0L/QvtC60LDQttC1Pw==
+    0JTQsCDQu9C4INC40LzQsNGC0LUg0LvQuNGB0YLRgyDQstCw0YjQuNGFINC7
+    0LXQutC+0LLQsCDQt9CwINC90LDRgT8=
 
   do_you_take_meds: !binary |
     0JTQsCDQu9C4INGD0LfQuNC80LDRgtC1INC70LXQutC+0LLQtSDQuCAvINC4
@@ -2113,11 +2116,11 @@ sr:
     0JPRg9Cx0LjRgtCw0Log0YLQtdC20LjQvdC1
 
   how_long_suffering: !binary |
-    0JrQvtC70LjQutC+INC00YPQs9C+INGB0YLQtSDQv9Cw0YLQtSDQvtC0INC+
-    0LLQvtCzINGB0YLQsNGa0LA/
+    0LrQvtC70LjQutC+INC00YPQs9C+INGB0YLQtSDQsdC40LvQuCDQv9Cw0YLQ
+    tSDQvtC0INC+0LLQvtCzINGB0YLQsNGa0LA/
 
   "no": !binary |
-    0J3QtQ==
+    0L3QtQ==
 
   emphysema: !binary |
     0JXQvNGE0LjQt9C10Lw=

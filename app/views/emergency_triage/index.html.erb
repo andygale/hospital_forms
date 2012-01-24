@@ -1,7 +1,15 @@
 <%= form_tag do %>
 <div id="content">
   <div id="header">
-    <h1 class="translate_emergency_triage_questionnaire"></h1>
+    <div>
+      <%= image_tag 'logo-713350.png', :width => 100, :height => 100, :style => 'display:inline;vertical-align:middle;' -%>
+      <h1 class="translate_emergency_triage_questionnaire" style='display:inline;'></h1>
+    </div>
+    <div style='width:600px;padding-left:40px'>
+      This questionnaire can be instantly translated into many languages.<br>
+      Step 1: Fill out the questionnaire in your preferred language<br>
+      Step 2: Translate your completed questionnaire into the language of your caretaker by clicking on the appropriate flag or language name. All data will remain private on your device and will not be transmitted to any server.
+    </div>
     <h2 class="translate_language"></h2>
   </div>
 
