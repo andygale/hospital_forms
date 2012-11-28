@@ -6,20 +6,19 @@
       <h1 class="translate_emergency_triage_questionnaire" style='display:inline;'></h1>
     </div>
     <div style='width:600px;padding-left:40px'>
-      This questionnaire can be instantly translated into many languages.<br>
-      <table>
-        <tr>
-          <td width=50>Step 1:</td>
-          <td>Fill out the questionnaire in your preferred language</td>
-        </tr>
-        <tr>
-          <td style='vertical-align:top;'>Step 2:</td>
-          <td>Translate your completed questionnaire into the language of your caretaker by clicking on the appropriate flag or language name. All data will remain private on your device and will not be transmitted to any server.</td>
-        </tr>
-      </table>
+      <p class="translate_instructions_start"></p>
+      <p>
+        <span class="translate_instructions_step_1_title" style="font-weight:bold;"></span><br />
+        <span class="translate_instructions_step_1_text"></span>
+      </p>
+      <p>
+        <span class="translate_instructions_step_2_title" style="font-weight:bold;"></span><br />
+        <span class="translate_instructions_step_2_text"></span>
+      </p>
     </div>
     <h2 class="translate_language"></h2>
   </div>
+  <%= render 'shared/languages' %>
 
   <ol id="l1-list">
     <li><h3 class="translate_what_is_the_reason"></h3></li>
@@ -131,5 +130,15 @@
       <li><%=check_box_item(:to_food) %> (<%=text_field_item(:food_allergy_specify, :specify__food_allergy, 60, true) %>)</li>
     </ul>
   </ol>
+  <a href="#" onclick="clearAllAnswers();return false;"><span class="translate_clear_answers"></span><a>
+  <h3 class="translate_disclaimer_start"></h3>
+  <ul>
+    <li><h4 class="translate_disclaimer_1"></h4></li>
+    <li><h4 class="translate_disclaimer_2"></h4></li>
+    <li><h4 class="translate_disclaimer_3"></h4></li>
+    <li><h4 class="translate_disclaimer_4"></h4></li>
+    <li><h4 class="translate_disclaimer_5"></h4></li>
+    <li><h4 class="translate_disclaimer_6"></h4></li>
+  </ul>
 </div>
 <% end %>

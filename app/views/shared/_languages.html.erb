@@ -1,0 +1,31 @@
+<div id="sidebar">
+  <ul id="sidebar-items">
+    <li>
+      <ul class="languages">
+        <% lang_array = [
+          ['en-US', 'Change to English', 'United%20Kingdom.png'],
+          ['es-MX', 'Cambiar a español', 'Mexico.png'],
+          ['fr-FR', 'Changer au français', 'France.png'],
+          ['sw', 'Mabadiliko ya Kiswahili', 'Kenya.png'],
+          ['ar', 'تغيير للعربية', 'Egypt.png'],
+          ['pt-PT', 'Mude para Português', 'Portugal.png'],
+          ['it', 'Cambia in Italiano', 'Italy.png'],
+          ['ru-RU', 'Изменение Россия', 'Russian%20Federation.png'],
+          ['sr', 'Промена на српској', 'Serbia.png'],
+          ['zh', '切换到中文', 'China.png'],
+          ['bg', 'Промяна на китайски', 'Bulgaria.png'],
+          ['ht', 'Chanjman nan kreyòl', 'Haiti.png'],
+          ['hi', 'हिन्दी में बदलें', 'India.png'],
+          ['tr', 'Türk değiştirin', 'Turkey.png'],
+        ]
+        %>
+        <% lang_array.each do |lang| %>
+          <li class="language-<%= lang[0] -%> selected-language"><a href="#" onclick="switchLocale('<%= lang[0] -%>');return false;">
+            <img src='http://www.printableworldflags.com/icon-flags/32/<%= lang[2] -%>'>
+            <%= lang[1] %>
+          </a></li>
+        <% end %>
+      </ul>
+    </li>
+  </ul>
+</div>

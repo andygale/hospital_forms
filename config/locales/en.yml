@@ -1,2173 +1,1760 @@
---- 
-it: 
-  psychiatric_problems: Problemi psichiatrici
-  drugs: farmaci
-  dizziness: Vertigini
-  stroke: Colpo apoplettico
-  intoxication_with: "Intossicazione con:"
-  alcohol: alcool
-  have_you_been_diagnosed: Sei mai stata diagnosticato/a o trattato/a per uno qualsiasi dei seguenti problemi di salute?
-  is_this_the_first_time: "Questa \xC3\xA8 la prima volta?"
-  difficulty_breathing: Difficolta a respirare
-  how_intense_is_pain: "Quanto intenso \xC3\xA8 il vostro dolore su una scala da 1 a 10?"
-  asthma: Asma
-  with_secretions: con secrezioni
-  muscles_and_bones: i muscoli e le ossa
-  fainting: Emergenza - Questionario Triage
-  heart_attack: Infarto
-  diabetes: Diabete
-  specify: Specificare
-  burn: Una bruciatura
-  day_month_year: GG / MM / AAAA
-  digestive_tract: tratto digestivo
-  heart_and_veins: il cuore e le vene
-  palpitations: Palpitazioni
-  hypertension: Ipertensione
-  choking: Soffocamento a causa di un oggetto bloccato in gola
-  vomiting: Vomito
-  to_medication: Al farmaci
-  which_meds_do_you_take: Se no, quali farmaci prendete
-  diarrhea: Diarrea
-  months: mesi
-  pressure: Pressione
-  appetite_loss: Perdita di appetito
-  pain_scale: Tollerabile = 1-3 insostenibile = 10
-  cough: Tosse
-  stool_red: feci rossi di sangue
-  reproductive_system: sistema riproduttivo
-  lungs: polmoni
-  green: verde
-  date: data
-  urine: Urina
-  emergency_triage_questionnaire: Emergenza - Questionario Triage
-  type1: di tipo I
-  language: "Lingua: Italiano"
-  constipation: Costipazione
-  stool_black: feci neri
-  cramps: Spasmi
-  type2: di tipo II
-  days: giorno
-  years: anni
-  yellow: giallo
-  "yes": !binary |
-    U8Os
-
-  physical_or_mental_handicap: Un handicap fisico o di un handicap mentale
-  diffuse: Diffuso
-  stomach_ulcer: Ulcera allo stomaco
-  itching: Prurito
-  swelling: "Gonfiore di uno o pi\xC3\xB9 arti"
-  endocrine_system: sistema endocrino
-  burning_sensation: Sensazione di bruciore
-  pain: Dolore
-  white: bianco
-  cancer: Cancro
-  chronic_bronchitis: Bronchite cronica
-  to_food: Al cibo
-  do_you_have_allergies: "Avete delle allergie:"
-  congestive_heart_failure: Insufficienza cardiaca congestizia
-  fever: Febbre
-  what_is_the_reason: "Qual \xC3\xA8 la ragione per la sua consulta? Si prega di selezionare le condizioni che descrivono la sua situazione piu accuratamente."
-  brown: marrone
-  nausea: Nausea
-  stool: feci
-  do_you_have_list_of_meds: "Avete una lista dei vostri farmaci che  pu\xC3\xB2 mostrarci?"
-  do_you_take_meds: Avete preso farmaci e / o vitamine?
-  blood_in: "Sangue in:"
-  number_of_times: "Quante volte:"
-  localized: Localizzata
-  tightness: Tensione
-  numbness: Intorpidimento
-  stool_desc: feci (feci neri o sangue rosso con le feci)
-  stabbing: Lanciante
-  hiv_aids: HIV / AIDS
-  fatigue: Fatica
-  other_diseases: Altre malattie del
-  poison: "veleno (es: prodotti per la casa)"
-  weight_loss: Perdita di peso
-  how_long_suffering: Da quanto tempo sei colpito da questa condizione?
-  "no": "No"
-  emphysema: Enfisema
-hi: 
-  number_of_times: kitni baar
-  white: safed
-  fatigue: thakaan
-  constipation: kabz
-  "no": nahi
-  swelling: sujan
-  cough: " khansi"
-  years: saal
-  how_long_suffering: kitne samay ap is samasya se peedit hain?
-  with_secretions: straav ke saath
-  pain: dard
-  have_you_been_diagnosed: Kya apke shareer me pehle kabhi inme se kiwi bhi bimari ka pata  lagaya gaya ya inka ilaaj kiya gaya?
-  days: din
-  weight_loss: wazan ghatna/ wazan kam hona
-  pain_scale: 1-3 sehniya, 10 - asehniya
-  alcohol: daaru/sharaab
-  stabbing: ghonpna
-  nausea: jee ghabrana
-  language: bhasha
-  burn: jalna
-  brown: bhura
-  appetite_loss: bhookh mar jana
-  what_is_the_reason: karan kya hai
-  vomiting: ulti
-  pressure: dabaav
-  green: hara
-  fainting: "behonsh hona "
-  dizziness: "chakkar ana "
-  fever: bukhaar
-  "yes": han
-  urine: mutra
-  burning_sensation: jalan hona
-  hypertension: tanaav
-  months: mahine
-  palpitations: dhadkan
-  diarrhea: dast
-  congestive_heart_failure: dil ka daura
-  yellow: peela
-  stool_desc: potty/tatty
-  itching: khujli chalna
-  how_intense_is_pain: Apka dard kitna jyada hai ek se das ke maap Pe (1-3 sehniya, 10 - asehniya)
-  poison: zeher
-  numbness: sunn
-  drugs: nasha
-  difficulty_breathing: saans lene me mushkil
-ht: 
-  psychiatric_problems: "Pwobl\xC3\xA8m t\xC3\xA8t ou pa byen"
-  drugs: !binary |
-    ZHfDsmc=
-
-  dizziness: !binary |
-    VsOodGlq
-
-  stroke: Konjesyon Serebral
-  intoxication_with: "Entoksikasyon ak:"
-  alcohol: !binary |
-    YWxrw7Js
-
-  have_you_been_diagnosed: "Eske ou janm te dyagnostike oswa trete pou nenp\xC3\xB2t nan pwobl\xC3\xA8m sante sa yo?"
-  is_this_the_first_time: "\xC3\x88ske sa se premye fwa a?"
-  difficulty_breathing: Respirasyon ak difikilte
-  how_intense_is_pain: "Ki jan entans se doul\xC3\xA8 ou sou yon ech\xC3\xA8l de 1 a 10?"
-  asthma: Opresyon
-  with_secretions: ak sekresyon
-  muscles_and_bones: misk ak zo
-  fainting: "Endispoze / p\xC3\xA8t konesans"
-  heart_attack: Kriz Kadyak
-  diabetes: "Dyab\xC3\xA8t"
-  specify: Espesifye
-  burn: Yon boule
-  day_month_year: jou/mwa/ane
-  digestive_tract: "apar\xC3\xA8y dijestif"
-  heart_and_veins: "k\xC3\xA8 ak venn"
-  palpitations: Palpitasyon
-  hypertension: Tansyon wo
-  choking: "Wap toufe paske yo te yon obj\xC3\xA8 kole nan g\xC3\xB2j"
-  vomiting: Vomisman
-  to_medication: Medikaman
-  which_meds_do_you_take: Si no, di nou ki medikaman w pran
-  diarrhea: Dyare
-  months: mwa
-  pressure: Presyon
-  appetite_loss: "P\xC3\xA8t apeti"
-  pain_scale: "sip\xC3\xB2tab = 1-3 ensip\xC3\xB2tab = 10"
-  cough: Tous
-  stool_red: " poupou wouj"
-  reproductive_system: "sist\xC3\xA8m repwodiksyon "
-  lungs: poumon
-  green: !binary |
-    dsOodA==
-
-  date: dat
-  urine: Pipi
-  emergency_triage_questionnaire: "Ijans - Kesyon\xC3\xA8 Triyaj"
-  type1: Tip 1
-  language: "Lang: krey\xC3\xB2l"
-  constipation: Konstipasyon
-  stool_black: "poupou nwa "
-  cramps: Lakranp
-  type2: Tip 2
-  days: jou
-  years: ane
-  yellow: !binary |
-    asOybg==
-
-  "yes": Wi
-  physical_or_mental_handicap: Yon andikap fizik oswa andikap mantal
-  diffuse: Dou
-  stomach_ulcer: "Uls\xC3\xA8r nan p\xC3\xB2ch lestomak"
-  itching: Demanjezon
-  swelling: Anfle a youn oubyen plis manm yo
-  endocrine_system: "sist\xC3\xA8m andokrinyen"
-  burning_sensation: Senti lap boule
-  pain: !binary |
-    RG91bMOo
-
-  white: blan
-  cancer: !binary |
-    S2Fuc8Oo
-
-  chronic_bronchitis: "Bwonchit kwonik "
-  to_food: ak manje
-  do_you_have_allergies: "\xC3\x88ske ou kon gen  al\xC3\xA8ji:"
-  congestive_heart_failure: "Konjestif k\xC3\xA8 Si w"
-  fever: "Lafy\xC3\xA8v"
-  what_is_the_reason: "Ki sa ki se rezon ki f\xC3\xA8 ou la pou konsiltasyon ou a? Tanpri chwazi kondisyon yo ki dekri sitiyasyon ou pi byen "
-  brown: mawon
-  nausea: Noze
-  stool: "poupou "
-  do_you_have_list_of_meds: "\xC3\x88ske ou gen yon lis medikaman wap pren pou ou ka montre nou?"
-  do_you_take_meds: "\xC3\x88ske w ap pran medikaman ak / oswa vitamin?"
-  blood_in: "San nan:"
-  number_of_times: "Kantite fwa nan:"
-  localized: Lokalize
-  tightness: Sere
-  numbness: "P\xC3\xA8t sansasyon"
-  stool_desc: poupou ( poupou nwa oswa poupou ak wouj san  )
-  stabbing: |-
-    Presyon
-    Kout kouto
-  hiv_aids: VIH / SIDA
-  fatigue: Fatig
-  other_diseases: "L\xC3\xB2t maladi ki nan la"
-  poison: "pwazon (eks: pwodwi kay la)"
-  weight_loss: "P\xC3\xA8di pwa"
-  how_long_suffering: Depi konbyen tan ou te soufri nan kondisyon sa a?
-  "no": "No"
-  emphysema: "Anfiz\xC3\xA8m"
-zh: 
-  psychiatric_problems: !binary |
-    57K+56We6Zeu6aKY
-
-  drugs: !binary |
-    6I2v54mp5Lit5q+S
-
-  dizziness: !binary |
-    5aS05pmV
-
-  stroke: !binary |
-    5Lit6aOO
-
-  yes__first_time: !binary |
-    5pivIA==
-
-  intoxication_with: !binary |
-    5Lit5q+S77ya
-
-  alcohol: !binary |
-    6YWS57K+5Lit5q+S
-
-  have_you_been_diagnosed: !binary |
-    5oKo5pyJ6K+K5pat5oiW5rK755mC6L+H5Lul5LiL5Lu75L2V5YGl5bq36Zeu
-    6aKY5ZCXPw==
-
-  is_this_the_first_time: !binary |
-    6L+Z5piv56ys5LiA5qyh5ZCX77yf
-
-  difficulty_breathing: !binary |
-    5ZG85ZC45Zuw6Zuj
-
-  how_intense_is_pain: !binary |
-    5oKo55qE55eb5qWa56iL5bqm5pyJ5aSa5by354OI77yfIOiri+S7pTEtMTDn
-    grrllq7kvY3ooaHph48g
-
-  asthma: !binary |
-    5ZOu5ZaY
-
-  with_secretions: !binary |
-    5YiG5rOM54mp5ZGIIA==
-
-  specify__food_allergy: !binary |
-    6K+35YW35L2T6K+05piO
-
-  muscles_and_bones: !binary |
-    6IKM6IKJ5ZKM6aqo6aq8
-
-  fainting: !binary |
-    5piP5Y6lL+S4p+WkseaEj+ivhg==
-
-  heart_attack: !binary |
-    5b+D6ISP55eF5Y+R5L2c
-
-  diabetes: !binary |
-    57OW5bC/55eF
-
-  specify: !binary |
-    6KuL5YW35L2T6Kqq5piOIA==
-
-  burn: !binary |
-    54On5Lyk
-
-  specify__med_allergy: !binary |
-    6KuL5YW35L2T6Kqq5piO
-
-  no__have_list: !binary |
-    5rKh5pyJ
-
-  day_month_year: DD / MM / YYYY
-  digestive_tract: !binary |
-    5raI5YyW6YGT
-
-  heart_and_veins: !binary |
-    5b+D6ISP5ZKM6Z2Z6ISJ
-
-  palpitations: !binary |
-    5b+D5oK4
-
-  hypertension: !binary |
-    6auY6KGA5Y6L
-
-  choking: !binary |
-    56qS5oGv77yM5Zug5pyJ54mp5L2T6bKg5Zyo5ZaJ5ZKZ
-
-  vomiting: !binary |
-    5ZGV5ZCQ
-
-  to_medication: !binary |
-    6I2v54mpIA==
-
-  which_meds_do_you_take: !binary |
-    5aaC5p6c5rKh5pyJ77yM5oKo5pyN55So55qE6I2v54mp54K6
-
-  diarrhea: !binary |
-    6IW55rO7
-
-  months: !binary |
-    5Liq5pyI
-
-  pressure: !binary |
-    5Y6L5Yqb
-
-  appetite_loss: !binary |
-    6aOf5qyy5LiN5oyv
-
-  pain_scale: !binary |
-    5Y+v5a655b+NPSAxLTPkuI3loKrlv43lj5c9IDEw
-
-  cough: !binary |
-    5ZKz5Ze9
-
-  stool_red: !binary |
-    57qi6KGA5aSn5L6/
-
-  reproductive_system: !binary |
-    55Sf5q6W57O757uf
-
-  lungs: !binary |
-    6IK6
-
-  green: !binary |
-    57u/6Imy
-
-  date: !binary |
-    5pel5pyf
-
-  urine: !binary |
-    5bC/5ray5ZGI6KGA
-
-  emergency_triage_questionnaire: !binary |
-    57Sn5oClIC0g5YiG5rWB6Zeu5Y23
-
-  type1: !binary |
-    SeWeiw==
-
-  language: !binary |
-    6K+t6KiA77ya6Iux6K+t
-
-  constipation: !binary |
-    5L6/56eY
-
-  stool_black: !binary |
-    57qi6KGA5aSn5L6/
-
-  cramps: !binary |
-    5oq9562LL+e1nueXmyAg
-
-  type2: !binary |
-    SUnlnos=
-
-  days: !binary |
-    5aSp
-
-  years: !binary |
-    5bm0
-
-  yellow: !binary |
-    6buE6Imy
-
-  "yes": !binary |
-    5piv
-
-  physical_or_mental_handicap: !binary |
-    IOiCouS9k+S8pOaui+aIluW8seaZuiA=
-
-  diffuse: !binary |
-    5omp5pWj55a855ebIA==
-
-  stomach_ulcer: !binary |
-    6IOD5rqD55ah
-
-  itching: !binary |
-    55iZ55eS
-
-  swelling: !binary |
-    6IKi5L2T6IK/6IOA
-
-  endocrine_system: !binary |
-    5YaF5YiG5rOM57O757uf
-
-  burning_sensation: !binary |
-    54On54G85oSf
-
-  pain: !binary |
-    55a855eb
-
-  white: !binary |
-    55m9
-
-  specify__handicap: !binary |
-    6KuL5YW35L2T6Kqq5piO
-
-  cancer: !binary |
-    55mM55eH
-
-  chronic_bronchitis: !binary |
-    5oWi5oCn5pSv5rCU566h54KO
-
-  to_food: !binary |
-    6aOf54mp
-
-  do_you_have_allergies: !binary |
-    5oKo5pyJ5Lu75L2V6L+H5pWP55eH5ZCXOg==
-
-  congestive_heart_failure: !binary |
-    5YWF6KGA5oCn5b+D5Yqb6KGw56ut
-
-  fever: !binary |
-    5Y+R54On
-
-  what_is_the_reason: !binary |
-    5oKo5ZKo6K+i55qE5Y6f5Zug5piv5LuA5LmI77yf6K+36YCJ5oup5pyA6IO9
-    5aSg5o+P6L+w5oKo55qE5oOF5Ya1
-
-  brown: !binary |
-    5qOV6Imy
-
-  nausea: !binary |
-    5oG25b+D
-
-  stool: !binary |
-    57Kq5L6/5ZGI6KGA
-
-  do_you_have_list_of_meds: !binary |
-    5oKo5Y+v5Lul5o+Q5L6b5oKo5pyN55So55qE6I2v54mp5YiX6KGo5ZCX77yf
-
-  do_you_take_meds: !binary |
-    5oKo5pyJ5pyN55So6I2v54mp5oiW57u055Sf57Sg5ZCX77yf
-
-  blood_in: !binary |
-    6KGA77ya
-
-  number_of_times: !binary |
-    55m855Sf5qyh5pWw77yaIA==
-
-  localized: !binary |
-    5bGA6YOo55a855ebIA==
-
-  tightness: !binary |
-    57Sn5byg
-
-  no__take_meds: !binary |
-    5peg
-
-  yes__have_list: !binary |
-    5Y+v5Lul
-
-  yes__take_meds: !binary |
-    5pyJ
-
-  numbness: !binary |
-    6bq755e6L+WHjeWDtQ==
-
-  no__first_time: !binary |
-    5LiN5piv
-
-  stool_desc: !binary |
-    5L6/6KGA77yI6buR5L6/5oiW5aSn5L6/57qi57uG6IOe77yJ
-
-  stabbing: !binary |
-    5Yi655ebICAg
-
-  hiv_aids: !binary |
-    6Im+5ruL55eF5q+SL+iJvua7i+eXhQ==
-
-  fatigue: !binary |
-    55ay5Yqz
-
-  other_diseases: !binary |
-    5YW25LuW55a+55eF
-
-  poison: !binary |
-    5q+S6I2v77yI5L6L5aaC77ya5a6255So5Lqn5ZOB77yJ
-
-  weight_loss: !binary |
-    5L2T6YeN5LiL6ZmN
-
-  how_long_suffering: !binary |
-    5Lul5LiK5oOF5Ya155m855Sf5pyJ5aSa5LmF77yf
-
-  "no": !binary |
-    0L3QtQ==
-
-  emphysema: !binary |
-    6IK65rCU6IK/
-
-es-MX: 
-  psychiatric_problems: "Trastornos psiqui\xC3\xA1tricos"
-  drugs: las drogas
-  dizziness: Mareo
-  stroke: Accidente cerebrovascular/ derrame cerebral
-  yes__first_time: ""
-  intoxication_with: "Intoxicaci\xC3\xB3n con:"
+---
+ar:
+  alcohol: كحول
+  appetite_loss: فقدان للشهية
+  blood_in: ! 'الدم في كل من :'
+  brown: بني
+  burn: حرق
+  burning_sensation: الاحساس بحرقان
+  choking: الغصة بسبب كائن عالقا في الحلق
+  constipation: إمساك
+  cough: سعال
+  cramps: تشنجات
+  diarrhea: إسهال
+  difficulty_breathing: صعوبة في التنفس
+  diffuse: واسع الانتشار
+  dizziness: دوخة
+  drugs: المخدرات
+  emergency_triage_questionnaire: الطوارئ -- استبيان الفرز
+  fainting: الإغماء / فقدان الوعي
+  fatigue: تعب
+  fever: حمى
+  green: أخضر
+  how_intense_is_pain: ! ' ما هى شدة الألم بمقياس من 1 إلى 10؟'
+  intoxication_with: ! 'التسمم بسبب :'
+  itching: الحكة
+  language: ! 'اللغة : العربية'
+  localized: محلي
+  nausea: غثيان
+  numbness: تخدر
+  pain: ألم
+  pain_scale: ! '1-3 = مقبول
+
+    10= لا يطاق'
+  palpitations: خفقان
+  poison: ! 'السم (مثال : منتجات النظافة المنزلية)'
+  pressure: الضغط
+  stabbing: طعن/حاد
+  stool_desc: ! '
+
+    البراز (البراز أسود أو أحمر الدم مع البراز)'
+  swelling: تورم لعضو من الجسم أو أكثر
+  tightness: ضيق
+  urine: بول
+  vomiting: قيء
+  weight_loss: فقدان الوزن
+  what_is_the_reason: ما هو سبب طلبك للأستشارة؟ يرجى تحديد الظروف التي تصف حالتك بشكل
+    دقيق.
+  white: أبيض
+  with_secretions: مع افرازات
+  yellow: أصفر
+  '': ''
+  how_long_suffering: منذ متى وأنت تعاني من هذه الحالة/الأعراض؟
+  days: أيام
+  months: أشهر
+  years: سنة
+  is_this_the_first_time: هل هذه هي المرة الأولى؟
+  'yes': نعم
+  'no': لا
+  number_of_times: ! 'عدد المرات :'
+  have_you_been_diagnosed: ! 'هل سبق أن تم تشخيصك أو علاجك من أي من المشاكل الصحية
+    التالية :'
+  hypertension: ارتفاع ضغط الدم
+  congestive_heart_failure: فشل القلب الاحتقاني
+  heart_attack: نوبة قلبية
+  date: تاريخ
+  emphysema: انتفاخ الرئة
+  chronic_bronchitis: التهاب الشعب الهوائية المزمن
+  asthma: الربو
+  stroke: السكتة الدماغية
+  diabetes: مرض السكري
+  type1: النوع الأول
+  type2: النوع الثاني
+  hiv_aids: فيروس نقص المناعة البشرية / الإيدز
+  physical_or_mental_handicap: عائق جسدي أو عقلي
+  specify: حدد/صف
+  psychiatric_problems: المشاكل النفسية
+  cancer: سرطان
+  stomach_ulcer: قرحة المعدة
+  other_diseases: أمراض أخرى
+  heart_and_veins: القلب والأوردة
+  lungs: الرئتين
+  digestive_tract: الجهاز الهضمي
+  reproductive_system: الجهاز التناسلي
+  endocrine_system: نظام الغدد الصماء
+  muscles_and_bones: العضلات والعظام
+  do_you_take_meds: هل تتعاطي الأدوية و/أو الفيتامينات؟
+  do_you_have_list_of_meds: إن كان لديك قائمة بالأدوية التى تتعاطاها هل من الممكن
+    أن تطلعنا عليها؟؟
+  which_meds_do_you_take: إن كانت الاجابة (لا) هل تتعاطى أدوية حالياً؟
+  do_you_have_allergies: ! 'هل لديك أي نوع من الحساسية :'
+  to_medication: الى الدواء
+  to_food: للغذاء
+  day_month_year: اليوم / الشهر / السنة
+  stool: البراز
+  stool_black: براز أسود
+  stool_red: وجود دم أحمر مع البراز
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+bg:
+  alcohol: алкохол
+  appetite_loss: Загуба на апетит
+  blood_in: ! 'Кръв в:'
+  brown: кафяв
+  burn: Едно изгаряне
+  burning_sensation: Усещане за парене
+  choking: Задавяне, тъй като на обект, заседнало в гърлото
+  constipation: Запек
+  cough: Кашлица
+  cramps: Спазми
+  diarrhea: Диария
+  difficulty_breathing: Затруднено дишане
+  diffuse: разсеяна
+  dizziness: замаяност
+  drugs: наркотици
+  emergency_triage_questionnaire: Аварийно - Triage Въпросник
+  fainting: загуба на съзнание
+  fatigue: Умора
+  fever: Висока температура
+  green: зелен
+  how_intense_is_pain: Колко интензивен е болката си по скала от 1 до 10?
+  intoxication_with: ! 'Интоксикация с:'
+  itching: Сърбеж
+  language: ! 'език: български'
+  localized: Локализирани
+  nausea: Гадене
+  numbness: Скованост
+  pain: Болка
+  pain_scale: Допустим = 1-3 Непоносимата = 10
+  palpitations: Сърцебиене
+  poison: ! 'отрова (например: домакински продукти)'
+  pressure: Натиск
+  stabbing: Oстра
+  stool_desc: изпражненията (изпражненията са черни, червена кръв с изпражненията)
+  swelling: Подуване на един или повече крайници
+  tightness: Стягане
+  urine: ! 'Урината '
+  vomiting: Повръщане
+  weight_loss: Загубата на телесна маса
+  what_is_the_reason: Каква е причината за вашата консултация? Моля, изберете условия,
+    които описват най-добрия си положение.
+  white: бял
+  with_secretions: със секрети
+  yellow: жълт
+  '': ''
+  how_long_suffering: Колко време сте били, страдащи от това състояние?
+  days: ! 'дни '
+  months: месеца
+  years: години
+  is_this_the_first_time: Дали това е първи път?
+  'yes': Да
+  'no': Не
+  number_of_times: ! 'Колко пъти:'
+  have_you_been_diagnosed: Били ли сте някога били диагностицирани или лекувани за
+    някоя от следните здравни проблеми?
+  hypertension: Хипертония
+  congestive_heart_failure: сърдечна недостатъчност
+  heart_attack: инфаркт
+  date: дата
+  emphysema: Емфизема
+  chronic_bronchitis: Хроничен бронхит
+  asthma: Астма
+  stroke: Инсулт
+  diabetes: Диабет
+  type1: Тип I
+  type2: Тип II
+  hiv_aids: ХИВ / СПИН
+  physical_or_mental_handicap: ! '
+
+    физическа или умствена недъзи'
+  specify: Задайте
+  psychiatric_problems: Психиатрични проблеми
+  cancer: рак
+  stomach_ulcer: Язва на стомаха
+  other_diseases: ! 'Други заболявания '
+  heart_and_veins: сърдечно-съдовата система
+  lungs: ! 'бели дробове
+
+'
+  digestive_tract: храносмилателния тракт
+  reproductive_system: репродуктивната система
+  endocrine_system: ендокринната система
+  muscles_and_bones: мускулно-скелетната система
+  do_you_take_meds: Взимате ли медикаменти и / или витамини?
+  do_you_have_list_of_meds: Имате ли списък на вашите лекарства, които можете да покажете
+    ни?
+  which_meds_do_you_take: ! 'Ако не, какви медикаменти Взимате '
+  do_you_have_allergies: ! 'Имате ли някакви алергии:'
+  to_medication: Към медикаменти
+  to_food: Към храна
+  day_month_year: ДД / ММ / ГГГГ
+  stool: изпражненията
+  stool_black: черно изпражненията
+  stool_red: червена кръв с изпражненията
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: Този въпросник може да бъде незабавно преведен на много езици.
+  instructions_step_1_title: ! 'Стъпка 1:'
+  instructions_step_1_text: попълнете въпросника на предпочитания от Вас език
+  instructions_step_2_title: ! 'Стъпка 2:'
+  instructions_step_2_text: преведете попълнения въпросник на езика на Вашия служител
+    като кликнете върху съответния флаг или име на езика. Всички данни ще останат
+    само на Вашето устройство и няма да се прехвърлят на сървър.
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+en-US:
   alcohol: alcohol
-  have_you_been_diagnosed: "\xC2\xBFAlguna vez ha sido diagnosticado o tratado por alguna de las siguientes condiciones:"
-  is_this_the_first_time: "\xC2\xBFEs esta la primera vez?"
-  difficulty_breathing: Dificultad para respirar
-  how_intense_is_pain: Como intenso es su dolor en una escala de 1 a 10?
-  asthma: Asma
-  with_secretions: "con secreci\xC3\xB3n"
-  specify__food_allergy: ""
-  muscles_and_bones: "musculo-esquel\xC3\xA9tico"
-  fainting: "Desmayo/ P\xC3\xA9rdida de conocimiento"
-  heart_attack: "Infarto agudo de miocardio/ Ataque card\xC3\xADaco/ Infarto"
-  diabetes: Diabetes
-  specify: Especifique
-  burn: Una quemadura
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: "D\xC3\xADa / Mes / A\xC3\xB1o"
-  digestive_tract: digestivo
-  heart_and_veins: cardio-vascular
-  palpitations: Palpitaciones
-  hypertension: "Hipertensi\xC3\xB3n"
-  choking: Asfixia a causa de un objeto/alimentos atorado en la garganta
-  vomiting: "V\xC3\xB3mitos"
-  to_medication: medicamentos
-  which_meds_do_you_take: "\xC2\xBFSi no, qu\xC3\xA9 medicaciones toma usted?"
-  diarrhea: Diarrea
-  months: meses
-  pressure: "Presi\xC3\xB3n"
-  appetite_loss: "P\xC3\xA9rdida de apetito"
-  pain_scale: Tolerable = 1-3   Insoportable = 10
-  cough: Tos
-  stool_red: sangre roja con heces
-  reproductive_system: reproductivo
-  lungs: pulmonar
-  green: verde
-  date: fecha
-  urine: Orina
-  emergency_triage_questionnaire: Emergencia - Cuestionario de Triage
-  type1: tipo I
-  language: "Idioma: Espa\xC3\xB1ol"
-  constipation: "Estre\xC3\xB1imiento"
-  stool_black: heces negras
-  cramps: Calambres
-  type2: tipo II
-  days: !binary |
-    ZMOtYXM=
-
-  years: !binary |
-    YcOxb3M=
-
-  yellow: amarillenta
-  "yes": !binary |
-    U8Ot
-
-  physical_or_mental_handicap: "Impedimento f\xC3\xADsico o discapacidad intelectual"
-  diffuse: General
-  stomach_ulcer: "\xC3\x9Alcera de est\xC3\xB3mago"
-  itching: "Comez\xC3\xB3n"
-  swelling: "Uno o m\xC3\xA1s miembros hinchados"
-  endocrine_system: endocrino
-  burning_sensation: "Sensaci\xC3\xB3n de quemaz\xC3\xB3n"
-  pain: Tiene dolor
-  white: blanca
-  specify__handicap: ""
-  cancer: "C\xC3\xA1ncer"
-  chronic_bronchitis: "Bronquitis cr\xC3\xB3nica"
-  to_food: alimentos
-  do_you_have_allergies: "\xC2\xBFhaga usted tiene alergias al:"
-  congestive_heart_failure: "Insuficiencia card\xC3\xADaca "
-  fever: Fiebre
-  what_is_the_reason: "\xC2\xBFCu\xC3\xA1l es la raz\xC3\xB3n de su consulta? Por favor, seleccione las condiciones que describen su situaci\xC3\xB3n lo mejor."
-  brown: "marr\xC3\xB3n"
-  nausea: "N\xC3\xA1usea"
-  stool: heces
-  do_you_have_list_of_meds: "\xC2\xBFTiene usted una lista de sus medicaciones qu\xC3\xA9 usted puede mostrarnos?"
-  do_you_take_meds: "\xC2\xBFToma medicaci\xC3\xB3n y / o vitaminas?"
-  blood_in: "Sangre en:"
-  number_of_times: "N\xC3\xBAmero de veces:"
-  localized: Localizada
-  tightness: Punzadas
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: Entumecimiento
-  no__first_time: ""
-  stool_desc: Uno o varios miembros hinchados
-  stabbing: "en pu\xC3\xB1alada"
-  hiv_aids: VIH / SIDA
-  fatigue: Fatiga
-  other_diseases: "Otra enfermedad del sistema:"
-  poison: "veneno (por ejemplo: productos de limpieza)"
-  weight_loss: "P\xC3\xA9rdida de peso"
-  how_long_suffering: "\xC2\xBFCu\xC3\xA1nto tiempo ha estado sufriendo de esta condici\xC3\xB3n?"
-  "no": "No"
-  emphysema: Enfisema
-sw: 
-  psychiatric_problems: Matatizo ya akili
-  drugs: madawa ya kulevya
-  dizziness: kizunguzungu
-  stroke: Kiharusi
-  intoxication_with: "Wamelewa na matumizi ya:"
-  alcohol: pombe
-  have_you_been_diagnosed: Je, umewahi kuwa kukutwa au kutibiwa kwa yoyote ya masuala yafuatayo ya afya?
-  is_this_the_first_time: Je, hii ni mara ya kwanza?
-  difficulty_breathing: vigumu kupumua
-  how_intense_is_pain: Jinsi maumivu yako ni makali kwa kiwango 1-10?
-  asthma: Pumu
-  with_secretions: kukohoa up kamasi
-  muscles_and_bones: misuli na mifupa
-  fainting: watazirai/kupoteza fahamu
-  heart_attack: Moyo mashambulizi
-  diabetes: Ugonjwa wa kisukari
-  specify: TAJA
-  burn: kuchoma
-  day_month_year: siku / mwezi / mwaka
-  digestive_tract: njia ya utumbo
-  heart_and_veins: moyo na mishipa
-  palpitations: Hisia za moyo wako kuwapiga katika kifua chako
-  hypertension: Shinikizo la damu
-  choking: choking kwa sababu kitu ni kukwama katika koo yako/Kukwamwa na kitu kwenye koo.
-  vomiting: Kutapika
-  to_medication: kwa dawa
-  which_meds_do_you_take: Kama siyo, ambayo dawa gani unaweza kuchukua
-  diarrhea: kuhara
-  months: miezi
-  pressure: Shinikizo
-  appetite_loss: Kupoteza hamu ya kula
-  pain_scale: vumilika= 1-3, yasiyovumilika = 10
-  cough: kikohozi
-  stool_red: nyekundu za damu katika kinyesi
-  reproductive_system: mfumo wa uzazi
-  lungs: mapafu
-  green: kijani
-  date: tarehe
-  urine: Mkojo
-  emergency_triage_questionnaire: Dharura - triage dodoso
-  type1: aina mimi
-  language: "Lugha: Swahili"
-  constipation: kuvimbiwa
-  stool_black: |-
-    
-    nyeusi kinyesi
-  cramps: mawimbi makali ya maumivu
-  type2: aina II
-  days: siku
-  years: miaka
-  yellow: manjano
-  "yes": Ndiyo
-  physical_or_mental_handicap: ulemavu wa kimwili au ulemavu wa akili
-  diffuse: sawa kila mahali
-  stomach_ulcer: Tumbo kidonda
-  itching: Mwasho
-  swelling: Uvimbe katika mikono na miguu
-  endocrine_system: endocrine mfumo
-  burning_sensation: hisia ya moto
-  pain: Maumivu
-  white: nyeupe
-  cancer: Kansa
-  chronic_bronchitis: Mkamba sugu
-  to_food: Kwa chakula
-  do_you_have_allergies: "Je, una allergy yeyote:"
-  congestive_heart_failure: Congestive Moyo Kushindwa
-  fever: Homa
-  what_is_the_reason: Ni sababu gani kwa ajili ya mashauriano yako? Tafadhali chagua masharti ambayo kuelezea hali yako bora.
-  brown: kahawia
-  nausea: Kichefuchefu
-  stool: kinyesi
-  do_you_have_list_of_meds: Je una orodha ya dawa zako kwamba unaweza kuonyesha sisi?
-  do_you_take_meds: Ni wewe kuchukua tiba yoyote na / au vitamini?
-  blood_in: Damu juu ya
-  number_of_times: "Idadi ya mara:"
-  localized: katika sehemu moja
-  tightness: Kifua
-  numbness: Ganzi
-  stool_desc: kinyesi (nyeusi kinyesi au damu nyekundu na kinyesi)
-  stabbing: Kudungwa na kisu
-  hiv_aids: VVU / UKIMWI
-  fatigue: Uchovu
-  other_diseases: Magonjwa mengine ya
-  poison: "sumu (ex: kaya bidhaa)"
-  weight_loss: Hasara ya uzito
-  how_long_suffering: Muda gani umekuwa mateso kutokana na hali hii?
-  "no": Hakuna
-  emphysema: Emphazyma
-ru-RU: 
-  psychiatric_problems: !binary |
-    0J/RgdC40YXQuNCw0YLRgNC40YfQtdGB0LrQuNC1INC/0YDQvtCx0LvQtdC8
-    0Ys=
-
-  drugs: !binary |
-    0L3QsNGA0LrQvtGC0LjQumHQvNC4
-
-  dizziness: !binary |
-    0JPQvtC70L7QstC+0LrRgNGD0LbQtdC90LjQtQ==
-
-  stroke: !binary |
-    0JjQvdGB0YPQu9GM0YI=
-
-  yes__first_time: ""
-  intoxication_with: !binary |
-    0J7Qv9GM0Y/QvdC10L3QuNC1INC+0YI6
-
-  alcohol: !binary |
-    0LDQu9C60L7Qs9C+0LvRjA==
-
-  have_you_been_diagnosed: !binary |
-    CtCS0Ysg0LrQvtCz0LTQsC3QvdC40LHRg9C00Ywg0LHRi9C7INC/0L7RgdGC
-    0LDQstC70LXQvSDQtNC40LDQs9C90L7QtyDQuNC70Lgg0LvQtdGH0LXQvdC4
-    0LUg0LTQu9GPINC70Y7QsdC+0LPQviDQuNC3INGB0LvQtdC00YPRjtGJ0LjR
-    hSDQt9C00L7RgNC+0LLRjNC1INCy0L7Qv9GA0L7RgdC+0LI/
-
-  is_this_the_first_time: !binary |
-    0KDQsNC30LLQtSDRjdGC0L4g0LLQv9C10YDQstGL0LU/
-
-  difficulty_breathing: !binary |
-    INGC0YDRg9C00L3QvtGB0YLRjCDRgSDQtNGL0YXQsNC90LjQtdC8
-
-  how_intense_is_pain: !binary |
-    0YHQutC+0LvRjNC60L4g0YHRgtC+0LjRgiDQstCw0YjQsCDQsdC+0LvRjCDQ
-    v9C+INGI0LrQsNC70LUg0L7RgiAxINC00L4gMTA/
-
-  asthma: !binary |
-    0JDRgdGC0LzQsA==
-
-  with_secretions: !binary |
-    0YEg0LLRi9C00LXQu9C10L3QuNGP0LzQuA==
-
-  specify__food_allergy: ""
-  muscles_and_bones: !binary |
-    0LzRi9GI0YYg0Lgg0LrQvtGB0YLQtdC5
-
-  fainting: !binary |
-    0J7QsdC80L7RgNC+0LogLyDQv9C+0YLQtdGA0Y8g0YHQvtC30L3QsNC90LjR
-    jw==
-
-  heart_attack: !binary |
-    0KHQtdGA0LTQtdGH0L3Ri9C5INC/0YDQuNGB0YLRg9C/
-
-  diabetes: !binary |
-    0JTQuNCw0LHQtdGC
-
-  specify: !binary |
-    0KPQutCw0LbQuNGC0LU=
-
-  burn: !binary |
-    0JbQttC10L3QuNC1
-
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: !binary |
-    0JTQlC/QnNCcL9CT0JPQk9CT
-
-  digestive_tract: !binary |
-    0L/QuNGJ0LXQstCw0YDQuNGC0LXQu9GM0L3QvtCz0L4g0YLRgNCw0LrRgtCw
-
-  heart_and_veins: !binary |
-    0YHQtdGA0LTRhtC1INC4INCy0LXQvQ==
-
-  palpitations: !binary |
-    Q9C10YDQtNGG0LXQsdC40LXQvdC40LU=
-
-  hypertension: !binary |
-    0JPQuNC/0LXRgNGC0L7QvdC40Y8=
-
-  choking: !binary |
-    0JfQsNC00YvRhdCw0Y/RgdGMINC40Lct0LfQsCDQvtCx0YrQtdC60YIg0LfQ
-    sNGB0YLRgNGP0Lsg0LIg0LPQvtGA0LvQtQ==
-
-  vomiting: !binary |
-    0KDQstC+0YLQsA==
-
-  to_medication: !binary |
-    0LzQtdC00LjRhtC40L3RgdC60LjQuSDQv9GA0LXQv9Cw0YDQsNGC
-
-  which_meds_do_you_take: !binary |
-    0JXRgdC70Lgg0L3QtdGCLCDQutCw0LrQuNC1INC70LXQutCw0YDRgdGC0LLQ
-    sCDQstGLINC/0YDQuNC90LjQvNCw0LXRgtC1
-
-  diarrhea: !binary |
-    0J/QvtC90L7RgQ==
-
-  months: !binary |
-    0LzQtdGB0Y/RhtC10LI=
-
-  pressure: !binary |
-    0JTQsNCy0LvQtdC90LjQtQ==
-
-  appetite_loss: !binary |
-    0J/QvtGC0LXRgNGPINCw0L/Qv9C10YLQuNGC0LA=
-
-  pain_scale: !binary |
-    0YHQvdC+0YHQvdGL0LkgPSAxLTMg0J3QtdCy0YvQvdC+0YHQuNC80LDRjyA9
-    IDEw
-
-  cough: !binary |
-    0JrQsNGI0LXQu9GM
-
-  stool_red: !binary |
-    0LrRgNCw0YHQvdCw0Y8g0LrRgNC+0LLRjCDRgSDQutCw0Ls=
-
-  reproductive_system: !binary |
-    0KDQtdC/0YDQvtC00YPQutGC0LjQstC90L7QuSDRgdC40YHRgtC10LzRiw==
-
-  lungs: !binary |
-    CtC70LXQs9C60LjRhQ==
-
-  green: !binary |
-    0LfQtdC70LXQvdGL0LU=
-
-  date: !binary |
-    0LTQsNGC0LA=
-
-  urine: !binary |
-    0JzQvtGH0LA=
-
-  emergency_triage_questionnaire: !binary |
-    0LrRgNC40YLQuNGH0LXRgdC60L7QtSDQv9C+0LvQvtC20LXQvdC40LUgLSDQ
-    sNC90LrQtdGC0L3Ri9C5INC+0L/RgNC+0YEg0YHQvtGA0YLQuNGA0L7QstC6
-    0Lg=
-
-  type1: !binary |
-    0KLQuNC/IEk=
-
-  language: !binary |
-    0K/Qt9GL0Lo6INCg0YPRgdGB0LrQuNC5ICA=
-
-  constipation: !binary |
-    0JfQsNC/0L7RgA==
-
-  stool_black: !binary |
-    0YfQtdGA0L3Ri9C5INC60LDQuw==
-
-  cramps: !binary |
-    0JrQvtC70LjQutC4
-
-  type2: !binary |
-    0KLQuNC/IElJ
-
-  days: !binary |
-    0LTQvdC10Lk=
-
-  years: !binary |
-    0LvQtdGC
-
-  yellow: !binary |
-    0LbQtdC70YLRi9C1
-
-  "yes": !binary |
-    0JTQsA==
-
-  physical_or_mental_handicap: !binary |
-    0YTQuNC30LjRh9C10YHQutC40YUg0LjQu9C4INGD0LzRgdGC0LLQtdC90L3R
-    i9GFINC90LXQtNC+0YHRgtCw0YLQutC+0LI=
-
-  diffuse: !binary |
-    UNCw0YHQv9GA0L7RgdGC0YDQsNC90ZHQvdC90LDRjw==
-
-  stomach_ulcer: !binary |
-    0K/Qt9Cy0LAg0LbQtdC70YPQtNC60LA=
-
-  itching: !binary |
-    0JfRg9C00Y/RidC40Lk=
-
-  swelling: !binary |
-    0J7RgtC10Log0L7QtNC90L7QuSDQuNC70Lgg0L3QtdGB0LrQvtC70YzQutC4
-    0YUg0LrQvtC90LXRh9C90L7RgdGC0LXQuQ==
-
-  endocrine_system: !binary |
-    0Y3QvdC00L7QutGA0LjQvdC90L7QuSDRgdC40YHRgtC10LzRiw==
-
-  burning_sensation: !binary |
-    0J7RidGD0YnQtdC90LjQtSDQttC20LXQvdC40Y8=
-
-  pain: !binary |
-    0JHQvtC70Yw=
-
-  white: !binary |
-    0LHQtdC70YvQtQ==
-
-  specify__handicap: ""
-  cancer: !binary |
-    0KDQsNC6
-
-  chronic_bronchitis: !binary |
-    0KXRgNC+0L3QuNGH0LXRgdC60LjQuSDQsdGA0L7QvdGF0LjRgg==
-
-  to_food: !binary |
-    INC10LTRgw==
-
-  do_you_have_allergies: !binary |
-    0YMg0LLQsNGBINC10YHRgtGMINC60LDQutC40LUt0LvQuNCx0L4g0LDQu9C7
-    0LXRgNCz0LjQuCDQvdCw
-
-  congestive_heart_failure: !binary |
-    0JfQsNGB0YLQvtC50L3QsNGPINGB0LXRgNC00LXRh9C90LDRjyDQvdC10LTQ
-    vtGB0YLQsNGC0L7Rh9C90L7RgdGC0Yw=
-
-  fever: !binary |
-    0JvQuNGF0L7RgNCw0LTQutCw
-
-  what_is_the_reason: !binary |
-    0KfRgtC+INGP0LLQu9GP0LXRgtGB0Y8g0L/RgNC40YfQuNC90L7QuSDQktCw
-    0YjQtdC5INC60L7QvdGB0YPQu9GM0YLQsNGG0LjQuD8g0J/QvtC20LDQu9GD
-    0LnRgdGC0LAsINCy0YvQsdC10YDQuNGC0LUg0YPRgdC70L7QstC40Y8sINC6
-    0L7RgtC+0YDRi9C1INC+0L/QuNGB0YvQstCw0Y7RgiDQstCw0YjRgyDRgdC4
-    0YLRg9Cw0YbQuNGOINC70YPRh9GI0LUu
-
-  brown: !binary |
-    0LrQvtGA0LjRh9C90LXQstGL0LU=
-
-  nausea: !binary |
-    0KLQvtGI0L3QvtGC0LA=
-
-  stool: !binary |
-    0LrQsNC7
-
-  do_you_have_list_of_meds: !binary |
-    0KMg0LLQsNGBINC10YHRgtGMINGB0L/QuNGB0L7QuiDQstCw0YjQuNGFINC7
-    0LXQutCw0YDRgdGC0LIsINC60L7RgtC+0YDRi9C1INCy0Ysg0LzQvtC20LXR
-    gtC1INC/0L7QutCw0LfQsNGC0Ywg0L3QsNC8Pw==
-
-  do_you_take_meds: !binary |
-    0JLRiyDQv9GA0LjQvdC40LzQsNC10YLQtSDQu9C10LrQsNGA0YHRgtCy0LAg
-    0LggLyDQuNC70Lgg0LLQuNGC0LDQvNC40L3Riz8=
-
-  blood_in: !binary |
-    0JrRgNC+0LLRjCDQsjo=
-
-  number_of_times: !binary |
-    0KfQuNGB0LvQviDRgNCw0Lc6
-
-  localized: !binary |
-    0JvQvtC60LDQu9C40LfQvtCy0LDQvdC90LDRjw==
-
-  tightness: !binary |
-    0L/Qu9C+0YLQvdCw0Y8=
-
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: !binary |
-    0J7QvdC10LzQtdC90LjQtQ==
-
-  no__first_time: ""
-  stool_desc: !binary |
-    0LrQsNC70LUgKNGH0LXRgNC90YvQuSDQutCw0Lsg0LjQu9C4INC60YDQsNGB
-    0L3QsNGPINC60YDQvtCy0Ywg0LIg0LrQsNC70LUp
-
-  stabbing: !binary |
-    0YjQsNGA0L8=
-
-  hiv_aids: !binary |
-    0JLQmNCnIC8g0KHQn9CY0JQ=
-
-  fatigue: !binary |
-    0KPRgdGC0LDQu9C+0YHRgtGM
-
-  other_diseases: !binary |
-    0JTRgNGD0LPQuNC1INCx0L7Qu9C10LfQvdC4
-
-  poison: !binary |
-    0Y/QtCAo0L3QsNC/0YDQuNC80LXRgDog0LTQvtC80LDRiNC90LjQvNC4INC/
-    0YDQvtC00YPQutGC0LDQvNC4KQ==
-
-  weight_loss: !binary |
-    0J/QvtGC0LXRgNGPINCy0LXRgdCw
-
-  how_long_suffering: !binary |
-    0JrQsNC6INC00LDQstC90L4g0LLRiyDRgdGC0YDQsNC00LDRjtGJ0LjRhSDQ
-    vtGCINGN0YLQvtCz0L4g0YHQvtGB0YLQvtGP0L3QuNGPPw==
-
-  "no": !binary |
-    0J3QtdGC
-
-  emphysema: !binary |
-    0K3QvNGE0LjQt9C10LzQsA==
-
-bg: 
-  psychiatric_problems: !binary |
-    0J/RgdC40YXQuNCw0YLRgNC40YfQvdC4INC/0YDQvtCx0LvQtdC80Lg=
-
-  drugs: !binary |
-    0L3QsNGA0LrQvtGC0LjRhtC4
-
-  dizziness: !binary |
-    0LfQsNC80LDRj9C90L7RgdGC
-
-  stroke: !binary |
-    0JjQvdGB0YPQu9GC
-
-  yes__first_time: ""
-  intoxication_with: !binary |
-    0JjQvdGC0L7QutGB0LjQutCw0YbQuNGPINGBOg==
-
-  alcohol: !binary |
-    0LDQu9C60L7RhdC+0Ls=
-
-  have_you_been_diagnosed: !binary |
-    0JHQuNC70Lgg0LvQuCDRgdGC0LUg0L3Rj9C60L7Qs9CwINCx0LjQu9C4INC0
-    0LjQsNCz0L3QvtGB0YLQuNGG0LjRgNCw0L3QuCDQuNC70Lgg0LvQtdC60YPQ
-    stCw0L3QuCDQt9CwINC90Y/QutC+0Y8g0L7RgiDRgdC70LXQtNC90LjRgtC1
-    INC30LTRgNCw0LLQvdC4INC/0YDQvtCx0LvQtdC80Lg/
-
-  is_this_the_first_time: !binary |
-    0JTQsNC70Lgg0YLQvtCy0LAg0LUg0L/RitGA0LLQuCDQv9GK0YI/
-
-  difficulty_breathing: !binary |
-    0JfQsNGC0YDRg9C00L3QtdC90L4g0LTQuNGI0LDQvdC1
-
-  how_intense_is_pain: !binary |
-    0JrQvtC70LrQviDQuNC90YLQtdC90LfQuNCy0LXQvSDQtSDQsdC+0LvQutCw
-    0YLQsCDRgdC4INC/0L4g0YHQutCw0LvQsCDQvtGCIDEg0LTQviAxMD8=
-
-  asthma: !binary |
-    0JDRgdGC0LzQsA==
-
-  with_secretions: !binary |
-    0YHRitGBINGB0LXQutGA0LXRgtC4
-
-  specify__food_allergy: ""
-  muscles_and_bones: !binary |
-    0LzRg9GB0LrRg9C70L3Qvi3RgdC60LXQu9C10YLQvdCw0YLQsCDRgdC40YHR
-    gtC10LzQsA==
-
-  fainting: !binary |
-    0LfQsNCz0YPQsdCwINC90LAg0YHRitC30L3QsNC90LjQtQ==
-
-  heart_attack: !binary |
-    0LjQvdGE0LDRgNC60YI=
-
-  diabetes: !binary |
-    0JTQuNCw0LHQtdGC
-
-  specify: !binary |
-    0JfQsNC00LDQudGC0LU=
-
-  burn: !binary |
-    0JXQtNC90L4g0LjQt9Cz0LDRgNGP0L3QtQ==
-
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: !binary |
-    0JTQlCAvINCc0JwgLyDQk9CT0JPQkw==
-
-  digestive_tract: !binary |
-    0YXRgNCw0L3QvtGB0LzQuNC70LDRgtC10LvQvdC40Y8g0YLRgNCw0LrRgg==
-
-  heart_and_veins: !binary |
-    0YHRitGA0LTQtdGH0L3Qvi3RgdGK0LTQvtCy0LDRgtCwINGB0LjRgdGC0LXQ
-    vNCw
-
-  palpitations: !binary |
-    0KHRitGA0YbQtdCx0LjQtdC90LU=
-
-  hypertension: !binary |
-    0KXQuNC/0LXRgNGC0L7QvdC40Y8=
-
-  choking: !binary |
-    0JfQsNC00LDQstGP0L3QtSwg0YLRitC5INC60LDRgtC+INC90LAg0L7QsdC1
-    0LrRgiwg0LfQsNGB0LXQtNC90LDQu9C+INCyINCz0YrRgNC70L7RgtC+
-
-  vomiting: !binary |
-    0J/QvtCy0YDRitGJ0LDQvdC1
-
-  to_medication: !binary |
-    0JrRitC8INC80LXQtNC40LrQsNC80LXQvdGC0Lg=
-
-  which_meds_do_you_take: !binary |
-    0JDQutC+INC90LUsINC60LDQutCy0Lgg0LzQtdC00LjQutCw0LzQtdC90YLQ
-    uCDQktC30LjQvNCw0YLQtSA=
-
-  diarrhea: !binary |
-    0JTQuNCw0YDQuNGP
-
-  months: !binary |
-    0LzQtdGB0LXRhtCw
-
-  pressure: !binary |
-    0J3QsNGC0LjRgdC6
-
-  appetite_loss: !binary |
-    0JfQsNCz0YPQsdCwINC90LAg0LDQv9C10YLQuNGC
-
-  pain_scale: !binary |
-    0JTQvtC/0YPRgdGC0LjQvCA9IDEtMyDQndC10L/QvtC90L7RgdC40LzQsNGC
-    0LAgPSAxMA==
-
-  cough: !binary |
-    0JrQsNGI0LvQuNGG0LA=
-
-  stool_red: !binary |
-    0YfQtdGA0LLQtdC90LAg0LrRgNGK0LIg0YEg0LjQt9C/0YDQsNC20L3QtdC9
-    0LjRj9GC0LA=
-
-  reproductive_system: !binary |
-    0YDQtdC/0YDQvtC00YPQutGC0LjQstC90LDRgtCwINGB0LjRgdGC0LXQvNCw
-
-  lungs: !binary |
-    0LHQtdC70Lgg0LTRgNC+0LHQvtCy0LUK
-
-  green: !binary |
-    0LfQtdC70LXQvQ==
-
-  date: !binary |
-    0LTQsNGC0LA=
-
-  urine: !binary |
-    0KPRgNC40L3QsNGC0LAg
-
-  emergency_triage_questionnaire: !binary |
-    0JDQstCw0YDQuNC50L3QviAtIFRyaWFnZSDQktGK0L/RgNC+0YHQvdC40Lo=
-
-  type1: !binary |
-    0KLQuNC/IEk=
-
-  language: !binary |
-    0LXQt9C40Lo6INCx0YrQu9Cz0LDRgNGB0LrQuA==
-
-  constipation: !binary |
-    0JfQsNC/0LXQug==
-
-  stool_black: !binary |
-    0YfQtdGA0L3QviDQuNC30L/RgNCw0LbQvdC10L3QuNGP0YLQsA==
-
-  cramps: !binary |
-    0KHQv9Cw0LfQvNC4
-
-  type2: !binary |
-    0KLQuNC/IElJ
-
-  days: !binary |
-    0LTQvdC4IA==
-
-  years: !binary |
-    0LPQvtC00LjQvdC4
-
-  yellow: !binary |
-    0LbRitC70YI=
-
-  "yes": !binary |
-    0JTQsA==
-
-  physical_or_mental_handicap: !binary |
-    CtGE0LjQt9C40YfQtdGB0LrQsCDQuNC70Lgg0YPQvNGB0YLQstC10L3QsCDQ
-    vdC10LTRitC30Lg=
-
-  diffuse: !binary |
-    0YDQsNC30YHQtdGP0L3QsA==
-
-  stomach_ulcer: !binary |
-    0K/Qt9Cy0LAg0L3QsCDRgdGC0L7QvNCw0YXQsA==
-
-  itching: !binary |
-    0KHRitGA0LHQtdC2
-
-  swelling: !binary |
-    0J/QvtC00YPQstCw0L3QtSDQvdCwINC10LTQuNC9INC40LvQuCDQv9C+0LLQ
-    tdGH0LUg0LrRgNCw0LnQvdC40YbQuA==
-
-  endocrine_system: !binary |
-    0LXQvdC00L7QutGA0LjQvdC90LDRgtCwINGB0LjRgdGC0LXQvNCw
-
-  burning_sensation: !binary |
-    0KPRgdC10YnQsNC90LUg0LfQsCDQv9Cw0YDQtdC90LU=
-
-  pain: !binary |
-    0JHQvtC70LrQsA==
-
-  white: !binary |
-    0LHRj9C7
-
-  specify__handicap: ""
-  cancer: !binary |
-    0YDQsNC6
-
-  chronic_bronchitis: !binary |
-    0KXRgNC+0L3QuNGH0LXQvSDQsdGA0L7QvdGF0LjRgg==
-
-  to_food: !binary |
-    0JrRitC8INGF0YDQsNC90LA=
-
-  do_you_have_allergies: !binary |
-    0JjQvNCw0YLQtSDQu9C4INC90Y/QutCw0LrQstC4INCw0LvQtdGA0LPQuNC4
-    Og==
-
-  congestive_heart_failure: !binary |
-    0YHRitGA0LTQtdGH0L3QsCDQvdC10LTQvtGB0YLQsNGC0YrRh9C90L7RgdGC
-
-  fever: !binary |
-    0JLQuNGB0L7QutCwINGC0LXQvNC/0LXRgNCw0YLRg9GA0LA=
-
-  what_is_the_reason: !binary |
-    0JrQsNC60LLQsCDQtSDQv9GA0LjRh9C40L3QsNGC0LAg0LfQsCDQstCw0YjQ
-    sNGC0LAg0LrQvtC90YHRg9C70YLQsNGG0LjRjz8g0JzQvtC70Y8sINC40LfQ
-    sdC10YDQtdGC0LUg0YPRgdC70L7QstC40Y8sINC60L7QuNGC0L4g0L7Qv9C4
-    0YHQstCw0YIg0L3QsNC5LdC00L7QsdGA0LjRjyDRgdC4INC/0L7Qu9C+0LbQ
-    tdC90LjQtS4=
-
-  brown: !binary |
-    0LrQsNGE0Y/Qsg==
-
-  nausea: !binary |
-    0JPQsNC00LXQvdC1
-
-  stool: !binary |
-    0LjQt9C/0YDQsNC20L3QtdC90LjRj9GC0LA=
-
-  do_you_have_list_of_meds: !binary |
-    0JjQvNCw0YLQtSDQu9C4INGB0L/QuNGB0YrQuiDQvdCwINCy0LDRiNC40YLQ
-    tSDQu9C10LrQsNGA0YHRgtCy0LAsINC60L7QuNGC0L4g0LzQvtC20LXRgtC1
-    INC00LAg0L/QvtC60LDQttC10YLQtSDQvdC4Pw==
-
-  do_you_take_meds: !binary |
-    0JLQt9C40LzQsNGC0LUg0LvQuCDQvNC10LTQuNC60LDQvNC10L3RgtC4INC4
-    IC8g0LjQu9C4INCy0LjRgtCw0LzQuNC90Lg/
-
-  blood_in: !binary |
-    0JrRgNGK0LIg0LI6
-
-  number_of_times: !binary |
-    0JrQvtC70LrQviDQv9GK0YLQuDo=
-
-  localized: !binary |
-    0JvQvtC60LDQu9C40LfQuNGA0LDQvdC4
-
-  tightness: !binary |
-    0KHRgtGP0LPQsNC90LU=
-
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: !binary |
-    0KHQutC+0LLQsNC90L7RgdGC
-
-  no__first_time: ""
-  stool_desc: !binary |
-    0LjQt9C/0YDQsNC20L3QtdC90LjRj9GC0LAgKNC40LfQv9GA0LDQttC90LXQ
-    vdC40Y/RgtCwINGB0LAg0YfQtdGA0L3QuCwg0YfQtdGA0LLQtdC90LAg0LrR
-    gNGK0LIg0YEg0LjQt9C/0YDQsNC20L3QtdC90LjRj9GC0LAp
-
-  stabbing: !binary |
-    T9GB0YLRgNCw
-
-  hiv_aids: !binary |
-    0KXQmNCSIC8g0KHQn9CY0J0=
-
-  fatigue: !binary |
-    0KPQvNC+0YDQsA==
-
-  other_diseases: !binary |
-    0JTRgNGD0LPQuCDQt9Cw0LHQvtC70Y/QstCw0L3QuNGPIA==
-
-  poison: !binary |
-    0L7RgtGA0L7QstCwICjQvdCw0L/RgNC40LzQtdGAOiDQtNC+0LzQsNC60LjQ
-    vdGB0LrQuCDQv9GA0L7QtNGD0LrRgtC4KQ==
-
-  weight_loss: !binary |
-    0JfQsNCz0YPQsdCw0YLQsCDQvdCwINGC0LXQu9C10YHQvdCwINC80LDRgdCw
-
-  how_long_suffering: !binary |
-    0JrQvtC70LrQviDQstGA0LXQvNC1INGB0YLQtSDQsdC40LvQuCwg0YHRgtGA
-    0LDQtNCw0YnQuCDQvtGCINGC0L7QstCwINGB0YrRgdGC0L7Rj9C90LjQtT8=
-
-  "no": !binary |
-    0J3QtQ==
-
-  emphysema: !binary |
-    0JXQvNGE0LjQt9C10LzQsA==
-
-pt-PT: 
-  psychiatric_problems: "Problemas psiqui\xC3\xA1tricos"
-  drugs: drogas
-  dizziness: Vertigem
-  stroke: Acidente vascular cerebral/ derrame cerebral
-  yes__first_time: ""
-  intoxication_with: "Intoxica\xC3\xA7\xC3\xA3o com:"
-  alcohol: "\xC3\xA1lcool"
-  have_you_been_diagnosed: "\n\
-    Voc\xC3\xAA j\xC3\xA1 foi diagnosticado ou tratado por qualquer das seguintes quest\xC3\xB5es da sa\xC3\xBAde? "
-  is_this_the_first_time: "Esta \xC3\xA9 a primeira vez?"
-  difficulty_breathing: "Respira\xC3\xA7\xC3\xA3o dificil"
-  how_intense_is_pain: "Como intensa \xC3\xA9 sua dor em uma escala de 1 a 10 "
-  asthma: Asma
-  with_secretions: "com secre\xC3\xA7\xC3\xB5es"
-  specify__food_allergy: ""
-  muscles_and_bones: musculo-esqueletico
-  fainting: "Desmaios / perda de consci\xC3\xAAncia"
-  heart_attack: "Ataque card\xC3\xADaco/ infarto "
-  diabetes: Diabete
-  specify: Especifique
-  burn: Uma queimadura
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: "Dia / M\xC3\xAAs / Ano"
-  digestive_tract: trato digestivo
-  heart_and_veins: cardiovascular
-  palpitations: !binary |
-    UGFscGl0YcOnw7Vlcw==
-
-  hypertension: "Hipertens\xC3\xA3o"
-  choking: Asfixia por causa de um objeto preso na garganta
-  vomiting: "V\xC3\xB4mitos"
-  to_medication: !binary |
-    w4AgbWVkaWNhw6fDo28=
-
-  which_meds_do_you_take: "Se n\xC3\xA3o, quais rem\xC3\xA9dios voc\xC3\xAA toma?\n"
-  diarrhea: "Diarreia "
-  months: meses
-  pressure: "Una press\xC3\xA3o"
-  appetite_loss: Perda de apetite
-  pain_scale: "Toler\xC3\xA1vel = 1-3 Insuport\xC3\xA1vel = 10"
-  cough: Tosse
-  stool_red: sangue vermelho com fezes
-  reproductive_system: sistema reprodutivo
-  lungs: "pulm\xC3\xB5es"
-  green: verdes
-  date: data
-  urine: Urina
-  emergency_triage_questionnaire: "Emerg\xC3\xAAncia - Question\xC3\xA1rio de Triagem"
-  type1: tipo I
-  language: "L\xC3\xADngua: Portugu\xC3\xAAs "
-  constipation: Constipation
-  stool_black: fezes pretas
-  cramps: Caibras
-  type2: tipo II
-  days: dias
-  years: anos
-  yellow: amarelas
-  "yes": Sim
-  physical_or_mental_handicap: "uma defici\xC3\xAAncia f\xC3\xADsica ou mental"
-  diffuse: Difuso
-  stomach_ulcer: "\xC3\x9Alcera de est\xC3\xB4mago"
-  itching: "Comich\xC3\xA3o "
-  swelling: "Incha\xC3\xA7o de um ou mais membros"
-  endocrine_system: "sistema end\xC3\xB3crino"
-  burning_sensation: "Sensa\xC3\xA7\xC3\xA3o ardente "
-  pain: Dor
-  white: brancas
-  specify__handicap: ""
-  cancer: Cancro
-  chronic_bronchitis: "Bronquite cr\xC3\xB3nica"
-  to_food: !binary |
-    w4AgYWxpbWVudGHDp8Ojbw==
-
-  do_you_have_allergies: "Voc\xC3\xAA tem alergias?"
-  congestive_heart_failure: "Insufici\xC3\xAAncia card\xC3\xADaca"
-  fever: !binary |
-    RsOpYnJl
-
-  what_is_the_reason: "Qual \xC3\xA9 a raz\xC3\xA3o de sua consulta? Por favor seleccione a condi\xC3\xA7\xC3\xB5es que descrevem melhor a suia situacao."
-  brown: marrom
-  nausea: "N\xC3\xA1usea"
-  stool: fezes
-  do_you_have_list_of_meds: "Voc\xC3\xAA tem uma lista dos seus medicamentos que voc\xC3\xAA pode nos mostrar?"
-  do_you_take_meds: "Voc\xC3\xAA toma medica\xC3\xA7\xC3\xA3o e / ou vitaminas?"
-  blood_in: "Sangue nas:"
-  number_of_times: "Quantas vezes:"
-  localized: Localizada
-  tightness: Um aperto
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: Entorpecimento
-  no__first_time: ""
-  stool_desc: "f\xC3\xA9zes (f\xC3\xA9zes pretas ou sangue vermelho com as f\xC3\xA9zes)"
-  stabbing: Penetrante
-  hiv_aids: HIV/ SIDA
-  fatigue: "Cansa\xC3\xA7o"
-  other_diseases: "Outras doen\xC3\xA7as do:"
-  poison: "veneno (ex: Produtos de uso dom\xC3\xA9stico)"
-  weight_loss: Perda de peso
-  how_long_suffering: "H\xC3\xA1 quanto tempo voc\xC3\xAA vem sofrendo deste problema"
-  "no": !binary |
-    TsOjbw==
-
-  emphysema: Enfisema
-fr-FR: 
-  psychiatric_problems: Troubles psychiatriques
-  drugs: de la drogue
-  dizziness: "\xC3\x89tourdissements"
-  stroke: "Accident Vasculaire C\xC3\xA9r\xC3\xA9bral (ACV)"
-  yes__first_time: ""
-  intoxication_with: "lnloxication avec:"
-  alcohol: de l'alcool
-  have_you_been_diagnosed: "Avez-vous d\xC3\xA9ja \xC3\xA9t\xC3\xA9 diagnostiqu\xC3\xA9s ou trait\xC3\xA9s pour les probl\xC3\xA8mes de sant\xC3\xA9 suivants?"
-  is_this_the_first_time: "Est-ce la premi\xC3\xA8re fois?"
-  difficulty_breathing: Respiration difficile
-  how_intense_is_pain: "Indiquez l'intensit\xC3\xA9 de votre douleur de 1 a 10?"
-  asthma: L'asthme
-  with_secretions: "avec secr\xC3\xA9tions"
-  specify__food_allergy: ""
-  muscles_and_bones: musculo-squelettique
-  fainting: "\xC3\x89vanouissements/Perte de conscience"
-  heart_attack: Crise cardiaque
-  diabetes: "Diab\xC3\xA8te"
-  specify: "Pr\xC3\xA9cisez"
-  burn: "Br\xC3\xBBlure"
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: "Jour / Mois / Ann\xC3\xA9e"
-  digestive_tract: digestif
-  heart_and_veins: cardio-vasculaire
-  palpitations: Palpitations
-  hypertension: ""
-  choking: Etouffement du a une obstruction des voies respiratoire par un objet/de la nourriture
-  vomiting: vomissements
-  to_medication: "Aux m\xC3\xA9dicaments"
-  which_meds_do_you_take: "Si non, quels m\xC3\xA9dicaments prenez-vous?"
-  diarrhea: "Diarrh\xC3\xA9e"
-  months: mois
-  pressure: Une pression
-  appetite_loss: "Perte d'app\xC3\xA9tit"
-  pain_scale: "Tol\xC3\xA9rable = 1-3   Insupportable = 10"
-  cough: Toux
-  stool_red: " sang rouge avec selles"
-  reproductive_system: reproductif
-  lungs: poumons
-  green: vertes
-  date: date
-  urine: Urine
-  emergency_triage_questionnaire: Urgence - Questionnaire de Triage
-  type1: type I
-  language: "Langue: Fran\xC3\xA7ais"
-  constipation: Constipation
-  stool_black: selles noires
-  cramps: Des crampes
-  type2: type II
-  days: jours
-  years: "ann\xC3\xA9es"
-  yellow: "jaun\xC3\xA2tres"
-  "yes": Oui
-  physical_or_mental_handicap: handicap physique ou mental
-  diffuse: Diffuse
-  stomach_ulcer: "Ulc\xC3\xA8re \xC3\xA0 l'estomac"
-  itching: "D\xC3\xA9mangeaison"
-  swelling: "Un/des membres enfl\xC3\xA9s"
-  endocrine_system: endocrinien
-  burning_sensation: "Sensation de br\xC3\xBBlement"
-  pain: Une douleur
-  white: blanches
-  specify__handicap: ""
-  cancer: Cancer
-  chronic_bronchitis: La bronchite chronique
-  to_food: A la nourriture
-  do_you_have_allergies: "Avez-vous des allergies:"
-  congestive_heart_failure: "Insuffisance cardiaque "
-  fever: "Fi\xC3\xA8vre"
-  what_is_the_reason: "Quelle est votre raison de consultation? S'il vous pla\xC3\xAEt choisir les conditions qui d\xC3\xA9crivent votre situation."
-  brown: brune
-  nausea: "Naus\xC3\xA9e"
-  stool: selles
-  do_you_have_list_of_meds: "Avez-vous une liste de vos m\xC3\xA9dicaments que vous pouvez nous montrer?"
-  do_you_take_meds: "Prenez-vous des m\xC3\xA9dicaments et / ou des vitamines?"
-  blood_in: "Sang dans:"
-  number_of_times: "Nombre de fois:"
-  localized: "localis\xC3\xA9e"
-  tightness: Un serrement
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: Engourdissement
-  no__first_time: ""
-  stool_desc: selles (selles noires ou sang rouge avec selles)
-  stabbing: Poignardante
-  hiv_aids: VIH / SIDA
-  fatigue: Fatigue
-  other_diseases: "Autre maladie du syst\xC3\xA8me:"
-  poison: "du poison (ex. produits m\xC3\xA9nagers)"
-  weight_loss: Perte de poids
-  how_long_suffering: "Depuis quand souffrez-vous de ce probl\xC3\xA8me?"
-  "no": Non
-  emphysema: "Emphys\xC3\xA8me"
-en-US: 
-  psychiatric_problems: Psychiatric problems
-  drugs: drugs
-  dizziness: Dizziness
-  stroke: Stroke
-  yes__first_time: ""
-  intoxication_with: "Intoxication with:"
-  alcohol: alcohol
-  have_you_been_diagnosed: Have you ever been diagnosed or treated for any of the following health issues?
-  is_this_the_first_time: Is this the first time?
-  difficulty_breathing: Diffuculty Breathing
-  how_intense_is_pain: How intense is your pain on a scale from 1 to 10?
-  asthma: Asthma
-  with_secretions: with secretions
-  specify__food_allergy: ""
-  muscles_and_bones: muscles and bones
-  fainting: Fainting/loss of consciousness
-  heart_attack: Heart Attack
-  diabetes: Diabetes
-  specify: Specify
-  burn: A burn
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: DD/MM/YYYY
-  digestive_tract: digestive tract
-  heart_and_veins: heart and veins
-  palpitations: Palpitations
-  hypertension: Hypertension
-  choking: Choking because of an object stuck in throat
-  vomiting: Vomiting
-  to_medication: To medication
-  which_meds_do_you_take: If not, which medications do you take
-  diarrhea: Diarrhea
-  months: months
-  pressure: Pressure
   appetite_loss: Loss of appetite
-  pain_scale: Tolerable = 1-3   Unbearable = 10
-  cough: Cough
-  stool_red: red blood with stool
-  reproductive_system: reproductive system
-  lungs: lungs
-  green: green
-  date: date
-  urine: Urine
-  emergency_triage_questionnaire: Emergency - Triage Questionnaire
-  type1: type I
-  language: "Language: English"
-  constipation: Constipation
-  stool_black: black stool
-  cramps: Cramps
-  type2: type II
-  days: days
-  years: years
-  yellow: yellow
-  "yes": "Yes"
-  physical_or_mental_handicap: A physical handicap or mental handicap
-  diffuse: Diffuse
-  stomach_ulcer: Stomach Ulcer
-  itching: Itching
-  swelling: Swelling of one or more limbs
-  endocrine_system: endocrine system
-  burning_sensation: Burning Sensation
-  pain: Pain
-  white: white
-  specify__handicap: ""
-  cancer: Cancer
-  chronic_bronchitis: Chronic bronchitis
-  to_food: To food
-  do_you_have_allergies: "Do you have any allergies:"
-  congestive_heart_failure: Congestive Heart Failure
-  fever: Fever
-  what_is_the_reason: What is the reason for your consultation? Please select the conditions that describe your situation best.
+  blood_in: ! 'Blood in:'
   brown: brown
-  nausea: Nausea
-  stool: stool
-  do_you_have_list_of_meds: Do you have a list of your medications that you can show us?
-  do_you_take_meds: Do you take medication and/or vitamins?
-  blood_in: "Blood in:"
-  number_of_times: "Number of times:"
-  localized: Localized
-  tightness: Tightness
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: Numbness
-  no__first_time: ""
-  stool_desc: stool (black stool or red blood with stool)
-  stabbing: Stabbing
-  hiv_aids: HIV / AIDS
+  burn: A burn
+  burning_sensation: Burning Sensation
+  choking: Choking because of an object stuck in throat
+  constipation: Constipation
+  cough: Cough
+  cramps: Cramps
+  diarrhea: Diarrhea
+  difficulty_breathing: Diffuculty Breathing
+  diffuse: Diffuse
+  dizziness: Dizziness
+  drugs: drugs
+  emergency_triage_questionnaire: Emergency - Triage Questionnaire
+  fainting: Fainting/loss of consciousness
   fatigue: Fatigue
-  other_diseases: Other diseases of the
-  poison: "poison (ex: household products)"
+  fever: Fever
+  green: green
+  how_intense_is_pain: How intense is your pain on a scale from 1 to 10?
+  intoxication_with: ! 'Intoxication with:'
+  itching: Itching
+  language: ! 'Language: English'
+  localized: Localized
+  nausea: Nausea
+  numbness: Numbness
+  pain: Pain
+  pain_scale: Tolerable = 1-3   Unbearable = 10
+  palpitations: Palpitations
+  poison: ! 'poison (ex: household products)'
+  pressure: Pressure
+  stabbing: Stabbing
+  stool_desc: stool (black stool or red blood with stool)
+  swelling: Swelling of one or more limbs
+  tightness: Tightness
+  urine: Urine
+  vomiting: Vomiting
   weight_loss: Loss of weight
+  what_is_the_reason: What is the reason for your consultation? Please select the
+    conditions that describe your situation best.
+  white: white
+  with_secretions: with secretions
+  yellow: yellow
+  '': ''
   how_long_suffering: How long have you been suffering from this condition?
-  "no": "No"
+  days: days
+  months: months
+  years: years
+  is_this_the_first_time: Is this the first time?
+  'yes': 'Yes'
+  'no': 'No'
+  number_of_times: ! 'Number of times:'
+  have_you_been_diagnosed: Have you ever been diagnosed or treated for any of the
+    following health issues?
+  hypertension: Hypertension
+  congestive_heart_failure: Congestive Heart Failure
+  heart_attack: Heart Attack
+  date: date
   emphysema: Emphysema
-ar: 
-  psychiatric_problems: !binary |
-    2YXYtNin2YPZhCDYp9mE2LXYrdipINin2YTYudmC2YTZitip
-
-  drugs: !binary |
-    2KfZhNmF2K7Yr9ix2KfYqg==
-
-  dizziness: !binary |
-    2K/ZiNiu2Kk=
-
-  stroke: !binary |
-    2KfZhNiz2YPYqtipINin2YTYr9mF2KfYutmK2Kk=
-
-  yes__first_time: ""
-  intoxication_with: !binary |
-    2KfZhNiq2LPZhdmFINmF2LkgOg==
-
-  alcohol: !binary |
-    2YPYrdmI2YQ=
-
-  have_you_been_diagnosed: !binary |
-    2YfZhCDYs9io2YIg2YTZgyDYo9mGINiq2YUg2KrYtNiu2YrYtSDYo9mIINi5
-    2YTYp9isINmF2YYg2KPZiiDZhdmGINin2YTZhdiz2KfYptmEINin2YTYqtin
-    2YTZitipIDo=
-
-  is_this_the_first_time: !binary |
-    2YfZhCDZh9iw2Ycg2YfZiiDYp9mE2YXYsdipINin2YTYo9mI2YTZidif
-
-  difficulty_breathing: !binary |
-    2LXYudmI2KjYqSDZgdmKINin2YTYqtmG2YHYsw==
-
-  how_intense_is_pain: !binary |
-    2YPZitmBINmH2Yog2LTYr9mK2K/YqSDYp9mE2KPZhNmFINi52YTZiSDZhdmC
-    2YrYp9izINmF2YYgMSDYpdmE2YkgMTDYnw==
-
-  asthma: !binary |
-    2KfZhNix2KjZiA==
-
-  with_secretions: !binary |
-    2YXYuSDYp9mB2LHYp9iy2KfYqg==
-
-  specify__food_allergy: ""
-  muscles_and_bones: !binary |
-    2KfZhNi52LbZhNin2Kog2YjYp9mE2LnYuNin2YU=
-
-  fainting: !binary |
-    2KfZhNil2LrZhdin2KEgLyDZgdmC2K/Yp9mGINin2YTZiNi52Yo=
-
-  heart_attack: !binary |
-    2YbZiNio2Kkg2YLZhNio2YrYqQ==
-
-  diabetes: !binary |
-    2YXYsdi2INin2YTYs9mD2LHZig==
-
-  specify: !binary |
-    2KfYs9mFIA==
-
-  burn: !binary |
-    2K3YsdmC
-
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: !binary |
-    2KfZhNmK2YjZhSAvINin2YTYtNmH2LEgLyDYp9mE2LPZhtip
-
-  digestive_tract: !binary |
-    2KfZhNis2YfYp9iyINin2YTZh9i22YXZig==
-
-  heart_and_veins: !binary |
-    2KfZhNmC2YTYqCDZiNin2YTYo9mI2LHYr9ip
-
-  palpitations: !binary |
-    2K7ZgdmC2KfZhg==
-
-  hypertension: !binary |
-    2KfYsdiq2YHYp9i5INi22LrYtyDYp9mE2K/ZhQ==
-
-  choking: !binary |
-    2KfZhNiu2KfZhtmC2Kkg2KjYs9io2Kgg2YPYp9im2YYg2LnYp9mE2YLYpyDZ
-    gdmKINin2YTYrdmE2YI=
-
-  vomiting: !binary |
-    2YLZitih
-
-  to_medication: !binary |
-    2LnZhNmJINin2YTYr9mI2KfYoQ==
-
-  which_meds_do_you_take: !binary |
-    2YXYp9iw2Kcg2KrZgdi52YQg2KfZhNij2K/ZiNmK2Kkg2KfZhNiq2Yog2KrY
-    o9iu2LDZh9in2J8=
-
-  diarrhea: !binary |
-    2KfZhNil2LPZh9in2YQ=
-
-  months: !binary |
-    2KPYtNmH2LE=
-
-  pressure: !binary |
-    2KfZhNi22LrYtw==
-
-  appetite_loss: !binary |
-    2YHZgtiv2KfZhiDYp9mE2LTZh9mK2Kk=
-
-  pain_scale: !binary |
-    MS0zID0g2YXZgtio2YjZhArZhNinINmK2LfYp9mCID0gMTA=
-
-  cough: !binary |
-    2LPYudin2YQ=
-
-  stool_red: !binary |
-    2KfZhNiv2YUg2KfZhNit2YXYsdin2KEg2YXYuSDYp9mE2KjYsdin2LI=
-
-  reproductive_system: !binary |
-    2KfZhNis2YfYp9iyINin2YTYqtmG2KfYs9mE2Yo=
-
-  lungs: !binary |
-    2KfZhNix2KbYqtmK2YY=
-
-  green: !binary |
-    2KPYrti22LE=
-
-  date: !binary |
-    2KrYp9ix2YrYrg==
-
-  urine: !binary |
-    2KjZiNmE
-
-  emergency_triage_questionnaire: !binary |
-    2KfZhNi32YjYp9ix2KYgLS0g2KfYs9iq2KjZitin2YYg2KfZhNmB2LHYsg==
-
-  type1: !binary |
-    2KfZhNmG2YjYuSDYp9mE2KPZiNmE
-
-  language: !binary |
-    2KfZhNmE2LrYqSA6INin2YTYudix2KjZitip
-
-  constipation: !binary |
-    2KfZhNil2YXYs9in2YM=
-
-  stool_black: !binary |
-    2KPYs9mI2K8g2KfZhNio2LHYp9iy
-
-  cramps: !binary |
-    2KrYtNmG2KzYp9iq
-
-  type2: !binary |
-    2KfZhNmG2YjYuSDYp9mE2KvYp9mG2Yo=
-
-  days: !binary |
-    2KPZitin2YU=
-
-  years: !binary |
-    2LPZhtip
-
-  yellow: !binary |
-    2KPYtdmB2LE=
-
-  "yes": !binary |
-    2YbYudmF
-
-  physical_or_mental_handicap: !binary |
-    2LnYp9im2YIg2KzYs9iv2Yog2KPZiCDYudmC2YTZig==
-
-  diffuse: !binary |
-    2YXZhtiq2LTYsQ==
-
-  stomach_ulcer: !binary |
-    2YLYsdit2Kkg2KfZhNmF2LnYr9ip
-
-  itching: !binary |
-    2KfZhNit2YPYqQ==
-
-  swelling: !binary |
-    2YXYqtmI2LHZhQ==
-
-  endocrine_system: !binary |
-    2YbYuNin2YUg2KfZhNi62K/YryDYp9mE2LXZhdin2KE=
-
-  burning_sensation: !binary |
-    2K3YsdmCINin2YTYpdit2LPYp9iz
-
-  pain: !binary |
-    2KPZhNmF
-
-  white: !binary |
-    2KPYqNmK2LY=
-
-  specify__handicap: ""
-  cancer: !binary |
-    2LPYsdi32KfZhg==
-
-  chronic_bronchitis: !binary |
-    2KfZhNiq2YfYp9ioINin2YTYtNi52Kgg2KfZhNmH2YjYp9im2YrYqSDYp9mE
-    2YXYstmF2YY=
-
-  to_food: !binary |
-    2YHZiiDYp9mE2LrYsNin2KE=
-
-  do_you_have_allergies: !binary |
-    2YfZhCDZhNiv2YrZgyDYo9mKINmG2YjYuSDZhdmGINin2YTYrdiz2KfYs9mK
-    2KkgOg==
-
-  congestive_heart_failure: !binary |
-    2YHYtNmEINin2YTZgtmE2Kgg2KfZhNin2K3YqtmC2KfZhtmK
-
-  fever: !binary |
-    2K3ZhdmJ
-
-  what_is_the_reason: !binary |
-    2YXYpyDZh9mIINin2YTYs9io2Kgg2KfZhNiu2KfYtSDZhNmE2KrYtNin2YjY
-    sdifINmK2LHYrNmJINiq2K3Yr9mK2K8g2KfZhNi42LHZiNmBINin2YTYqtmK
-    INiq2LXZgSDYp9mE2YjYtti5INin2YHYttmEINmF2Kcg2YTYr9mK2YPZhS4=
-
-  brown: !binary |
-    2KPYs9mF2LE=
-
-  nausea: !binary |
-    2LrYq9mK2KfZhg==
-
-  stool: !binary |
-    2KfZhNio2LHYp9iy
-
-  do_you_have_list_of_meds: !binary |
-    2YfZhCDZhNiv2YrZgyDZgtin2KbZhdipINmF2YYg2KfZhNij2K/ZiNmK2Kkg
-    2KfZhNiq2Yog2YrZhdmD2YbZgyDYqtio2YrZhiDZhNmG2KfYnw==
-
-  do_you_take_meds: !binary |
-    2YfZhCDYqtmG2KfZiNmEINin2YTYr9mI2KfYoSDZiCAvINij2Ygg2KfZhNmB
-    2YrYqtin2YXZitmG2KfYqtif
-
-  blood_in: !binary |
-    2KfZhNiv2YUg2YHZiiDZg9mEINmF2YYgOg==
-
-  number_of_times: !binary |
-    2LnYr9ivINin2YTZhdix2KfYqiA6
-
-  localized: !binary |
-    2YXYrdmE2Yo=
-
-  tightness: !binary |
-    2LbZitmC
-
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: !binary |
-    2K7Yr9ix
-
-  no__first_time: ""
-  stool_desc: !binary |
-    Ctin2YTYqNix2KfYsiAo2KfZhNio2LHYp9iyINij2LPZiNivINij2Ygg2KPY
-    rdmF2LEg2KfZhNiv2YUg2YXYuSDYp9mE2KjYsdin2LIp
-
-  stabbing: !binary |
-    2LfYudmGL9it2KfYrw==
-
-  hiv_aids: !binary |
-    2YHZitix2YjYsyDZhtmC2LUg2KfZhNmF2YbYp9i52Kkg2KfZhNio2LTYsdmK
-    2KkgLyDYp9mE2KXZitiv2LI=
-
-  fatigue: !binary |
-    2KrYudio
-
-  other_diseases: !binary |
-    2KPZhdix2KfYtiDYo9iu2LHZiQ==
-
-  poison: !binary |
-    2KfZhNiz2YUgKNmF2KvZhNinIDog2KfZhNmF2YbYqtis2KfYqiDYp9mE2YXZ
-    htiy2YTZitipKQ==
-
-  weight_loss: !binary |
-    2YHZgtiv2KfZhiDYp9mE2YjYstmG
-
-  how_long_suffering: !binary |
-    2YXZhtiwINmF2KrZiSDZiNij2YbYqiDYqti52KfZhtmKINmF2YYg2YfYsNin
-    INin2YTYtNix2LfYnw==
-
-  "no": !binary |
-    2YTYpw==
-
-  emphysema: !binary |
-    2YbZgdin2K4=
-
-sr: 
-  psychiatric_problems: !binary |
-    0J/RgdC40YXQuNGY0LDRgtGA0LjRmNGB0LrQuCDQv9GA0L7QsdC70LXQvNC4
-
-  drugs: !binary |
-    0LvQtdC60L7QstC4
-
-  dizziness: !binary |
-    0JLRgNGC0L7Qs9C70LDQstC40YbQsA==
-
-  stroke: !binary |
-    0KPQtNCw0YA=
-
-  yes__first_time: ""
-  intoxication_with: !binary |
-    0JjQvdGC0L7QutGB0LjQutCw0YbQuNGY0LAg0YHQsDo=
-
-  alcohol: !binary |
-    0LDQu9C60L7RhdC+0Ls=
-
-  have_you_been_diagnosed: !binary |
-    0JTQsCDQu9C4INGB0YLQtSDQuNC60LDQtNCwINCx0LjQu9C4INC00LjRmNCw
-    0LPQvdC+0LfQsCDQuNC70Lgg0YLRgNC10YLQvNCw0L0g0LfQsCDQsdC40LvQ
-    viDQutC+0ZjQuCDQvtC0INGB0LvQtdC00LXRm9C40YUg0LfQtNGA0LDQstGB
-    0YLQstC10L3QuNGFINC/0YDQvtCx0LvQtdC80LA/
-
-  is_this_the_first_time: !binary |
-    0JTQsCDQu9C4INGY0LUg0L7QstC+INC/0YDQstC4INC/0YPRgj8=
-
-  difficulty_breathing: !binary |
-    0JTQuNGE0YTRg9GG0YPQu9GC0Lgg0LTQuNGB0LDRmtC1
-
-  how_intense_is_pain: !binary |
-    0JrQsNC60L4g0ZjQtSDQstCw0Ygg0LjQvdGC0LXQvdC30LjQstCw0L0g0LHQ
-    vtC7INC90LAg0YHQutCw0LvQuCDQvtC0IDEg0LTQviAxMD8=
-
-  asthma: !binary |
-    0JDRgdGC0LzQsA==
-
-  with_secretions: !binary |
-    0YHQsCDRgdC10LrRgNC10YLQuNC80LA=
-
-  specify__food_allergy: ""
-  muscles_and_bones: !binary |
-    0LzQuNGI0LjRm9C4INC4INC60L7RgdGC0Lg=
-
-  fainting: !binary |
-    0J3QtdGB0LLQtdGB0YLQuNGG0LAgLyDQs9GD0LHQuNGC0LDQuiDRgdCy0LXR
-    gdGC0Lg=
-
-  heart_attack: !binary |
-    0KHRgNGH0LDQvdC4INC90LDQv9Cw0LQ=
-
-  diabetes: !binary |
-    0JTQuNGY0LDQsdC10YLQtdGB
-
-  specify: !binary |
-    0YPQutCw0LfQsNGC0Lg=
-
-  burn: !binary |
-    0JPQvtGA0Lg=
-
-  specify__med_allergy: ""
-  no__have_list: ""
-  day_month_year: !binary |
-    0LTQsNC9IC8g0LzQtdGB0LXRhiAvINCz0L7QtNC40L3QsA==
-
-  digestive_tract: !binary |
-    0LTQuNCz0LXRgdGC0LjQstC90L7QsyDRgtGA0LDQutGC0LA=
-
-  heart_and_veins: !binary |
-    0YHRgNGG0LUg0Lgg0LLQtdC90LU=
-
-  palpitations: !binary |
-    0J/QsNC70L/QuNGC0LDRhtC40ZjQtQ==
-
-  hypertension: !binary |
-    0KXQuNC/0LXRgNGC0LXQvdC30LjRmNCw
-
-  choking: !binary |
-    0JPRg9GI0LXRmtC1INC30LHQvtCzINC+0LHRmNC10LrRgtCwINC30LDQs9C7
-    0LDQstGZ0LXQvSDRgyDQs9GA0LvRgw==
-
-  vomiting: !binary |
-    0J/QvtCy0YDQsNGb0LDRmtC1
-
-  to_medication: !binary |
-    0LfQsCDQu9C10LrQvtCy0LU=
-
-  which_meds_do_you_take: !binary |
-    0JDQutC+INC90LUsINGI0YLQsCDQu9C10LrQvtCy0LUg0YPQt9C40LzQsNGC
-    0LU=
-
-  diarrhea: !binary |
-    0J/RgNC+0LvQuNCy
-
-  months: !binary |
-    0LzQtdGB0LXRhtC4
-
-  pressure: !binary |
-    0J/RgNC40YLQuNGB0LDQug==
-
-  appetite_loss: !binary |
-    0JPRg9Cx0LjRgtCw0Log0LDQv9C10YLQuNGC0LA=
-
-  pain_scale: !binary |
-    0KLQvtC70LXRgNC40YHQsNGC0LggPSAxLTMg0J3QtdC/0L7QtNC90L7RiNGZ
-    0LjQstCwID0gMTA=
-
-  cough: !binary |
-    0JrQsNGI0LDRmQ==
-
-  stool_red: !binary |
-    0YbRgNCy0LXQvdC40YUg0LrRgNCy0L3QuNGFINC40LfQvNC10YLQvtC8
-
-  reproductive_system: !binary |
-    0YDQtdC/0YDQvtC00YPQutGC0LjQstC90Lgg0YHQuNGB0YLQtdC8
-
-  lungs: !binary |
-    0L/Qu9GD0ZvQsA==
-
-  green: !binary |
-    0LfQtdC70LXQvdCw
-
-  date: !binary |
-    0LTQsNGC0YPQvA==
-
-  urine: !binary |
-    0KPRgNC40L0=
-
-  emergency_triage_questionnaire: !binary |
-    0KXQuNGC0L3QtSAtINCi0YDQuNCw0LPQtSDQo9C/0LjRgtC90LjQug==
-
-  type1: !binary |
-    0YLQuNC/INCY
-
-  language: !binary |
-    0IjQtdC30LjQujog0KHRgNC/0YHQutC4
-
-  constipation: !binary |
-    0JfQsNGC0LLQvtGA
-
-  stool_black: !binary |
-    0YbRgNC90LAg0LjQt9C80LXRgg==
-
-  cramps: !binary |
-    0JPRgNGH0LXQstC4
-
-  type2: !binary |
-    0YLQuNC/0LAg0JjQmA==
-
-  days: !binary |
-    0LTQsNC90Lg=
-
-  years: !binary |
-    0LPQvtC00LjQvdC1
-
-  yellow: !binary |
-    0LbRg9GC0LA=
-
-  "yes": !binary |
-    0JTQsA==
-
-  physical_or_mental_handicap: !binary |
-    0KTQuNC30LjRh9C60Lgg0YXQtdC90LTQuNC60LXQvyDQuNC70Lgg0LzQtdC9
-    0YLQsNC70L3QtSDQvdC10YHQv9C+0YHQvtCx0L3QvtGB0YLQuA==
-
-  diffuse: !binary |
-    0JTQuNGE0YPQt9Cw0L0=
-
-  stomach_ulcer: !binary |
-    0YHRgtC+0LzQsNC6INGH0LjRgA==
-
-  itching: !binary |
-    0KHQstGA0LDQsQ==
-
-  swelling: !binary |
-    0J7RgtC40YbQsNGa0LUg0ZjQtdC00L3QvtCzINC40LvQuCDQstC40YjQtSDR
-    g9C00L7QstCw
-
-  endocrine_system: !binary |
-    0LXQvdC00L7QutGA0LjQvdC+0LMg0YHQuNGB0YLQtdC80LA=
-
-  burning_sensation: !binary |
-    0J/QtdGG0LrQsNGa0LU=
-
-  pain: !binary |
-    0JHQvtC7
-
-  white: !binary |
-    0LHQtdC70Lg=
-
-  specify__handicap: ""
-  cancer: !binary |
-    0KDQsNC6
-
-  chronic_bronchitis: !binary |
-    0KXRgNC+0L3QuNGH0L3QuCDQsdGA0L7QvdGF0LjRgtC40YE=
-
-  to_food: !binary |
-    0JfQsCDRhdGA0LDQvdGD
-
-  do_you_have_allergies: !binary |
-    0JTQsCDQu9C4INC40LzQsNGC0LUg0LHQuNC70L4g0LrQsNC60LLQuNGFINCw
-    0LvQtdGA0LPQuNGY0LA6
-
-  congestive_heart_failure: !binary |
-    0JrQvtC90LPQtdGB0YLQuNCy0L3QtSDRgdGA0YfQsNC90LUg0LjQvdGB0YPR
-    hNC40YbQuNGY0LXQvdGG0LjRmNC1
-
-  fever: !binary |
-    0JPRgNC+0LfQvdC40YbQsA==
-
-  what_is_the_reason: !binary |
-    0KjRgtCwINGY0LUg0YDQsNC30LvQvtCzINC30LAg0LrQvtC90YHRg9C70YLQ
-    sNGG0LjRmNC1PyDQnNC+0LvQuNC80L4g0JLQsNGBINC00LAg0L7QtNCw0LHQ
-    tdGA0LXRgtC1INGD0YHQu9C+0LLQtSDQutC+0ZjQuCDQvtC/0LjRgdGD0ZjR
-    gyDQstCw0Ygg0L3QsNGY0LHQvtGZ0Lgg0YHQuNGC0YPQsNGG0LjRmNGDLg==
-
-  brown: !binary |
-    0LHRgNCw0L7QvQ==
-
-  nausea: !binary |
-    0JzRg9GH0L3QuNC90LA=
-
-  stool: !binary |
-    0LjQt9C80LXRgg==
-
-  do_you_have_list_of_meds: !binary |
-    0JTQsCDQu9C4INC40LzQsNGC0LUg0LvQuNGB0YLRgyDQstCw0YjQuNGFINC7
-    0LXQutC+0LLQsCDQt9CwINC90LDRgT8=
-
-  do_you_take_meds: !binary |
-    0JTQsCDQu9C4INGD0LfQuNC80LDRgtC1INC70LXQutC+0LLQtSDQuCAvINC4
-    0LvQuCDQstC40YLQsNC80LjQvdCwPw==
-
-  blood_in: !binary |
-    0JrRgNCyINGDOg==
-
-  number_of_times: !binary |
-    0JrQvtC70LjQutC+INC/0YPRgtCwOg==
-
-  localized: !binary |
-    0JvQvtC60LDQu9C40LfQvtCy0LDQvdC4
-
-  tightness: !binary |
-    0KHRgtC10LPQvdGD0YLQvtGB0YI=
-
-  no__take_meds: ""
-  yes__have_list: ""
-  yes__take_meds: ""
-  numbness: !binary |
-    0KPRgtGA0L3Rg9C70L7RgdGC
-
-  no__first_time: ""
-  stool_desc: !binary |
-    0YHRgtC+0LvQuNGG0LAgKNGG0YDQvdCwINGB0YLQvtC70LjRhtCwINC40LvQ
-    uCDRhtGA0LLQtdC90LAg0LrRgNCy0L3QsCDRgdCwINGB0YLQvtC70LjRhtC4
-    KQ==
-
-  stabbing: !binary |
-    0KPQsdCw0LTQsNGa0LU=
-
-  hiv_aids: !binary |
-    0KXQmNCSIC8g0JDQmNCU0KEt
-
-  fatigue: !binary |
-    0KPQvNC+0YA=
-
-  other_diseases: !binary |
-    0JTRgNGD0LPQuCDQsdC+0LvQtdGB0YLQuA==
-
-  poison: !binary |
-    0L7RgtGA0L7QsiAo0L3QsCDQv9GA0LjQvNC10YA6INC/0YDQvtC40LfQstC+
-    0LTQsCDQt9CwINC00L7QvNCw0ZvQuNC90YHRgtCy0L4p
-
-  weight_loss: !binary |
-    0JPRg9Cx0LjRgtCw0Log0YLQtdC20LjQvdC1
-
-  how_long_suffering: !binary |
-    0LrQvtC70LjQutC+INC00YPQs9C+INGB0YLQtSDQsdC40LvQuCDQv9Cw0YLQ
-    tSDQvtC0INC+0LLQvtCzINGB0YLQsNGa0LA/
-
-  "no": !binary |
-    0L3QtQ==
-
-  emphysema: !binary |
-    0JXQvNGE0LjQt9C10Lw=
-
+  chronic_bronchitis: Chronic bronchitis
+  asthma: Asthma
+  stroke: Stroke
+  diabetes: Diabetes
+  type1: type I
+  type2: type II
+  hiv_aids: HIV / AIDS
+  physical_or_mental_handicap: A physical handicap or mental handicap
+  specify: Specify
+  psychiatric_problems: Psychiatric problems
+  cancer: Cancer
+  stomach_ulcer: Stomach Ulcer
+  other_diseases: Other diseases of the
+  heart_and_veins: heart and veins
+  lungs: lungs
+  digestive_tract: digestive tract
+  reproductive_system: reproductive system
+  endocrine_system: endocrine system
+  muscles_and_bones: muscles and bones
+  do_you_take_meds: Do you take medication and/or vitamins?
+  do_you_have_list_of_meds: Do you have a list of your medications that you can show
+    us?
+  which_meds_do_you_take: If not, which medications do you take
+  do_you_have_allergies: ! 'Do you have any allergies:'
+  to_medication: To medication
+  to_food: To food
+  day_month_year: DD/MM/YYYY
+  stool: stool
+  stool_black: black stool
+  stool_red: red blood with stool
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: This questionnaire can be instantly translated into many languages.
+  instructions_step_1_title: Step 1
+  instructions_step_1_text: Fill out the questionnaire in your preferred language.
+  instructions_step_2_title: Step 2
+  instructions_step_2_text: Translate your completed questionnaire into the language
+    of your caretaker by clicking on the appropriate flag or language name. All data
+    will remain private on your device and will not be transmitted to any server.
+  disclaimer_start: By viewing the material on this site you understand and accept
+    that
+  disclaimer_1: The questionnaires used on this site are the product of the author
+    or authors and do not necessarily reflect those used by other medical organizations
+  disclaimer_2: The hosting of material on the SpeakSafeCare site does not signify
+    endorsement of this material by other medical organizations
+  disclaimer_3: The material is solely for educational purposes for qualified health
+    care professionals and travellers alike
+  disclaimer_4: SpeakSafeCare is not liable for any decision made or action taken
+    based on the information contained in the material on this site
+  disclaimer_5: The information cannot be used as a substitute for professional care
+  disclaimer_6: The information does not represent a standard of care
+  disclaimer_7: No physician-patient relationship is being established
+  clear_answers: Clear All Answers
+  are_you_sure: Are you sure?
+es-MX:
+  alcohol: alcohol
+  appetite_loss: Pérdida de apetito
+  blood_in: ! 'Sangre en:'
+  brown: marrón
+  burn: Una quemadura
+  burning_sensation: Sensación de quemazón
+  choking: Asfixia a causa de un objeto/alimentos atorado en la garganta
+  constipation: Estreñimiento
+  cough: Tos
+  cramps: Calambres
+  diarrhea: Diarrea
+  difficulty_breathing: Dificultad para respirar
+  diffuse: General
+  dizziness: Mareo
+  drugs: las drogas
+  emergency_triage_questionnaire: Emergencia - Cuestionario de Triage
+  fainting: Desmayo/ Pérdida de conocimiento
+  fatigue: Fatiga
+  fever: Fiebre
+  green: verde
+  how_intense_is_pain: Como intenso es su dolor en una escala de 1 a 10?
+  intoxication_with: ! 'Intoxicación con:'
+  itching: Comezón
+  language: ! 'Idioma: Español'
+  localized: Localizada
+  nausea: Náusea
+  numbness: Entumecimiento
+  pain: Tiene dolor
+  pain_scale: Tolerable = 1-3   Insoportable = 10
+  palpitations: Palpitaciones
+  poison: ! 'veneno (por ejemplo: productos de limpieza)'
+  pressure: Presión
+  stabbing: en puñalada
+  stool_desc: Uno o varios miembros hinchados
+  swelling: Uno o más miembros hinchados
+  tightness: Punzadas
+  urine: Orina
+  vomiting: Vómitos
+  weight_loss: Pérdida de peso
+  what_is_the_reason: ¿Cuál es la razón de su consulta? Por favor, seleccione las
+    condiciones que describen su situación lo mejor.
+  white: blanca
+  with_secretions: con secreción
+  yellow: amarillenta
+  '': ''
+  how_long_suffering: ¿Cuánto tiempo ha estado sufriendo de esta condición?
+  days: días
+  months: meses
+  years: años
+  is_this_the_first_time: ¿Es esta la primera vez?
+  'yes': Sí
+  'no': 'No'
+  number_of_times: ! 'Número de veces:'
+  have_you_been_diagnosed: ! '¿Alguna vez ha sido diagnosticado o tratado por alguna
+    de las siguientes condiciones:'
+  hypertension: Hipertensión
+  congestive_heart_failure: ! 'Insuficiencia cardíaca '
+  heart_attack: Infarto agudo de miocardio/ Ataque cardíaco/ Infarto
+  date: fecha
+  emphysema: Enfisema
+  chronic_bronchitis: Bronquitis crónica
+  asthma: Asma
+  stroke: Accidente cerebrovascular/ derrame cerebral
+  diabetes: Diabetes
+  type1: tipo I
+  type2: tipo II
+  hiv_aids: VIH / SIDA
+  physical_or_mental_handicap: Impedimento físico o discapacidad intelectual
+  specify: Especifique
+  psychiatric_problems: Trastornos psiquiátricos
+  cancer: Cáncer
+  stomach_ulcer: Úlcera de estómago
+  other_diseases: ! 'Otra enfermedad del sistema:'
+  heart_and_veins: cardio-vascular
+  lungs: pulmonar
+  digestive_tract: digestivo
+  reproductive_system: reproductivo
+  endocrine_system: endocrino
+  muscles_and_bones: musculo-esquelético
+  do_you_take_meds: ¿Toma medicación y / o vitaminas?
+  do_you_have_list_of_meds: ¿Tiene usted una lista de sus medicaciones qué usted puede
+    mostrarnos?
+  which_meds_do_you_take: ¿Si no, qué medicaciones toma usted?
+  do_you_have_allergies: ! '¿haga usted tiene alergias al:'
+  to_medication: medicamentos
+  to_food: alimentos
+  day_month_year: Día / Mes / Año
+  stool: heces
+  stool_black: heces negras
+  stool_red: sangre roja con heces
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+fr-FR:
+  alcohol: de l'alcool
+  appetite_loss: Perte d'appétit
+  blood_in: ! 'Sang dans:'
+  brown: brune
+  burn: Brûlure
+  burning_sensation: Sensation de brûlement
+  choking: Etouffement du a une obstruction des voies respiratoire par un objet/de
+    la nourriture
+  constipation: Constipation
+  cough: Toux
+  cramps: Des crampes
+  diarrhea: Diarrhée
+  difficulty_breathing: Respiration difficile
+  diffuse: Diffuse
+  dizziness: Étourdissements
+  drugs: de la drogue
+  emergency_triage_questionnaire: Urgence - Questionnaire de Triage
+  fainting: Évanouissements/Perte de conscience
+  fatigue: Fatigue
+  fever: Fièvre
+  green: vertes
+  how_intense_is_pain: Indiquez l'intensité de votre douleur de 1 a 10?
+  intoxication_with: ! 'lnloxication avec:'
+  itching: Démangeaison
+  language: ! 'Langue: Français'
+  localized: localisée
+  nausea: Nausée
+  numbness: Engourdissement
+  pain: Une douleur
+  pain_scale: Tolérable = 1-3   Insupportable = 10
+  palpitations: Palpitations
+  poison: du poison (ex. produits ménagers)
+  pressure: Une pression
+  stabbing: Poignardante
+  stool_desc: selles (selles noires ou sang rouge avec selles)
+  swelling: Un/des membres enflés
+  tightness: Un serrement
+  urine: Urine
+  vomiting: vomissements
+  weight_loss: Perte de poids
+  what_is_the_reason: Quelle est votre raison de consultation? S'il vous plaît choisir
+    les conditions qui décrivent votre situation.
+  white: blanches
+  with_secretions: avec secrétions
+  yellow: jaunâtres
+  '': ''
+  how_long_suffering: Depuis quand souffrez-vous de ce problème?
+  days: jours
+  months: mois
+  years: années
+  is_this_the_first_time: Est-ce la première fois?
+  'yes': Oui
+  'no': Non
+  number_of_times: ! 'Nombre de fois:'
+  have_you_been_diagnosed: Avez-vous déja été diagnostiqués ou traités pour les problèmes
+    de santé suivants?
+  hypertension: ''
+  congestive_heart_failure: ! 'Insuffisance cardiaque '
+  heart_attack: Crise cardiaque
+  date: date
+  emphysema: Emphysème
+  chronic_bronchitis: La bronchite chronique
+  asthma: L'asthme
+  stroke: Accident Vasculaire Cérébral (ACV)
+  diabetes: Diabète
+  type1: type I
+  type2: type II
+  hiv_aids: VIH / SIDA
+  physical_or_mental_handicap: handicap physique ou mental
+  specify: Précisez
+  psychiatric_problems: Troubles psychiatriques
+  cancer: Cancer
+  stomach_ulcer: Ulcère à l'estomac
+  other_diseases: ! 'Autre maladie du système:'
+  heart_and_veins: cardio-vasculaire
+  lungs: poumons
+  digestive_tract: digestif
+  reproductive_system: reproductif
+  endocrine_system: endocrinien
+  muscles_and_bones: musculo-squelettique
+  do_you_take_meds: Prenez-vous des médicaments et / ou des vitamines?
+  do_you_have_list_of_meds: Avez-vous une liste de vos médicaments que vous pouvez
+    nous montrer?
+  which_meds_do_you_take: Si non, quels médicaments prenez-vous?
+  do_you_have_allergies: ! 'Avez-vous des allergies:'
+  to_medication: Aux médicaments
+  to_food: A la nourriture
+  day_month_year: Jour / Mois / Année
+  stool: selles
+  stool_black: selles noires
+  stool_red: ! ' sang rouge avec selles'
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+pt-PT:
+  alcohol: álcool
+  appetite_loss: Perda de apetite
+  blood_in: ! 'Sangue nas:'
+  brown: marrom
+  burn: Uma queimadura
+  burning_sensation: ! 'Sensação ardente '
+  choking: Asfixia por causa de um objeto preso na garganta
+  constipation: Constipation
+  cough: Tosse
+  cramps: Caibras
+  diarrhea: ! 'Diarreia '
+  difficulty_breathing: Respiração dificil
+  diffuse: Difuso
+  dizziness: Vertigem
+  drugs: drogas
+  emergency_triage_questionnaire: Emergência - Questionário de Triagem
+  fainting: Desmaios / perda de consciência
+  fatigue: Cansaço
+  fever: Fébre
+  green: verdes
+  how_intense_is_pain: ! 'Como intensa é sua dor em uma escala de 1 a 10 '
+  intoxication_with: ! 'Intoxicação com:'
+  itching: ! 'Comichão '
+  language: ! 'Língua: Português '
+  localized: Localizada
+  nausea: Náusea
+  numbness: Entorpecimento
+  pain: Dor
+  pain_scale: Tolerável = 1-3 Insuportável = 10
+  palpitations: Palpitações
+  poison: ! 'veneno (ex: Produtos de uso doméstico)'
+  pressure: Una pressão
+  stabbing: Penetrante
+  stool_desc: fézes (fézes pretas ou sangue vermelho com as fézes)
+  swelling: Inchaço de um ou mais membros
+  tightness: Um aperto
+  urine: Urina
+  vomiting: Vômitos
+  weight_loss: Perda de peso
+  what_is_the_reason: Qual é a razão de sua consulta? Por favor seleccione a condições
+    que descrevem melhor a suia situacao.
+  white: brancas
+  with_secretions: com secreções
+  yellow: amarelas
+  '': ''
+  how_long_suffering: Há quanto tempo você vem sofrendo deste problema
+  days: dias
+  months: meses
+  years: anos
+  is_this_the_first_time: Esta é a primeira vez?
+  'yes': Sim
+  'no': Não
+  number_of_times: ! 'Quantas vezes:'
+  have_you_been_diagnosed: ! '
+
+    Você já foi diagnosticado ou tratado por qualquer das seguintes questões da saúde? '
+  hypertension: Hipertensão
+  congestive_heart_failure: Insuficiência cardíaca
+  heart_attack: ! 'Ataque cardíaco/ infarto '
+  date: data
+  emphysema: Enfisema
+  chronic_bronchitis: Bronquite crónica
+  asthma: Asma
+  stroke: Acidente vascular cerebral/ derrame cerebral
+  diabetes: Diabete
+  type1: tipo I
+  type2: tipo II
+  hiv_aids: HIV/ SIDA
+  physical_or_mental_handicap: uma deficiência física ou mental
+  specify: Especifique
+  psychiatric_problems: Problemas psiquiátricos
+  cancer: Cancro
+  stomach_ulcer: Úlcera de estômago
+  other_diseases: ! 'Outras doenças do:'
+  heart_and_veins: cardiovascular
+  lungs: pulmões
+  digestive_tract: trato digestivo
+  reproductive_system: sistema reprodutivo
+  endocrine_system: sistema endócrino
+  muscles_and_bones: musculo-esqueletico
+  do_you_take_meds: Você toma medicação e / ou vitaminas?
+  do_you_have_list_of_meds: Você tem uma lista dos seus medicamentos que você pode
+    nos mostrar?
+  which_meds_do_you_take: ! 'Se não, quais remédios você toma?
+
+'
+  do_you_have_allergies: Você tem alergias?
+  to_medication: À medicação
+  to_food: À alimentação
+  day_month_year: Dia / Mês / Ano
+  stool: fezes
+  stool_black: fezes pretas
+  stool_red: sangue vermelho com fezes
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+ru-RU:
+  alcohol: алкоголь
+  appetite_loss: Потеря аппетита
+  blood_in: ! 'Кровь в:'
+  brown: коричневые
+  burn: Жжение
+  burning_sensation: Ощущение жжения
+  choking: Задыхаясь из-за объект застрял в горле
+  constipation: Запор
+  cough: Кашель
+  cramps: Колики
+  diarrhea: Понос
+  difficulty_breathing: ! ' трудность с дыханием'
+  diffuse: Pаспространённая
+  dizziness: Головокружение
+  drugs: наркотикaми
+  emergency_triage_questionnaire: критическое положение - анкетный опрос сортировки
+  fainting: Обморок / потеря сознания
+  fatigue: Усталость
+  fever: Лихорадка
+  green: зеленые
+  how_intense_is_pain: сколько стоит ваша боль по шкале от 1 до 10?
+  intoxication_with: ! 'Опьянение от:'
+  itching: Зудящий
+  language: ! 'Язык: Русский  '
+  localized: Локализованная
+  nausea: Тошнота
+  numbness: Онемение
+  pain: Боль
+  pain_scale: сносный = 1-3 Невыносимая = 10
+  palpitations: Cердцебиение
+  poison: ! 'яд (например: домашними продуктами)'
+  pressure: Давление
+  stabbing: шарп
+  stool_desc: кале (черный кал или красная кровь в кале)
+  swelling: Отек одной или нескольких конечностей
+  tightness: плотная
+  urine: Моча
+  vomiting: Рвота
+  weight_loss: Потеря веса
+  what_is_the_reason: Что является причиной Вашей консультации? Пожалуйста, выберите
+    условия, которые описывают вашу ситуацию лучше.
+  white: белые
+  with_secretions: с выделениями
+  yellow: желтые
+  '': ''
+  how_long_suffering: Как давно вы страдающих от этого состояния?
+  days: дней
+  months: месяцев
+  years: лет
+  is_this_the_first_time: Разве это впервые?
+  'yes': Да
+  'no': Нет
+  number_of_times: ! 'Число раз:'
+  have_you_been_diagnosed: ! '
+
+    Вы когда-нибудь был поставлен диагноз или лечение для любого из следующих здоровье
+    вопросов?'
+  hypertension: Гипертония
+  congestive_heart_failure: Застойная сердечная недостаточность
+  heart_attack: Сердечный приступ
+  date: дата
+  emphysema: Эмфизема
+  chronic_bronchitis: Хронический бронхит
+  asthma: Астма
+  stroke: Инсульт
+  diabetes: Диабет
+  type1: Тип I
+  type2: Тип II
+  hiv_aids: ВИЧ / СПИД
+  physical_or_mental_handicap: физических или умственных недостатков
+  specify: Укажите
+  psychiatric_problems: Психиатрические проблемы
+  cancer: Рак
+  stomach_ulcer: Язва желудка
+  other_diseases: Другие болезни
+  heart_and_veins: сердце и вен
+  lungs: ! '
+
+    легких'
+  digestive_tract: пищеварительного тракта
+  reproductive_system: Репродуктивной системы
+  endocrine_system: эндокринной системы
+  muscles_and_bones: мышц и костей
+  do_you_take_meds: Вы принимаете лекарства и / или витамины?
+  do_you_have_list_of_meds: У вас есть список ваших лекарств, которые вы можете показать
+    нам?
+  which_meds_do_you_take: Если нет, какие лекарства вы принимаете
+  do_you_have_allergies: у вас есть какие-либо аллергии на
+  to_medication: медицинский препарат
+  to_food: ! ' еду'
+  day_month_year: ДД/ММ/ГГГГ
+  stool: кал
+  stool_black: черный кал
+  stool_red: красная кровь с кал
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+sr:
+  alcohol: алкохол
+  appetite_loss: Губитак апетита
+  blood_in: ! 'Крв у:'
+  brown: браон
+  burn: Гори
+  burning_sensation: Пецкање
+  choking: Гушење због објекта заглављен у грлу
+  constipation: Затвор
+  cough: Кашаљ
+  cramps: Грчеви
+  diarrhea: Пролив
+  difficulty_breathing: Диффуцулти дисање
+  diffuse: Дифузан
+  dizziness: Вртоглавица
+  drugs: лекови
+  emergency_triage_questionnaire: Хитне - Триаге Упитник
+  fainting: Несвестица / губитак свести
+  fatigue: Умор
+  fever: Грозница
+  green: зелена
+  how_intense_is_pain: Како је ваш интензиван бол на скали од 1 до 10?
+  intoxication_with: ! 'Интоксикација са:'
+  itching: Свраб
+  language: ! 'Језик: Српски'
+  localized: Локализовани
+  nausea: Мучнина
+  numbness: Утрнулост
+  pain: Бол
+  pain_scale: Толерисати = 1-3 Неподношљива = 10
+  palpitations: Палпитације
+  poison: ! 'отров (на пример: производа за домаћинство)'
+  pressure: Притисак
+  stabbing: Убадање
+  stool_desc: столица (црна столица или црвена крвна са столици)
+  swelling: Отицање једног или више удова
+  tightness: Стегнутост
+  urine: Урин
+  vomiting: Повраћање
+  weight_loss: Губитак тежине
+  what_is_the_reason: Шта је разлог за консултације? Молимо Вас да одаберете услове
+    који описују ваш најбољи ситуацију.
+  white: бели
+  with_secretions: са секретима
+  yellow: жута
+  '': ''
+  how_long_suffering: колико дуго сте били пате од овог стања?
+  days: дани
+  months: месеци
+  years: године
+  is_this_the_first_time: Да ли је ово први пут?
+  'yes': Да
+  'no': не
+  number_of_times: ! 'Колико пута:'
+  have_you_been_diagnosed: Да ли сте икада били дијагноза или третман за било који
+    од следећих здравствених проблема?
+  hypertension: Хипертензија
+  congestive_heart_failure: Конгестивне срчане инсуфицијенције
+  heart_attack: Срчани напад
+  date: датум
+  emphysema: Емфизем
+  chronic_bronchitis: Хронични бронхитис
+  asthma: Астма
+  stroke: Удар
+  diabetes: Дијабетес
+  type1: тип И
+  type2: типа ИИ
+  hiv_aids: ХИВ / АИДС-
+  physical_or_mental_handicap: Физички хендикеп или менталне неспособности
+  specify: указати
+  psychiatric_problems: Психијатријски проблеми
+  cancer: Рак
+  stomach_ulcer: стомак чир
+  other_diseases: Други болести
+  heart_and_veins: срце и вене
+  lungs: плућа
+  digestive_tract: дигестивног тракта
+  reproductive_system: репродуктивни систем
+  endocrine_system: ендокриног система
+  muscles_and_bones: мишићи и кости
+  do_you_take_meds: Да ли узимате лекове и / или витамина?
+  do_you_have_list_of_meds: Да ли имате листу ваших лекова за нас?
+  which_meds_do_you_take: Ако не, шта лекове узимате
+  do_you_have_allergies: ! 'Да ли имате било каквих алергија:'
+  to_medication: за лекове
+  to_food: За храну
+  day_month_year: дан / месец / година
+  stool: измет
+  stool_black: црна измет
+  stool_red: црвених крвних изметом
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+zh:
+  alcohol: 酒精中毒
+  appetite_loss: 食欲不振
+  blood_in: 血：
+  brown: 棕色
+  burn: 烧伤
+  burning_sensation: 烧灼感
+  choking: 窒息，因有物体鲠在喉咙
+  constipation: 便秘
+  cough: 咳嗽
+  cramps: ! '抽筋/絞痛  '
+  diarrhea: 腹泻
+  difficulty_breathing: 呼吸困難
+  diffuse: ! '扩散疼痛 '
+  dizziness: 头晕
+  drugs: 药物中毒
+  emergency_triage_questionnaire: 紧急 - 分流问卷
+  fainting: 昏厥/丧失意识
+  fatigue: 疲劳
+  fever: 发烧
+  green: 绿色
+  how_intense_is_pain: ! '您的痛楚程度有多強烈？ 請以1-10為單位衡量 '
+  intoxication_with: 中毒：
+  itching: 瘙痒
+  language: 语言：英语
+  localized: ! '局部疼痛 '
+  nausea: 恶心
+  numbness: 麻痺/凍僵
+  pain: 疼痛
+  pain_scale: 可容忍= 1-3不堪忍受= 10
+  palpitations: 心悸
+  poison: 毒药（例如：家用产品）
+  pressure: 压力
+  stabbing: ! '刺痛   '
+  stool_desc: 便血（黑便或大便红细胞）
+  swelling: 肢体肿胀
+  tightness: 紧张
+  urine: 尿液呈血
+  vomiting: 呕吐
+  weight_loss: 体重下降
+  what_is_the_reason: 您咨询的原因是什么？请选择最能夠描述您的情况
+  white: 白
+  with_secretions: ! '分泌物呈 '
+  yellow: 黄色
+  '': ''
+  how_long_suffering: 以上情况發生有多久？
+  days: 天
+  months: 个月
+  years: 年
+  is_this_the_first_time: 这是第一次吗？
+  'yes': 是
+  'no': не
+  number_of_times: ! '發生次数： '
+  have_you_been_diagnosed: 您有诊断或治療过以下任何健康问题吗?
+  hypertension: 高血压
+  congestive_heart_failure: 充血性心力衰竭
+  heart_attack: 心脏病发作
+  date: 日期
+  emphysema: 肺气肿
+  chronic_bronchitis: 慢性支气管炎
+  asthma: 哮喘
+  stroke: 中风
+  diabetes: 糖尿病
+  type1: I型
+  type2: II型
+  hiv_aids: 艾滋病毒/艾滋病
+  physical_or_mental_handicap: ! ' 肢体伤残或弱智 '
+  specify: ! '請具体說明 '
+  psychiatric_problems: 精神问题
+  cancer: 癌症
+  stomach_ulcer: 胃溃疡
+  other_diseases: 其他疾病
+  heart_and_veins: 心脏和静脉
+  lungs: 肺
+  digestive_tract: 消化道
+  reproductive_system: 生殖系统
+  endocrine_system: 内分泌系统
+  muscles_and_bones: 肌肉和骨骼
+  do_you_take_meds: 您有服用药物或维生素吗？
+  do_you_have_list_of_meds: 您可以提供您服用的药物列表吗？
+  which_meds_do_you_take: 如果没有，您服用的药物為
+  do_you_have_allergies: ! '您有任何过敏症吗:'
+  to_medication: ! '药物 '
+  to_food: 食物
+  day_month_year: DD / MM / YYYY
+  stool: 粪便呈血
+  stool_black: 红血大便
+  stool_red: 红血大便
+  yes__first_time: ! '是 '
+  yes__take_meds: 有
+  yes__have_list: 可以
+  no__first_time: 不是
+  no__take_meds: 无
+  no__have_list: 没有
+  specify__handicap: 請具体說明
+  specify__med_allergy: 請具体說明
+  specify__food_allergy: 请具体说明
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+ht:
+  alcohol: alkòl
+  appetite_loss: Pèt apeti
+  blood_in: ! 'San nan:'
+  brown: mawon
+  burn: Yon boule
+  burning_sensation: Senti lap boule
+  choking: Wap toufe paske yo te yon objè kole nan gòj
+  constipation: Konstipasyon
+  cough: Tous
+  cramps: Lakranp
+  diarrhea: Dyare
+  difficulty_breathing: Respirasyon ak difikilte
+  diffuse: Dou
+  dizziness: Vètij
+  drugs: dwòg
+  emergency_triage_questionnaire: Ijans - Kesyonè Triyaj
+  fainting: Endispoze / pèt konesans
+  fatigue: Fatig
+  fever: Lafyèv
+  green: vèt
+  how_intense_is_pain: Ki jan entans se doulè ou sou yon echèl de 1 a 10?
+  intoxication_with: ! 'Entoksikasyon ak:'
+  itching: Demanjezon
+  language: ! 'Lang: kreyòl'
+  localized: Lokalize
+  nausea: Noze
+  numbness: Pèt sansasyon
+  pain: Doulè
+  pain_scale: sipòtab = 1-3 ensipòtab = 10
+  palpitations: Palpitasyon
+  poison: ! 'pwazon (eks: pwodwi kay la)'
+  pressure: Presyon
+  stabbing: ! 'Presyon
+
+    Kout kouto'
+  stool_desc: poupou ( poupou nwa oswa poupou ak wouj san  )
+  swelling: Anfle a youn oubyen plis manm yo
+  tightness: Sere
+  urine: Pipi
+  vomiting: Vomisman
+  weight_loss: Pèdi pwa
+  what_is_the_reason: ! 'Ki sa ki se rezon ki fè ou la pou konsiltasyon ou a? Tanpri
+    chwazi kondisyon yo ki dekri sitiyasyon ou pi byen '
+  white: blan
+  with_secretions: ak sekresyon
+  yellow: jòn
+  '': ''
+  how_long_suffering: Depi konbyen tan ou te soufri nan kondisyon sa a?
+  days: jou
+  months: mwa
+  years: ane
+  is_this_the_first_time: Èske sa se premye fwa a?
+  'yes': Wi
+  'no': 'No'
+  number_of_times: ! 'Kantite fwa nan:'
+  have_you_been_diagnosed: Eske ou janm te dyagnostike oswa trete pou nenpòt nan pwoblèm
+    sante sa yo?
+  hypertension: Tansyon wo
+  congestive_heart_failure: Konjestif kè Si w
+  heart_attack: Kriz Kadyak
+  date: dat
+  emphysema: Anfizèm
+  chronic_bronchitis: ! 'Bwonchit kwonik '
+  asthma: Opresyon
+  stroke: Konjesyon Serebral
+  diabetes: Dyabèt
+  type1: Tip 1
+  type2: Tip 2
+  hiv_aids: VIH / SIDA
+  physical_or_mental_handicap: Yon andikap fizik oswa andikap mantal
+  specify: Espesifye
+  psychiatric_problems: Pwoblèm tèt ou pa byen
+  cancer: Kansè
+  stomach_ulcer: Ulsèr nan pòch lestomak
+  other_diseases: Lòt maladi ki nan la
+  heart_and_veins: kè ak venn
+  lungs: poumon
+  digestive_tract: aparèy dijestif
+  reproductive_system: ! 'sistèm repwodiksyon '
+  endocrine_system: sistèm andokrinyen
+  muscles_and_bones: misk ak zo
+  do_you_take_meds: Èske w ap pran medikaman ak / oswa vitamin?
+  do_you_have_list_of_meds: Èske ou gen yon lis medikaman wap pren pou ou ka montre
+    nou?
+  which_meds_do_you_take: Si no, di nou ki medikaman w pran
+  do_you_have_allergies: ! 'Èske ou kon gen  alèji:'
+  to_medication: Medikaman
+  to_food: ak manje
+  day_month_year: jou/mwa/ane
+  stool: ! 'poupou '
+  stool_black: ! 'poupou nwa '
+  stool_red: ! ' poupou wouj'
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: Kesyonè sa tradui nan plizyè lang konye la, si nou vle.
+  instructions_step_1_title: ! 'Etap 1:'
+  instructions_step_1_text: ranpli kesyonè a nan lang ou pi pito
+  instructions_step_2_title: ! 'Etap 2:'
+  instructions_step_2_text: Tradui kesyonè ou fin ranpli a nan lang la nan moun k
+    ap okipe ou.  Pou ou fè sa, ou anik klike sou drapo ki vle di lang la oswa ou
+    anik klike non lang lan. Tout done yo ap rete prive sou aparèy ou epi yo pa pral
+    transmèt nan nenpòt lòt sistem odinatè.
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+sw:
+  alcohol: pombe
+  appetite_loss: Kupoteza hamu ya kula
+  blood_in: Damu juu ya
+  brown: kahawia
+  burn: kuchoma
+  burning_sensation: hisia ya moto
+  choking: choking kwa sababu kitu ni kukwama katika koo yako/Kukwamwa na kitu kwenye
+    koo.
+  constipation: kuvimbiwa
+  cough: kikohozi
+  cramps: mawimbi makali ya maumivu
+  diarrhea: kuhara
+  difficulty_breathing: vigumu kupumua
+  diffuse: sawa kila mahali
+  dizziness: kizunguzungu
+  drugs: madawa ya kulevya
+  emergency_triage_questionnaire: Dharura - triage dodoso
+  fainting: watazirai/kupoteza fahamu
+  fatigue: Uchovu
+  fever: Homa
+  green: kijani
+  how_intense_is_pain: Jinsi maumivu yako ni makali kwa kiwango 1-10?
+  intoxication_with: ! 'Wamelewa na matumizi ya:'
+  itching: Mwasho
+  language: ! 'Lugha: Swahili'
+  localized: katika sehemu moja
+  nausea: Kichefuchefu
+  numbness: Ganzi
+  pain: Maumivu
+  pain_scale: vumilika= 1-3, yasiyovumilika = 10
+  palpitations: Hisia za moyo wako kuwapiga katika kifua chako
+  poison: ! 'sumu (ex: kaya bidhaa)'
+  pressure: Shinikizo
+  stabbing: Kudungwa na kisu
+  stool_desc: kinyesi (nyeusi kinyesi au damu nyekundu na kinyesi)
+  swelling: Uvimbe katika mikono na miguu
+  tightness: Kifua
+  urine: Mkojo
+  vomiting: Kutapika
+  weight_loss: Hasara ya uzito
+  what_is_the_reason: Ni sababu gani kwa ajili ya mashauriano yako? Tafadhali chagua
+    masharti ambayo kuelezea hali yako bora.
+  white: nyeupe
+  with_secretions: kukohoa up kamasi
+  yellow: manjano
+  '': ''
+  how_long_suffering: Muda gani umekuwa mateso kutokana na hali hii?
+  days: siku
+  months: miezi
+  years: miaka
+  is_this_the_first_time: Je, hii ni mara ya kwanza?
+  'yes': Ndiyo
+  'no': Hakuna
+  number_of_times: ! 'Idadi ya mara:'
+  have_you_been_diagnosed: Je, umewahi kuwa kukutwa au kutibiwa kwa yoyote ya masuala
+    yafuatayo ya afya?
+  hypertension: Shinikizo la damu
+  congestive_heart_failure: Congestive Moyo Kushindwa
+  heart_attack: Moyo mashambulizi
+  date: tarehe
+  emphysema: Emphazyma
+  chronic_bronchitis: Mkamba sugu
+  asthma: Pumu
+  stroke: Kiharusi
+  diabetes: Ugonjwa wa kisukari
+  type1: aina mimi
+  type2: aina II
+  hiv_aids: VVU / UKIMWI
+  physical_or_mental_handicap: ulemavu wa kimwili au ulemavu wa akili
+  specify: TAJA
+  psychiatric_problems: Matatizo ya akili
+  cancer: Kansa
+  stomach_ulcer: Tumbo kidonda
+  other_diseases: Magonjwa mengine ya
+  heart_and_veins: moyo na mishipa
+  lungs: mapafu
+  digestive_tract: njia ya utumbo
+  reproductive_system: mfumo wa uzazi
+  endocrine_system: endocrine mfumo
+  muscles_and_bones: misuli na mifupa
+  do_you_take_meds: Ni wewe kuchukua tiba yoyote na / au vitamini?
+  do_you_have_list_of_meds: Je una orodha ya dawa zako kwamba unaweza kuonyesha sisi?
+  which_meds_do_you_take: Kama siyo, ambayo dawa gani unaweza kuchukua
+  do_you_have_allergies: ! 'Je, una allergy yeyote:'
+  to_medication: kwa dawa
+  to_food: Kwa chakula
+  day_month_year: siku / mwezi / mwaka
+  stool: kinyesi
+  stool_black: ! '
+
+    nyeusi kinyesi'
+  stool_red: nyekundu za damu katika kinyesi
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+it:
+  alcohol: alcool
+  appetite_loss: Perdita di appetito
+  blood_in: ! 'Sangue in:'
+  brown: marrone
+  burn: Una bruciatura
+  burning_sensation: Sensazione di bruciore
+  choking: Soffocamento a causa di un oggetto bloccato in gola
+  constipation: Costipazione
+  cough: Tosse
+  cramps: Spasmi
+  diarrhea: Diarrea
+  difficulty_breathing: Difficolta a respirare
+  diffuse: Diffuso
+  dizziness: Vertigini
+  drugs: farmaci
+  emergency_triage_questionnaire: Emergenza - Questionario Triage
+  fainting: Svenimento / perdita di coscienza
+  fatigue: Fatica
+  fever: Febbre
+  green: verde
+  how_intense_is_pain: Quanto intenso è il vostro dolore su una scala da 1 a 10?
+  intoxication_with: ! 'Intossicazione con:'
+  itching: Prurito
+  language: ! 'Lingua: Italiano'
+  localized: Localizzata
+  nausea: Nausea
+  numbness: Intorpidimento
+  pain: Dolore
+  pain_scale: Tollerabile = 1-3 insostenibile = 10
+  palpitations: Palpitazioni
+  poison: ! 'veleno (es: prodotti per la casa)'
+  pressure: Pressione
+  stabbing: Lanciante
+  stool_desc: feci (feci neri o sangue rosso con le feci)
+  swelling: Gonfiore di uno o più arti
+  tightness: Tensione
+  urine: Urina
+  vomiting: Vomito
+  weight_loss: Perdita di peso
+  what_is_the_reason: Qual è la ragione per la sua consulta? Si prega di selezionare
+    le condizioni che descrivono la sua situazione piu accuratamente.
+  white: bianco
+  with_secretions: con secrezioni
+  yellow: giallo
+  '': ''
+  how_long_suffering: Da quanto tempo sei colpito da questa condizione?
+  days: giorno
+  months: mesi
+  years: anni
+  is_this_the_first_time: Questa è la prima volta?
+  'yes': Sì
+  'no': 'No'
+  number_of_times: ! 'Quante volte:'
+  have_you_been_diagnosed: Sei mai stata diagnosticato/a o trattato/a per uno qualsiasi
+    dei seguenti problemi di salute?
+  hypertension: Ipertensione
+  congestive_heart_failure: Insufficienza cardiaca congestizia
+  heart_attack: Infarto
+  date: data
+  emphysema: Enfisema
+  chronic_bronchitis: Bronchite cronica
+  asthma: Asma
+  stroke: Colpo apoplettico
+  diabetes: Diabete
+  type1: di tipo I
+  type2: di tipo II
+  hiv_aids: HIV / AIDS
+  physical_or_mental_handicap: Un handicap fisico o di un handicap mentale
+  specify: Specificare
+  psychiatric_problems: Problemi psichiatrici
+  cancer: Cancro
+  stomach_ulcer: Ulcera allo stomaco
+  other_diseases: Altre malattie del
+  heart_and_veins: il cuore e le vene
+  lungs: polmoni
+  digestive_tract: tratto digestivo
+  reproductive_system: sistema riproduttivo
+  endocrine_system: sistema endocrino
+  muscles_and_bones: i muscoli e le ossa
+  do_you_take_meds: Avete preso farmaci e / o vitamine?
+  do_you_have_list_of_meds: Avete una lista dei vostri farmaci che  può mostrarci?
+  which_meds_do_you_take: Se no, quali farmaci prendete
+  do_you_have_allergies: ! 'Avete delle allergie:'
+  to_medication: Al farmaci
+  to_food: Al cibo
+  day_month_year: GG / MM / AAAA
+  stool: feci
+  stool_black: feci neri
+  stool_red: feci rossi di sangue
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+hi:
+  alcohol: शराब
+  appetite_loss: भूख न लगना
+  blood_in: ! 'रक्त:'
+  brown: ब्राउन
+  burn: एक जला
+  burning_sensation: जलन
+  choking: एक गले में अटक गई वस्तु के कारण घुटन
+  constipation: कब्ज
+  cough: खांसी
+  cramps: ऐंठन
+  diarrhea: दस्त
+  difficulty_breathing: सांस लेने में कठिनाई
+  diffuse: व्यापक
+  dizziness: चक्कर आना
+  drugs: दवाओं
+  emergency_triage_questionnaire: आपातकालीन - ट्राइएज प्रश्नावली
+  fainting: बेहोशी / चेतना की हानि
+  fatigue: थकान
+  fever: बुखार
+  green: हरा
+  how_intense_is_pain: कैसे तीव्र 1 के पैमाने पर 10 के लिए अपने दर्द है?
+  intoxication_with: ! 'नशा:'
+  itching: खुजली
+  language: ! 'भाषा: हिंदु'
+  localized: स्थानबद्ध
+  nausea: मतली
+  numbness: अकड़ना
+  pain: दर्द
+  pain_scale: 1-3 = असहनीय सहनीय 10
+  palpitations: dhadkan
+  poison: जहर (जैसे घरेलू उत्पादों)
+  pressure: दबाव
+  stabbing: ghonpna
+  stool_desc: स्टूल (मल या मल में लाल रक्त अश्वेतों)
+  swelling: एक या एक से अधिक अंग की सूजन
+  tightness: वोल्ट
+  urine: मूत्र
+  vomiting: वमन करना
+  weight_loss: वजन में कमी
+  what_is_the_reason: अपने परामर्श के लिए क्या कारण है? स्थिति है कि स्थिति को और
+    अधिक सही वर्णन का चयन करें.
+  white: सफ़ेद
+  with_secretions: स्राव के साथ
+  yellow: पीला
+  '': ''
+  how_long_suffering: तुम कितनी देर तक इस स्थिति से पीड़ित हैं?
+  days: दिन
+  months: महीने
+  years: उम्र
+  is_this_the_first_time: यह पहली बार है?
+  'yes': हां
+  'no': नहीं
+  number_of_times: ! 'कितनी बार:'
+  have_you_been_diagnosed: क्या तुमने कभी का निदान / इलाज किया गया / या निम्न स्वास्थ्य
+    समस्याओं में से किसी के लिए एक?
+  hypertension: अतिरक्तदाब
+  congestive_heart_failure: Congestive हार्ट में विफलता
+  heart_attack: रोधगलितांश
+  date: तारीख
+  emphysema: वातस्फीति
+  chronic_bronchitis: क्रोनिक ब्रोन्काइटिस
+  asthma: दमा
+  stroke: स्ट्रोक
+  diabetes: मधुमेह
+  type1: मैं लिखें
+  type2: प्रकार द्वितीय
+  hiv_aids: एचआईवी / एड्स
+  physical_or_mental_handicap: एक शारीरिक विकलांगता या मानसिक विकलांगता
+  specify: निर्दिष्ट करें
+  psychiatric_problems: मानसिक समस्याओं
+  cancer: कैंसर
+  stomach_ulcer: पेट में अल्सर
+  other_diseases: के अन्य रोगों
+  heart_and_veins: दिल और नसों
+  lungs: फेफड़ों
+  digestive_tract: पावन मार्ग
+  reproductive_system: प्रजनन प्रणाली
+  endocrine_system: endocrine प्रणाली
+  muscles_and_bones: मांसपेशियों और हड्डियों
+  do_you_take_meds: क्या आप ड्रग्स और / या विटामिन लिया है?
+  do_you_have_list_of_meds: आप अपनी दवाओं की एक सूची है, जो हमें दिखा सकते हैं?
+  which_meds_do_you_take: यदि नहीं, क्या दवाएं तुम ले
+  do_you_have_allergies: ! 'क्या आपको कोई एलर्जी है:'
+  to_medication: दवाओं के लिए
+  to_food: भोजन करने के लिए
+  day_month_year: DD / MM / YYYY
+  stool: मल - विषयक
+  stool_black: अश्वेतों किया
+  stool_red: मैं लाल रक्त
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+tr:
+  alcohol: alkol
+  appetite_loss: İştah kaybı
+  blood_in: Kan gelmesi/ görülmesi
+  brown: kahverengi
+  burn: Yanık
+  burning_sensation: Yanma hissi
+  choking: Boğulma/ tıkanma
+  constipation: kabızlık
+  cough: öksürük
+  cramps: Kramplar
+  diarrhea: ishal
+  difficulty_breathing: Nefes darlığı
+  diffuse: difüz
+  dizziness: baş dönmesi
+  drugs: ilaçlar
+  emergency_triage_questionnaire: acil triaj anketi
+  fainting: bayılma
+  fatigue: yorgunluk
+  fever: ateş
+  green: yeşil
+  how_intense_is_pain: 1 ile 10 arasında bir skala üzerinde ağrınızın yoğunluğunu
+    bir sayı ile tanımlayınız
+  intoxication_with: ! 'Zehirlenme sebebi:'
+  itching: Kaşıntı
+  language: ! 'Dil: Türkçe'
+  localized: Lokalize
+  nausea: bulantı
+  numbness: Uyuşukluk/ hissizlik
+  pain: ağrı
+  pain_scale: Dayanılabilir = 1-3 Dayanılamaz = 10
+  palpitations: çarpıntı
+  poison: ! 'Zehir (örnek: ev ürünleri)'
+  pressure: basınç
+  stabbing: Sivri cisim saplanması/ bıçaklamak
+  stool_desc: Dışkı/ büyük aptes (koyu renk/ siyah dışkı veya kanlı dışkı)
+  swelling: Bir ya da daha fazla uzuvun şişmesi
+  tightness: Gerginlik hissi
+  urine: idrar
+  vomiting: kusma
+  weight_loss: kilo kaybı
+  what_is_the_reason: Muayene sebebiniz nedir? Durumunuzu en iyi tanımlayan cümleleri
+    seçiniz.
+  white: beyaz
+  with_secretions: sekresyonları ile/ salgılamalı
+  yellow: sarı
+  '': ''
+  how_long_suffering: Ne kadar süredir hastasınız? / Hastalığınız ne kadardır sürmekte?
+  days: günler
+  months: Aylar
+  years: Yıllar
+  is_this_the_first_time: Bu ilk kez mi?
+  'yes': evet
+  'no': hayır
+  number_of_times: ! 'Kaç kere:'
+  have_you_been_diagnosed: Daha önce aşağıdaki sağlık sorunları için herhangi bir
+    teşhis konuldu mu veya tedavi gördünüz mü?
+  hypertension: Hipertansiyon/ yüksek tansiyon
+  congestive_heart_failure: Konjestif kalp yetmezliği
+  heart_attack: Kalp krizi
+  date: tarih
+  emphysema: anfizem
+  chronic_bronchitis: Kronik bronşit
+  asthma: astım
+  stroke: İnme/ felç
+  diabetes: diyabet
+  type1: Tip 1
+  type2: Tip 2
+  hiv_aids: HIV / AIDS
+  physical_or_mental_handicap: Fiziksel engelli veya zihinsel engellilik
+  specify: belirtmek
+  psychiatric_problems: Psikiyatrik sorunlar
+  cancer: kanser
+  stomach_ulcer: Mide ülseri
+  other_diseases: Diğer hastalıklar
+  heart_and_veins: Kalp ve damarlar
+  lungs: akciğer
+  digestive_tract: Sindirim yolu
+  reproductive_system: Üreme sistemi
+  endocrine_system: Endokrin (iç salgı bezleri) sistemi
+  muscles_and_bones: Kaslar ve kemikler
+  do_you_take_meds: ilaç ve / veya vitamin alıyor musunuz?
+  do_you_have_list_of_meds: bize gösterebileceğiniz bir ilaç listeniz var mı?
+  which_meds_do_you_take: Eğer yoksa, Hangi ilaçları kullanıyorsunuz?
+  do_you_have_allergies: ! 'Herhangi bir alerjiniz var mı:'
+  to_medication: ilaç tedavisi için
+  to_food: Gıda/ beslenme için
+  day_month_year: GG / AA / YYYY
+  stool: dışkı
+  stool_black: Siyah dışkı
+  stool_red: Kanlı Dışkı
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: Bu anket birçok dile anında tercüme edilebilir.
+  instructions_step_1_title: ! '1. Adım:'
+  instructions_step_1_text: Tercih ettiğiniz dilde anketi doldurun
+  instructions_step_2_title: ! '2. Adım:'
+  instructions_step_2_text: Anketi bitirdiğinizde uygun ülke bayrağı veya dil seçimini
+    tıklayarak anketi sağlık görevlinizin diline çeviriniz. Ankete girdiğiniz tüm
+    bilgileriniz cihazınızda güvenle muhafaza edilecektir ve herhangi bir sunucuya
+    aktarılmayacaktır.
+  disclaimer_start: ! 'Siteye erişmek, siteyi görüntülemek veya kullanmak vasıtası
+    ile aşağıda belirtililen maddeleri anladığınızı ve kabul ettiğinizi bildirmiş
+    olmaktasınız:'
+  disclaimer_1: Bu sitede kullanılan anketler araştırmacılar tarafından hazırlanmıştır
+    ve diğer sağlık kuruluşlarınca kullanılan anketlerden farklılık gösterebilir.
+  disclaimer_2: SpeakSafeCare sitesinden ulaştığınız bilgi, ürün ve servisler diğer
+    tıbbi kuruluşlar tarafından onaylanmamış olabilir.
+  disclaimer_3: Bu site sağlık uzmanları ve seyahattekiler için tamamen eğitim amaçlı
+    hazırlanmıştır
+  disclaimer_4: SpeakSafeCare bu sitesinden ulaştılan bilgi, ürün ve servislerin içerdiği
+    bilgilere dayanarak alınan kararlar veya yapılan eylemlerden sorumlu değildir.
+  disclaimer_5: Bu sitesinden ulaştığınız bilgi, ürün ve servisler profesyonel sağlık
+    hizmeti yerine geçmez.
+  disclaimer_6: Bu sitesinden ulaştığınız bilgi, ürün ve servisler standard sağlık
+    hizmetilerinden farklılık gösterebilir.
+  disclaimer_7: Bu site hiçbir hekim-hasta ilişkisi niteliği taşımaz.
+  clear_answers: ''
+  are_you_sure: ''
+he:
+  alcohol: ''
+  appetite_loss: ''
+  blood_in: ''
+  brown: ''
+  burn: ''
+  burning_sensation: ''
+  choking: ''
+  constipation: ''
+  cough: ''
+  cramps: ''
+  diarrhea: ''
+  difficulty_breathing: ''
+  diffuse: ''
+  dizziness: ''
+  drugs: ''
+  emergency_triage_questionnaire: ''
+  fainting: ''
+  fatigue: ''
+  fever: ''
+  green: ''
+  how_intense_is_pain: ''
+  intoxication_with: ''
+  itching: ''
+  language: ''
+  localized: ''
+  nausea: ''
+  numbness: ''
+  pain: ''
+  pain_scale: ''
+  palpitations: ''
+  poison: ''
+  pressure: ''
+  stabbing: ''
+  stool_desc: ''
+  swelling: ''
+  tightness: ''
+  urine: ''
+  vomiting: ''
+  weight_loss: ''
+  what_is_the_reason: ''
+  white: ''
+  with_secretions: ''
+  yellow: ''
+  '': ''
+  how_long_suffering: ''
+  days: ''
+  months: ''
+  years: ''
+  is_this_the_first_time: ''
+  'yes': ''
+  'no': ''
+  number_of_times: ''
+  have_you_been_diagnosed: ''
+  hypertension: ''
+  congestive_heart_failure: ''
+  heart_attack: ''
+  date: ''
+  emphysema: ''
+  chronic_bronchitis: ''
+  asthma: ''
+  stroke: ''
+  diabetes: ''
+  type1: ''
+  type2: ''
+  hiv_aids: ''
+  physical_or_mental_handicap: ''
+  specify: ''
+  psychiatric_problems: ''
+  cancer: ''
+  stomach_ulcer: ''
+  other_diseases: ''
+  heart_and_veins: ''
+  lungs: ''
+  digestive_tract: ''
+  reproductive_system: ''
+  endocrine_system: ''
+  muscles_and_bones: ''
+  do_you_take_meds: ''
+  do_you_have_list_of_meds: ''
+  which_meds_do_you_take: ''
+  do_you_have_allergies: ''
+  to_medication: ''
+  to_food: ''
+  day_month_year: ''
+  stool: ''
+  stool_black: ''
+  stool_red: ''
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''

@@ -21,6 +21,11 @@
   list-style-type: none;
 }
 
+#sidebar a {
+  padding: 6px 10px;
+  border-radius: 25px;
+}
+
 #l1-list {
   list-style-type: upper-roman;
 }
@@ -35,4 +40,8 @@
 
 img {
   border-style: none;
+}
+
+.selected-language {
+  background: #B3AAF7;
 }

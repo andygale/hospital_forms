@@ -1,0 +1,31 @@
+Add languages
+  filipino
+  hebrew
+Publish to app store
+Make android app
+ios  adjustments
+  make paths relative
+  widths need to be different
+  remove GA code
+  format like hell
+
+sudo apachectl start,stop,restart
+
+Android Development Steps:
+Eclipse
+
+iOS Development Steps:
+
+iphone image sizes
+57x57
+114x114
+320x480
+640x960
+640x1136
+72x72
+144x144
+768x1004
+1536x2008
+1024x748
+2048x1496
+
