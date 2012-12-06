@@ -1,6 +1,4 @@
-Add languages
-  filipino
-  hebrew
+Add a new page that describes the project
 Publish to app store
 Make android app
 ios  adjustments

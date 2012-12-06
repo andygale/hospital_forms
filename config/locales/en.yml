@@ -103,11 +103,13 @@ ar:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
+  instructions_start: مكن ترجمة هذا الاستبيان على الفور إلى لغات عديدة.
+  instructions_step_1_title: ! 'الخطوة 1:'
+  instructions_step_1_text: ! ' إكمال الاستبيان في لغتك المفضلة'
+  instructions_step_2_title: ! 'الخطوة 2:'
+  instructions_step_2_text: رجمة الاستبيان الخاص الانتهاء إلى لغة المؤقتة الخاصة بك
+    عن طريق النقر على العلم المناسب أو اسم اللغة. جميع البيانات سوف تبقى خاصة على
+    جهازك ولن ينتقل إلى أي ملقم.
   disclaimer_start: ''
   disclaimer_1: ''
   disclaimer_2: ''
@@ -229,14 +231,20 @@ bg:
   instructions_step_2_text: преведете попълнения въпросник на езика на Вашия служител
     като кликнете върху съответния флаг или име на езика. Всички данни ще останат
     само на Вашето устройство и няма да се прехвърлят на сървър.
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  disclaimer_start: ! 'С разглеждането на материала в този сайт разбирате и приемате,
+    че:'
+  disclaimer_1: · Въпросници, използвани в този сайт са продукт на автора или авторите
+    и не отразяват непременно тези, които се използват от други медицински организации.
+  disclaimer_2: ! ' Провеждане на материал на SpeakSafeCare сайт не означава потвърждение
+    на този материал от други медицински организации.'
+  disclaimer_3: Материалът е единствено за образователни цели за квалифицирани специалисти,
+    здравните и пътници.
+  disclaimer_4: ! ' SpeakSafeCare не носи отговорност за всяко решение или действие,
+    предприето въз основа на информацията, съдържаща се в материалите на този сайт.'
+  disclaimer_5: Информацията не може да се използва като заместител на професионална
+    грижа.
+  disclaimer_6: Информация не представлява стандарт на лечение.
+  disclaimer_7: Няма лекар-пациент се установява.
   clear_answers: ''
   are_you_sure: ''
 en-US:
@@ -461,19 +469,27 @@ es-MX:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: Este cuestionario puede ser inmediatamente traducido a muchos
+    idiomas.
+  instructions_step_1_title: ! 'Paso 1: '
+  instructions_step_1_text: Completar el cuestionario en su idioma preferido
+  instructions_step_2_title: ! 'Paso 2: '
+  instructions_step_2_text: Traducir el cuestionario completo en el idioma de su cuidador,
+    haga clic en la bandera correspondiente o el nombre del idioma. Todos los datos
+    se mantendrá en privado en el dispositivo y no se transmitirá a cualquier servidor.
+  disclaimer_start: ! 'Al ver el material en este sitio usted entiende y acepta que:'
+  disclaimer_1: Los cuestionarios utilizados en este sitio son el producto de su autor
+    o autores y no reflejan necesariamente las de otras organizaciones médicas.
+  disclaimer_2: El alojamiento del material en el sitio SpeakSafeCare no significa
+    aprobación de este material por otras organizaciones médicas.
+  disclaimer_3: El material es únicamente con fines educativos para los profesionales
+    de la salud calificados y viajeros por igual.
+  disclaimer_4: SpeakSafeCare no se hace responsable de cualquier decisión o acción
+    tomada sobre la base de la información contenida en el material de este sitio.
+  disclaimer_5: La información no puede ser utilizado como un sustituto de la atención
+    profesional.
+  disclaimer_6: La información no representa un estándar de cuidado.
+  disclaimer_7: No hay relación médico-paciente se está estableciendo.
   clear_answers: ''
   are_you_sure: ''
 fr-FR:
@@ -577,19 +593,31 @@ fr-FR:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: Ce questionnaire peut être instantanément traduit en de nombreuses
+    langues.
+  instructions_step_1_title: ! 'Étape 1: '
+  instructions_step_1_text: Remplissez le questionnaire dans votre langue préférée
+  instructions_step_2_title: ! 'Étape 2:'
+  instructions_step_2_text: ! ' Traduisez le questionnaire rempli dans la langue de
+    votre infirmier(ère) ou médecin en cliquant sur ​​le drapeau ou le nom correspondant
+    à sa langue. Toutes les données resteront sur votre appareil et ne seront pas
+    transmises à un serveur.'
+  disclaimer_start: ! 'En visionnant le matériel sur ce site, vous comprenez et acceptez
+    que:'
+  disclaimer_1: Les questionnaires utilisés sur ce site sont le fruit de l'auteur
+    ou des auteurs et ne reflètent pas nécessairement ceux utilisées par d'autres
+    organisations médicales.
+  disclaimer_2: L'utilisation du questionnaire sur le site SpeakSafeCare ne signifie
+    pas l'approbation du questionnaire par d'autres organisations médicales.
+  disclaimer_3: Le questionnaire est uniquement à utiliser pour des fins éducatives
+    par des professionnels de la santé qualifiés et des touristes.
+  disclaimer_4: SpeakSafeCare n'est pas responsable de toute décision ou mesure prise
+    sur la base de l'information contenue dans le questionnaire sur ce site.
+  disclaimer_5: L'utilisation du questionnaire ne peut pas être utilisé comme un substitut
+    pour des soins de santé  professionnels.
+  disclaimer_6: L'information présenté sur le site ne représente pas une norme de
+    soins.
+  disclaimer_7: Aucune relation médecin-patient est mis en place.
   clear_answers: ''
   are_you_sure: ''
 pt-PT:
@@ -695,19 +723,27 @@ pt-PT:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: Este questionário pode ser imediatamente traduzido em muitas
+    línguas.
+  instructions_step_1_title: ! 'Passo 1:'
+  instructions_step_1_text: preencher o questionário no seu idioma preferido
+  instructions_step_2_title: ! 'Passo 2: '
+  instructions_step_2_text: Traduzir o questionário preenchido na língua do seu cuidador,
+    clicando na bandeira apropriada ou nome da língua. Todos os dados permanecerão
+    privados no seu dispositivo e não serão transmitidas para qualquer servidor.
+  disclaimer_start: ! 'Ao ver o material neste site você entende e aceita que:'
+  disclaimer_1: Os questionários usados ​​neste site são o produto do autor ou autores
+    e não refletem, necessariamente, aqueles usados ​​por outras organizações médicas.
+  disclaimer_2: A hospedagem de material no site SpeakSafeCare não significa endosso
+    deste material por outras organizações médicas.
+  disclaimer_3: O material é apenas para fins educacionais para profissionais de saúde
+    qualificados de cuidados e viajantes.
+  disclaimer_4: SpeakSafeCare não se responsabiliza por qualquer decisão ou ação tomada
+    com base na informação contida no material neste site.
+  disclaimer_5: A informação não pode ser utilizado como um substituto para o profissional
+    de saúde.
+  disclaimer_6: A informação não representam um padrão de atendimento.
+  disclaimer_7: Nenhuma relação médico-paciente está sendo estabelecida.
   clear_answers: ''
   are_you_sure: ''
 ru-RU:
@@ -814,19 +850,28 @@ ru-RU:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: Эта анкета может быть мгновенно переведены на многие языки.
+  instructions_step_1_title: ! 'Шаг 1: '
+  instructions_step_1_text: ! ' заполнить анкету на вашем родном языке'
+  instructions_step_2_title: ! 'Шаг 2: '
+  instructions_step_2_text: Перевести заполненную анкету на языке вашей сторож, нажав
+    на соответствующий флаг или название языка. Все данные останутся конфиденциальными
+    на вашем устройстве и не будут передаваться на любой сервер.
+  disclaimer_start: ! 'Просматривая материалы на этом сайте вы понимаете и принимаете,
+    что:'
+  disclaimer_1: Вопросники, используемые на данном сайте, являются произведением автора
+    или авторов и не обязательно отражают те, что используются другими медицинскими
+    организациями.
+  disclaimer_2: Хостинг материала на SpeakSafeCare сайте не означает одобрения этого
+    материала другими медицинскими организациями.
+  disclaimer_3: Материал предназначен исключительно для образовательных целей для
+    квалифицированных медицинских работников и туристов.
+  disclaimer_4: SpeakSafeCare не несет ответственности за любые решения или действия,
+    принятые на основе информации, содержащейся в материале на этом сайте.
+  disclaimer_5: Информация не может быть использован в качестве замены для профессионального
+    ухода.
+  disclaimer_6: Информация не является стандартом лечения.
+  disclaimer_7: Нет взаимоотношений врача и пациента устанавливается.
   clear_answers: ''
   are_you_sure: ''
 sr:
@@ -928,19 +973,26 @@ sr:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: Овај упитник могу одмах преведена на многе језике.
+  instructions_step_1_title: ! 'Корак 1: '
+  instructions_step_1_text: попуните упитник у жељеном језику
+  instructions_step_2_title: ! 'Корак 2: '
+  instructions_step_2_text: Преведи свој попуњени упитник на језик вашег чувар кликом
+    на одговарајућу заставу или имена језика. Сви подаци ће остати приватна на уређају
+    и неће се пренети на било ком серверу.
+  disclaimer_start: ! 'По прегледате материјал на овом сајту можете схватити и прихватити
+    да:'
+  disclaimer_1: Упитници се користе на овом сајту су производ аутора или аутора и
+    не одражавају оне које користе друге медицинске организације.
+  disclaimer_2: Тхе хостинг материјала на сајту SpeakSafeCare не значи одобрење тог
+    материјала од стране других медицинских организација.
+  disclaimer_3: Материјал је само за образовне сврхе за квалификоване стручњаке здравствених
+    и путнике подједнако.
+  disclaimer_4: SpeakSafeCare није одговоран за било одлуке или радње предузете на
+    основу информација садржаних у материјалу на овом сајту.
+  disclaimer_5: · Информације не може да се користи као замена за професионалном пажњом.
+  disclaimer_6: · Информације не представљају стандард неге.
+  disclaimer_7: · Не лекар-пацијент однос је успостављен.
   clear_answers: ''
   are_you_sure: ''
 zh:
@@ -1040,19 +1092,19 @@ zh:
   specify__handicap: 請具体說明
   specify__med_allergy: 請具体說明
   specify__food_allergy: 请具体说明
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: 此问卷可以立即翻译成多国语言。
+  instructions_step_1_title: 第1步：
+  instructions_step_1_text: 在您的首选语言完成的调查问卷
+  instructions_step_2_title: 第2步：
+  instructions_step_2_text: 通过点击相应的标志或语言的名称翻译的语言，您的看守政府已完成的问卷。私人设备上的所有数据都将不会被传输到任何服务器。
+  disclaimer_start: 通过查看本网站的材料，你了解并同意：
+  disclaimer_1: 本网站使用的调查问卷作者或作者的产品，并不一定反映其他医疗机构使用。
+  disclaimer_2: ·托管的SpeakSafeCare网站上的材料并不意味着赞同这种材料由其他医疗机构。
+  disclaimer_3: ·材料是完全合格的医疗保健专业人士和游客的教育目的。
+  disclaimer_4: ·SpeakSafeCare是不承担任何责任所做的任何决定或采取的行动的基础上对本网站所包含的信息。
+  disclaimer_5: 信息不能被用来作为替代品的专业护理。
+  disclaimer_6: ·信息，并不代表一个标准的护理。
+  disclaimer_7: ·任何一个医生与病人的关系正在建立。
   clear_answers: ''
   are_you_sure: ''
 ht:
@@ -1165,14 +1217,19 @@ ht:
     ap okipe ou.  Pou ou fè sa, ou anik klike sou drapo ki vle di lang la oswa ou
     anik klike non lang lan. Tout done yo ap rete prive sou aparèy ou epi yo pa pral
     transmèt nan nenpòt lòt sistem odinatè.
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  disclaimer_start: ! 'Lè ou gade materyèl la sou sit sa a ou konprann epi ou aksepte
+    ke:'
+  disclaimer_1: Kesyonè yo itilize sou sit sa a se pwodwi a nan otè yo epi sa pa nesesèman
+    reflete sa pa lòt òganizasyon medikal ka itilize.
+  disclaimer_2: Kimbe materyèl sou sit yo rele SpeakSafeCare pa siyifi lòt òganizasyon
+    medikal bay andòsman nan materyèl sa.
+  disclaimer_3: Materyèl la se sèlman pou rezon edikatif pou pwofesyonèl medikal kalifye
+    an mem tan ak pou vwayajè.
+  disclaimer_4: SpeakSafeCare se pa responsab pou nenpòt ki desizyon ki pran oswa
+    aksyon ki baze sou enfòmasyon ki nan materyèl la sou sit sa a.
+  disclaimer_5: Enfòmasyon an pa ka sèvi kòm yon ranplasman pou swen pwofesyonèl.
+  disclaimer_6: Enfòmasyon sa a pa reprezante yon estanda nan swen.
+  disclaimer_7: Pa gen relasyon doktè-pasyan ki etabli la.
   clear_answers: ''
   are_you_sure: ''
 sw:
@@ -1277,19 +1334,26 @@ sw:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: Hojaji hii inaweza instantly kutafsiriwa katika lugha nyingi.
+  instructions_step_1_title: ! 'Hatua ya 1: '
+  instructions_step_1_text: wakamilishe hojaji katika lugha unayopendelea
+  instructions_step_2_title: ! 'Hatua ya 2: '
+  instructions_step_2_text: Kutafsiri dodoso yako kukamilika katika lugha ya caretaker
+    yako kwa kubonyeza bendera sahihi au jina lugha. Data zote utabaki binafsi kwenye
+    kifaa chako na si kupitishwa kwa seva yoyote.
+  disclaimer_start: ! 'Kwa kuangalia nyenzo kwenye tovuti hii kuelewa na kukubali
+    kwamba:'
+  disclaimer_1: Dodoso inayotumiwa kwenye tovuti hii ni bidhaa ya mwandishi au waandishi
+    na si lazima kutafakari wale kutumiwa na mashirika mengine ya matibabu.
+  disclaimer_2: Kulifadhi kwa nyenzo kwenye tovuti SpeakSafeCare haina dhibitisho
+    kubwa ya nyenzo hii na mashirika mengine ya matibabu.
+  disclaimer_3: Ni nyenzo tu kwa madhumuni ya kielimu kwa waliohitimu wataalamu wa
+    afya na wasafiri sawa.
+  disclaimer_4: SpeakSafeCare si yeye binafsi kwa uamuzi wowote alifanya au hatua
+    zilizochukuliwa kutokana na habari zilizomo katika nyenzo kwenye tovuti hii.
+  disclaimer_5: Habari haiwezi kutumika kama mbadala kwa ajili ya huduma ya utaalamu.
+  disclaimer_6: Habari haina kuwakilisha kiwango cha huduma.
+  disclaimer_7: Hakuna uhusiano ya daktari na mgonjwa ni kuwa imara.
   clear_answers: ''
   are_you_sure: ''
 it:
@@ -1391,19 +1455,32 @@ it:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: Il questionario può essere immediatamente tradotto in molte
+    lingue.
+  instructions_step_1_title: ! 'Fase 1:'
+  instructions_step_1_text: ! ' compilare il questionario in una lingua a scelta'
+  instructions_step_2_title: ! 'Fase 2: '
+  instructions_step_2_text: ! 'Una volta compilato, tradurre il questionario nella
+    lingua del custode (who is this? what kind of caretaker? I could use different
+    words depending on the setting: a hospital, an institution..etc, so you need to
+    tell me more about this caretaker) cliccando sulla bandiera appropriata oppure
+    sul nome della lingua. Tutti i dati rimarranno privati sul dispositivo e non saranno
+    trasmessi su alcun server.'
+  disclaimer_start: ! 'Dalla revisione del materiale su questo sito, lei capisce ed
+    accetta che:'
+  disclaimer_1: I questionari utilizzati in questo sito sono il prodotto del o degli
+    autori e non rispecchiano necessariamente quelli utilizzati da altre organizzazioni
+    mediche.
+  disclaimer_2: L'hosting di materiale sul sito SpeakSafeCare non significa che questo
+    materiale sia stato approvato da altre organizzazioni mediche.
+  disclaimer_3: Il materiale è esclusivamente a fini didattici per gli operatori sanitari
+    qualificati e viaggiatori.
+  disclaimer_4: SpeakSafeCare non è responsabile per qualsiasi decisione presa o azione
+    intrapresa in base alle informazioni contenute nel materiale in questo sito.
+  disclaimer_5: L'informazione non può essere utilizzata come sostituto alla cura
+    professionale.
+  disclaimer_6: Le informazioni non rappresentano uno standard di cura.
+  disclaimer_7: Nessuna relazione medico-paziente viene stabilita.
   clear_answers: ''
   are_you_sure: ''
 hi:
@@ -1505,19 +1582,32 @@ hi:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: इस प्रश्नावली को तुरन्त कई भाषाओं में अनुवाद किया जा सकता है.
+  instructions_step_1_title: ! 'चरण 1: '
+  instructions_step_1_text: अपनी पसंद की भाषा में प्रश्नावली पूरा
+  instructions_step_2_title: ! 'चरण 2:'
+  instructions_step_2_text: ! 'चरण 2: अपने कार्यवाहक की भाषा में उचित झंडा या भाषा
+    के नाम पर क्लिक करके अपना पूरा प्रश्नावली अनुवाद. सभी डेटा अपने डिवाइस पर निजी
+    रहते हैं और किसी भी सर्वर से प्रेषित किया जा नहीं होगा.'
+  disclaimer_start: ! 'आप इस साइट पर सामग्री को देखने से समझते हैं और स्वीकार करते
+    हैं कि:'
+  disclaimer_1: इस साइट पर इस्तेमाल किया प्रश्नावली लेखक या लेखकों के उत्पाद हैं और
+    अन्य चिकित्सा संगठनों द्वारा इस्तेमाल किया उन को प्रतिबिंबित नहीं.
+  disclaimer_2: SpeakSafeCare साइट पर सामग्री की मेजबानी इस सामग्री के अन्य चिकित्सा
+    संगठनों द्वारा समर्थन नहीं दर्शाता है.
+  disclaimer_3: सामग्री केवल योग्य स्वास्थ्य देखभाल पेशेवर और यात्रियों के लिए एक
+    जैसे शैक्षिक उद्देश्यों के लिए है.
+  disclaimer_4: SpeakSafeCare साइट पर सामग्री की मेजबानी इस सामग्री के अन्य चिकित्सा
+    संगठनों द्वारा समर्थन नहीं दर्शाता है.
+  disclaimer_5: ! '
+
+    · सामग्री केवल योग्य स्वास्थ्य देखभाल पेशेवर और यात्रियों के लिए एक जैसे शैक्षिक
+    उद्देश्यों के लिए है.'
+  disclaimer_6: · सामग्री केवल योग्य स्वास्थ्य देखभाल पेशेवर और यात्रियों के लिए एक
+    जैसे शैक्षिक उद्देश्यों के लिए है.
+  disclaimer_7: ! '· सूचना देखभाल के एक मानक का प्रतिनिधित्व नहीं करता.
+
+    कोई चिकित्सक रोगी संबंध स्थापित किया जा रहा है.'
   clear_answers: ''
   are_you_sure: ''
 tr:
@@ -1536,7 +1626,7 @@ tr:
   diffuse: difüz
   dizziness: baş dönmesi
   drugs: ilaçlar
-  emergency_triage_questionnaire: acil triaj anketi
+  emergency_triage_questionnaire: Acil Triaj Anketi
   fainting: bayılma
   fatigue: yorgunluk
   fever: ateş
@@ -1647,37 +1737,44 @@ tr:
   clear_answers: ''
   are_you_sure: ''
 he:
-  alcohol: ''
-  appetite_loss: ''
-  blood_in: ''
-  brown: ''
-  burn: ''
-  burning_sensation: ''
-  choking: ''
-  constipation: ''
-  cough: ''
-  cramps: ''
-  diarrhea: ''
-  difficulty_breathing: ''
-  diffuse: ''
-  dizziness: ''
-  drugs: ''
-  emergency_triage_questionnaire: ''
-  fainting: ''
-  fatigue: ''
-  fever: ''
-  green: ''
-  how_intense_is_pain: ''
-  intoxication_with: ''
-  itching: ''
-  language: ''
-  localized: ''
-  nausea: ''
-  numbness: ''
-  pain: ''
-  pain_scale: ''
-  palpitations: ''
-  poison: ''
+  alcohol: אלכוהול
+  appetite_loss: אובדן תיאבון
+  blood_in: דם ב
+  brown: חום
+  burn: לשרוף
+  burning_sensation: תחושת צריבה
+  choking: מחנק
+  constipation: עצירות
+  cough: שיעול
+  cramps: התכווצויות
+  diarrhea: שלשול
+  difficulty_breathing: קשיי נשימה
+  diffuse: לפזר
+  dizziness: סחרחורת
+  drugs: תרופות
+  emergency_triage_questionnaire: שאלון מיון חירום
+  fainting: התעלפות
+  fatigue: תשישות
+  fever: חום
+  green: ירוק
+  how_intense_is_pain: ! 'של בסולם שלך הכאב את מדרג היית איך
+
+    *1-10
+
+
+'
+  intoxication_with: ! '*?השתמשת חומרים באילו'
+  itching: עקצוץ
+  language: ! 'אנגליתשפה: *'
+  localized: ממוקם
+  nausea: בחילה
+  numbness: קהות
+  pain: כאב
+  pain_scale: ! 'נסבלים = 1-3
+
+    בלתי נסבלים = 10'
+  palpitations: לב דפיקות
+  poison: ! 'רעל (לשעבר: מוצרים ביתיים)'
   pressure: ''
   stabbing: ''
   stool_desc: ''
@@ -1756,5 +1853,131 @@ he:
   disclaimer_5: ''
   disclaimer_6: ''
   disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+fil:
+  alcohol: alkohol
+  appetite_loss: Kawalan ng Gana
+  blood_in: ! 'Dugo sa:'
+  brown: kayumanggi
+  burn: sunog
+  burning_sensation: Pakiramdam ng pagkasunog
+  choking: Nabubulunan dahil may naipit sa lalamunan
+  constipation: di-pagdumi
+  cough: Ubo
+  cramps: Pulikat
+  diarrhea: Pagtatae
+  difficulty_breathing: Hirap sa paghinga
+  diffuse: di-malinaw
+  dizziness: Pagkahilo
+  drugs: bawal na gamot
+  emergency_triage_questionnaire: Mga katanungan para sa di-inaasahang pangyayari
+  fainting: Pagkahimatay/Kawalang-malay
+  fatigue: Pagod
+  fever: Lagnat
+  green: Luntian
+  how_intense_is_pain: Gaano katindi ang iyong sakit, isa hanggang sampu, sampu bilang
+    pinakamasakit
+  intoxication_with: ! 'Pagkalango sa:'
+  itching: Pangangati
+  language: Wikang ingles
+  localized: Dito lamang
+  nausea: Alibadbad
+  numbness: Pagkamanhid
+  pain: Sakit
+  pain_scale: ! 'Matitiis: 1-3, Di-matiis 4-10'
+  palpitations: Pagtibok
+  poison: ! 'Lason (halimbawa: mga produkto para sa bahay)'
+  pressure: Presyon
+  stabbing: Pagsaksak
+  stool_desc: dumi ng tao (itim na dumi ng tao o pulang dugo sa dumi)
+  swelling: Pamamaga ng isa o higit pang braso o binti
+  tightness: Paninikip
+  urine: Ihi
+  vomiting: Pagsusuka
+  weight_loss: Pagpayat/Kawalan ng timbang
+  what_is_the_reason: Ano ang dahilan ng iyong konsultasyon? PIliin ang pinaka-angkop.
+  white: puti
+  with_secretions: may lumalabas
+  yellow: dilaw
+  '': ''
+  how_long_suffering: Gaano katagal na itong kondisyon?
+  days: araw
+  months: buwan
+  years: taon
+  is_this_the_first_time: Ito ba ang unang pagkakataon?
+  'yes': Oo
+  'no': Hindi
+  number_of_times: Ilang beses na?
+  have_you_been_diagnosed: Ginamot na ba kayo para sa sumusunod na karamdaman?
+  hypertension: Alta-presyon
+  congestive_heart_failure: Atake sa Puso
+  heart_attack: Atake sa puso
+  date: petsa
+  emphysema: Emphysema (sakit sa baga)
+  chronic_bronchitis: Di-gumagaling o matagal nang Bronchitis
+  asthma: Hika
+  stroke: Atakeng Serebral
+  diabetes: Dyabetis
+  type1: Type I
+  type2: Tye II
+  hiv_aids: HIV / AIDS
+  physical_or_mental_handicap: Kapansanan sa isip o sa katawan
+  specify: Tukuyin
+  psychiatric_problems: Problemang Psychiatric/Problema sa pag-iisip
+  cancer: Kanser
+  stomach_ulcer: Ulser
+  other_diseases: Iba pang mga sakit ng
+  heart_and_veins: puso at mga ugat
+  lungs: baga
+  digestive_tract: tiyan
+  reproductive_system: Sistemang Reproductive
+  endocrine_system: Sistemang Endokrina
+  muscles_and_bones: kalamnan at mga buto
+  do_you_take_meds: Umiinom ba kayo ng gamot at / o mga bitamina?
+  do_you_have_list_of_meds: Mayroon ba kayong listahan ng mga gamot na iniinom ninyo?
+  which_meds_do_you_take: Kung wala, anong mga gamot ang inyong iniinom?
+  do_you_have_allergies: Mayroon ba kayong mga Alerhiya?
+  to_medication: sa gamot
+  to_food: sa pagkain
+  day_month_year: araw/buwan/taon AA/BB/TTTT
+  stool: dumi ng tao
+  stool_black: itim na dumi ng tao
+  stool_red: dugo sa dumi
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ! 'Sa pagbasa at pag-gamit ng nilalaman ng site na ito, sumasang-ayon
+    kayo na:'
+  disclaimer_1: Ang mga katanungan dito ay likha at gawa ng mga may-akda. Maaaring
+    hindi ito ang ginagamit ng ibang mga organisasyong panggamot.
+  disclaimer_2: Ang pag-host ng mga nilalaman dito sa SpeakSafeCare site ay hindi
+    nagbibigay-katibayan ng pagsang-ayon ng ibang mga organisasyong panggamot.
+  disclaimer_3: Ang pag-host ng materyales ng SpeakSafeCare site ay hindi nagpapatalagang
+    sumasang-ayon ang ibang mga organisasyong panggamot sa mga nasabing materyales.
+  disclaimer_4: Ang mga nilalaman ay dapat lamang gamitin ng mga may-kakayahang propesyonal
+    sa larangan ng kalusugan at paggamot, at ng mga manlalakbay.
+  disclaimer_5: ! 'Hindi pananagutan ng SpeakEasyCare ang anumang pagpapasiyang isasagawa
+    dulot ng kaalaman at impormasyong galing sa site na ito
+
+
+'
+  disclaimer_6: Ang impormasyong napaloloob ay hindi pamalit sa pag-alagang propesyonal.
+    Ang impormasyong napaloloob ay hindi sukatan ng antas ng pag-aalagang kalusugan.
+  disclaimer_7: ! 'Walang kaugnayang itinatatag dito sa pagitan ng doktor at ng pasyente
+
+
+'
   clear_answers: ''
   are_you_sure: ''

@@ -6,6 +6,7 @@ load a page to make the translations compile
 RAILS_ENV=production bundle exec rake assets:precompile
 git add .
 git commit -a -m "updating precompiled assets"
+git push
 git push heroku master
 
 http://speaksafecare.heroku.com
