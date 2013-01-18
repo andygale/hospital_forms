@@ -1,5 +1,13 @@
-Add a new page that describes the project
+Add new languages from master spreadsheet
+  finish ios app
+Add tester - rocky in the congo: 872c20be1fbd3f1deb92c8a1c9346cbee896c417
+Add keywords for SEO (Search Engines)
+
+App should be able to speak the questions
+Ability to save parts of the form that won't change (like allergies)
+
 Publish to app store
+Figure out which direction is correct for Hebrew
 Make android app
 ios  adjustments
   make paths relative

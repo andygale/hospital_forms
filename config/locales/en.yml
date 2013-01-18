@@ -354,8 +354,8 @@ en-US:
   instructions_step_2_text: Translate your completed questionnaire into the language
     of your caretaker by clicking on the appropriate flag or language name. All data
     will remain private on your device and will not be transmitted to any server.
-  disclaimer_start: By viewing the material on this site you understand and accept
-    that
+  disclaimer_start: ! 'By viewing the material on this site you understand and accept
+    that:'
   disclaimer_1: The questionnaires used on this site are the product of the author
     or authors and do not necessarily reflect those used by other medical organizations
   disclaimer_2: The hosting of material on the SpeakSafeCare site does not signify
@@ -852,11 +852,11 @@ ru-RU:
   specify__food_allergy: ''
   instructions_start: Эта анкета может быть мгновенно переведены на многие языки.
   instructions_step_1_title: ! 'Шаг 1: '
-  instructions_step_1_text: ! ' заполнить анкету на вашем родном языке'
+  instructions_step_1_text: Заполните анкету на вашем родном языке.
   instructions_step_2_title: ! 'Шаг 2: '
-  instructions_step_2_text: Перевести заполненную анкету на языке вашей сторож, нажав
+  instructions_step_2_text: Переведите заполненную анкету на язык другой страны нажав
     на соответствующий флаг или название языка. Все данные останутся конфиденциальными
-    на вашем устройстве и не будут передаваться на любой сервер.
+    на вашем устройстве и не будут передаваться на другой сервер.
   disclaimer_start: ! 'Просматривая материалы на этом сайте вы понимаете и принимаете,
     что:'
   disclaimer_1: Вопросники, используемые на данном сайте, являются произведением автора
@@ -1460,12 +1460,10 @@ it:
   instructions_step_1_title: ! 'Fase 1:'
   instructions_step_1_text: ! ' compilare il questionario in una lingua a scelta'
   instructions_step_2_title: ! 'Fase 2: '
-  instructions_step_2_text: ! 'Una volta compilato, tradurre il questionario nella
-    lingua del custode (who is this? what kind of caretaker? I could use different
-    words depending on the setting: a hospital, an institution..etc, so you need to
-    tell me more about this caretaker) cliccando sulla bandiera appropriata oppure
-    sul nome della lingua. Tutti i dati rimarranno privati sul dispositivo e non saranno
-    trasmessi su alcun server.'
+  instructions_step_2_text: Una volta compilato, tradurre il questionario nella lingua
+    del l'assistente cliccando sulla bandiera appropriata oppure sul nome della lingua.
+    Tutti i dati rimarranno privati sul dispositivo e non saranno trasmessi su alcun
+    server.
   disclaimer_start: ! 'Dalla revisione del materiale su questo sito, lei capisce ed
     accetta che:'
   disclaimer_1: I questionari utilizzati in questo sito sono il prodotto del o degli
@@ -1738,11 +1736,11 @@ tr:
   are_you_sure: ''
 he:
   alcohol: אלכוהול
-  appetite_loss: אובדן תיאבון
+  appetite_loss: תיאבון אובדן
   blood_in: דם ב
   brown: חום
   burn: לשרוף
-  burning_sensation: תחושת צריבה
+  burning_sensation: צריבה תחושת
   choking: מחנק
   constipation: עצירות
   cough: שיעול
@@ -1775,62 +1773,63 @@ he:
     בלתי נסבלים = 10'
   palpitations: לב דפיקות
   poison: ! 'רעל (לשעבר: מוצרים ביתיים)'
-  pressure: ''
-  stabbing: ''
-  stool_desc: ''
-  swelling: ''
-  tightness: ''
-  urine: ''
-  vomiting: ''
-  weight_loss: ''
-  what_is_the_reason: ''
-  white: ''
-  with_secretions: ''
-  yellow: ''
+  pressure: לחץ
+  stabbing: הדקיר
+  stool_desc: אדום עם צואה) צואה (צואה שחורה או דם
+  swelling: יותר או אחת בגפה נפיחות
+  tightness: לחץ
+  urine: שתן
+  vomiting: הקאה
+  weight_loss: במשקלי רידה
+  what_is_the_reason: ! 'ביותר טוב שלך המצב את המתארים התנאים את בחר אנא ?שלך להתייעצות
+    הסיבה מהי '
+  white: . לבן
+  with_secretions: ! ' הפרשות עם '
+  yellow: צהוב
   '': ''
   how_long_suffering: ''
-  days: ''
-  months: ''
-  years: ''
+  days: ימים
+  months: חודשים
+  years: שנים
   is_this_the_first_time: ''
-  'yes': ''
-  'no': ''
-  number_of_times: ''
+  'yes': כן
+  'no': לא
+  number_of_times: ': פעמים מספר '
   have_you_been_diagnosed: ''
-  hypertension: ''
-  congestive_heart_failure: ''
-  heart_attack: ''
-  date: ''
+  hypertension: ! 'דם לחץ יתר '
+  congestive_heart_failure: ! 'אי ספיקת לב '
+  heart_attack: ! 'לבהתקף '
+  date: תאריך
   emphysema: ''
-  chronic_bronchitis: ''
-  asthma: ''
-  stroke: ''
-  diabetes: ''
-  type1: ''
-  type2: ''
-  hiv_aids: ''
-  physical_or_mental_handicap: ''
-  specify: ''
-  psychiatric_problems: ''
-  cancer: ''
-  stomach_ulcer: ''
-  other_diseases: ''
-  heart_and_veins: ''
-  lungs: ''
-  digestive_tract: ''
-  reproductive_system: ''
-  endocrine_system: ''
-  muscles_and_bones: ''
-  do_you_take_meds: ''
-  do_you_have_list_of_meds: ''
-  which_meds_do_you_take: ''
-  do_you_have_allergies: ''
-  to_medication: ''
-  to_food: ''
-  day_month_year: ''
-  stool: ''
-  stool_black: ''
-  stool_red: ''
+  chronic_bronchitis: ! ' כרוני ברונכיטיס '
+  asthma: אסטמה
+  stroke: שבץ
+  diabetes: סוכרת
+  type1: 1 סוג
+  type2: ! '2 סוג '
+  hiv_aids: איידס/HIV
+  physical_or_mental_handicap: ! 'נפשית נכות או פיזית נכות '
+  specify: לפרט
+  psychiatric_problems: ! ' פסיכיאטריות בעיות '
+  cancer: סרטן
+  stomach_ulcer: ! 'אולקוס / קיבה כיב '
+  other_diseases: ! 'של אחרות מחלות '
+  heart_and_veins: ! 'ועורקים לב '
+  lungs: ריאות
+  digestive_tract: ! ' צינור העיכול '
+  reproductive_system: ! ' רבייה מערכת '
+  endocrine_system: ! 'האנדוקרינית מערכת '
+  muscles_and_bones: ! ' ועצמות שרירים '
+  do_you_take_meds: ! '? ויטמינים או/ו תרופות נוטל אתה האם  '
+  do_you_have_list_of_meds: ! 'לנו? יכולהראות שאתה שלך התרופות של רשימה לך יש האם '
+  which_meds_do_you_take: ! 'אם ,לא אילו תרופות אתה ?לוקח '
+  do_you_have_allergies: ':אלרגיות לך יש האם '
+  to_medication: לתרופות
+  to_food: למזון
+  day_month_year: ! 'שנה/חודש/ יום '
+  stool: צואה
+  stool_black: ! 'שחורה צואה '
+  stool_red: ! 'צואה עם אדום דם '
   yes__first_time: ''
   yes__take_meds: ''
   yes__have_list: ''
@@ -1840,19 +1839,27 @@ he:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
-  disclaimer_start: ''
-  disclaimer_1: ''
-  disclaimer_2: ''
-  disclaimer_3: ''
-  disclaimer_4: ''
-  disclaimer_5: ''
-  disclaimer_6: ''
-  disclaimer_7: ''
+  instructions_start: ! 'לשפות מיידי באופן מתורגם להיות יכול  זה רבות.שאלון '
+  instructions_step_1_title: ! '1: שלב '
+  instructions_step_1_text: השאלון את מלא עליךהמועדפת בשפה
+  instructions_step_2_title: ':2 שלב '
+  instructions_step_2_text: ! ' תרגם את השאלון לשפת המטפל שלך על ידי לחיצה על הדגלהמתאים
+    או שם השפה. כל הנתונים יישארו פרטיים במכשיר שלך ולא יועברו לשרת.'
+  disclaimer_start: ! 'כצופה בחומר המוצג באתר את/ה מבין/ה ומקבל/ת כי:'
+  disclaimer_1: השאלונים המוצגים באתר הם מוצר של המחבר/ים ולא בהכרח משקפים שאלונים
+    המוצגים על ידי ארגונים רפואיים אחרים.
+  disclaimer_2: אירוח החומר באתר SpeakSafeCare לא מהווה אישור של החומר המוצג על ידי
+    ארגונים רפואיים אחרים.
+  disclaimer_3: החומר המוצג באתר הינו לצורך מטרות לימוד בלבד לאנשי מקצוע בתחום הרפואה
+    ולמטיילים.
+  disclaimer_4: ! 'חברת המידע המוצג באתר איננו  SpeakSafeCare אינה אחראית על כל החלטה
+    או פעולה '
+  disclaimer_5: ! ' תחליף לטיפול רפואי.שננקטה בהסתמך על המידע המוצג באתר'
+  disclaimer_6: המידע המוצג באתר אינו מהווה תקן לטיפול רפואי.
+  disclaimer_7: ! 'יחסי מטפל-מטופל אינם תקפים.
+
+
+'
   clear_answers: ''
   are_you_sure: ''
 fil:
@@ -1953,11 +1960,15 @@ fil:
   specify__handicap: ''
   specify__med_allergy: ''
   specify__food_allergy: ''
-  instructions_start: ''
-  instructions_step_1_title: ''
-  instructions_step_1_text: ''
-  instructions_step_2_title: ''
-  instructions_step_2_text: ''
+  instructions_start: Palatanungan na ito ay maaaring agad na isinalin sa maraming
+    mga wika.
+  instructions_step_1_title: Hakbang 1
+  instructions_step_1_text: Punan ang palatanungan sa iyong ginustong wika.
+  instructions_step_2_title: Hakbang 2
+  instructions_step_2_text: Isalin ang iyong nakumpletong palatanungan sa wika ng
+    iyong bantay sa pamamagitan ng pag-click sa naaangkop na pangalan ng bandila o
+    wika. Lahat ng data ay mananatiling pribado sa iyong aparato at hindi ay ipinadala
+    sa anumang server.
   disclaimer_start: ! 'Sa pagbasa at pag-gamit ng nilalaman ng site na ito, sumasang-ayon
     kayo na:'
   disclaimer_1: Ang mga katanungan dito ay likha at gawa ng mga may-akda. Maaaring
@@ -1979,5 +1990,366 @@ fil:
 
 
 '
+  clear_answers: ''
+  are_you_sure: ''
+kiben:
+  alcohol: Maonde
+  appetite_loss: Ishaba na pusha ya bilebwa
+  blood_in: Mshi
+  brown: Mshombo
+  burn: Lubaba ite aya
+  burning_sensation: Ikya'a ete aya
+  choking: ! 'Isesemenwa, na mmukya ici belwa na/ emo etu hange bilebwa '
+  constipation: Ishanena
+  cough: AÔSO
+  cramps: Afinya
+  diarrhea: Ihala
+  difficulty_breathing: M'mukya ihekama
+  diffuse: Mweko wose
+  dizziness: Ishabangeeca
+  drugs: Mite y'ilalu'ya
+  emergency_triage_questionnaire: Ndocibwa Cinabale'a isobolwa
+  fainting: Iciminya bwenge
+  fatigue: l'ucwa
+  fever: Icikya mweko
+  green: Ite basashi
+  how_intense_is_pain: Lubaba luwele bilie 1-10
+  intoxication_with: Ilya bitu byashacelela
+  itching: Ikyakala
+  language: ! 'Atendeci: Elungwani'
+  localized: Hatu beni
+  nausea: Eselu
+  numbness: Ekanjikanji
+  pain: Ibabaca (lubaba)
+  pain_scale: ! 'Wicucumi''A= 1-3
+
+    Ushabasha= 10'
+  palpitations: Mtema kebekebe
+  poison: Sumu (bitu bya m'numba)
+  pressure: Icinde'wa
+  stabbing: Iukya
+  stool_desc: Mshi (tubi twa m milu- mshi wa tuula m'tubi)
+  swelling: Ebimba
+  tightness: Afinya
+  urine: M masu
+  vomiting: Bilui
+  weight_loss: I'O'A mweko
+  what_is_the_reason: ! 'Lumbaka lwa''e wacumona mte''e? Nahilumbelela: ulemuhungwa
+    Bile?'
+  white: Ya m'maha
+  with_secretions: Bioloto
+  yellow: Enjano
+  '': ''
+  how_long_suffering: Ule muubakana ihanja lule?
+  days: Lusuku
+  months: Mweci
+  years: Mwa'a
+  is_this_the_first_time: Ule ubale'a
+  'yes': E'e
+  'no': Bupe
+  number_of_times: Anga
+  have_you_been_diagnosed: Washilwala nalwaci ite mano?
+  hypertension: Hypertension malali ya mayo
+  congestive_heart_failure: Walshilwala Malwaci
+  heart_attack: Masungu mamtema
+  date: Suku
+  emphysema: Makye mbibukyo
+  chronic_bronchitis: Masungu na bibukya
+  asthma: Mbefu
+  stroke: Mii ya bongo iubakana
+  diabetes: Msubalo
+  type1: Eche'a 'yubale'a (m'lu'wambaka)
+  type2: eche'a 'ya'abele (m'buÔcu)
+  hiv_aids: Masungu miyaka basoloko to m'mweko
+  physical_or_mental_handicap: Bulema hange itenga bwenge
+  specify: Kuka milisha
+  psychiatric_problems: Bwenge l'ubakana
+  cancer: Ikone
+  stomach_ulcer: Bilonda u lusu
+  other_diseases: Mange malwaci
+  heart_and_veins: Mtema-mii
+  lungs: Bibukya
+  digestive_tract: Mnda
+  reproductive_system: Ibuta
+  endocrine_system: Elembako 'yi' wateleca binge bilembako l'amba byangene m'mwenko
+  muscles_and_bones: Misuna
+  do_you_take_meds: Ukyusola mite hange bitamini? Hange nite y'ebembe?
+  do_you_have_list_of_meds: Unaba na lusalango lwa yobe mite undoche heyo?
+  which_meds_do_you_take: Anga tabile bibyo u ky'usoloa mite beni?
+  do_you_have_allergies: Ikyuuubakanya
+  to_medication: U mite?
+  to_food: U bilebwa?
+  day_month_year: Lukusu/mweci/mwa'a
+  stool: M tubi
+  stool_black: Tubi twa m milu
+  stool_red: mshi wa tuula mtubi
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ! 'Cino ndocibwa cinakalulwa mtutendeci cwa manga '
+  instructions_step_1_title: Ehe'a 'yubale' a
+  instructions_step_1_text: Kyeca ndoci bwa m m'obe atendeci u'undelela
+  instructions_step_2_title: Ehe'a 'ya abele
+  instructions_step_2_text: Misahu yose yushikala mwo be m'mesalangelu ushile ihilela
+    waumwa hose
+  disclaimer_start: ! 'Wilola bitu m''mbuno buci''e mwa bange''ca na mwa ''waca nibo:'
+  disclaimer_1: Cino ndocibwa bile bikuma bya msalangi hange basalangi taca aky'u
+    loca binaÔlwa na henge mihembe ya bute'e
+  disclaimer_2: Buambi bwa ndocibwa m'mbuci'e speaksafecare tabyalangisha i'wacibwa
+    lya ndocibwa nahenge mihembe ya bute'e
+  disclaimer_3: Ndocibwa cile mu'ambecibwa lumbaka lwa ihikeca na baambi ba mweko
+  disclaimer_4: speaksafecare tahena shinge'a misahu ya ndocibwa m'mbuci'e
+  disclaimer_5: Ndocibwa cina'ambecibwa ite m'wa teleco mlu buu
+  disclaimer_6: Msahu wa locibwa m'mbuci'e tawaloca benebene ya lubuu
+  disclaimer_7: Tusalangele u Speaksafecare@gmail.com
+  clear_answers: ''
+  are_you_sure: ''
+lulimi:
+  alcohol: Manvu
+  appetite_loss: Kuheza ihamu ly'okulya
+  blood_in: Muko omu
+  brown: Kalinka kadukula
+  burn: Kuhya
+  burning_sensation: Cirungula
+  choking: Kurhaisa, kuyabirwa okuyisa /biryo
+  constipation: Ngagira
+  cough: Kagoholo
+  cramps: Cishano
+  diarrhea: Kuhara
+  difficulty_breathing: Kuyisa n'emisi
+  diffuse: Hoshi
+  dizziness: Cizunguzungu
+  drugs: Boge
+  emergency_triage_questionnaire: Byaduba - amadoso g'obuchanguzi
+  fainting: Kuheza obwenge
+  fatigue: Murhamo
+  fever: Ishushira
+  green: Bishusha olubala (bya lubala)
+  how_intense_is_pain: Okulumwa kuli kunganaci kurhenga 1 kuhika 10
+  intoxication_with: Cimoge
+  itching: Kawasha
+  language: ! 'Lulimi: Lulimi Mashi'
+  localized: Hantu
+  nausea: Kulinzi shala
+  numbness: Kuzindoha k'omubiri (nkogwishirire ecirumbu)
+  pain: Kulumwa
+  pain_scale: Kulembera= 1-3 Kurhalembera= 10
+  palpitations: Kudurha omurhima
+  poison: Sumu
+  pressure: Misi
+  stabbing: Nka ngorho
+  stool_desc: Mazi (mazi miru erhi muko omu mazi)
+  swelling: Kurhunda ebirumbu
+  tightness: Kusera
+  urine: Mashu
+  vomiting: Kushala
+  weight_loss: Kuhorha
+  what_is_the_reason: Bici birhumire wayishibona docteur? Amazibu gawe gali gahi?
+  white: Mweru
+  with_secretions: N'ebigohozi
+  yellow: Bishush' amale (Bya male)
+  '': ''
+  how_long_suffering: Kurhenga mangaci ogwerhe ago mazibu?
+  days: Lusiku
+  months: Mwezi
+  years: Mwaka
+  is_this_the_first_time: Ka bo burhanzi?
+  'yes': Neci
+  'no': Nanga
+  number_of_times: Kanga
+  have_you_been_diagnosed: K'okola opimirwe erhi okola obusirwe enyanya lya ezi ndwala?
+  hypertension: A tansion
+  congestive_heart_failure: Okuyabirwa kw'omurhima
+  heart_attack: Ndwala y'omurhima
+  date: Lusiku, mwezi, mwaka
+  emphysema: Amahaha gayunjwire mishi
+  chronic_bronchitis: Bulwazi bw'amahaha
+  asthma: Buhema
+  stroke: Omuko gugandamine guje omw'irhwe
+  diabetes: Ndwala y'ensukari
+  type1: Lubero lurhanzi
+  type2: Lubero lwa kabirhi
+  hiv_aids: Sida
+  physical_or_mental_handicap: ! 'Cirema: bulema buhi? '
+  specify: Ombuire kugerara etansion
+  psychiatric_problems: Kuhez/obwenge
+  cancer: Kansere
+  stomach_ulcer: Cironda oku lurholero
+  other_diseases: Ezindi ndwala
+  heart_and_veins: Murhima nyuma
+  lungs: Mahaha
+  digestive_tract: Enjira ebiryo bigera mo
+  reproductive_system: By'obubusi
+  endocrine_system: Ciungo cikolesa omubiri
+  muscles_and_bones: Eminyafu y'omubiri
+  do_you_take_meds: K'onanywe obufumu?
+  do_you_have_list_of_meds: K'ogwerhe olukere lw'obufumu bwawe orhuyereke lo?
+  which_meds_do_you_take: Akaba nanga, bufumu buhi onywa?
+  do_you_have_allergies: Ka binalahire omubiri gwawe?
+  to_medication: Oku bufumu
+  to_food: Oku biryo
+  day_month_year: Lusiku/Mwezi/Mwaka
+  stool: Mazi
+  stool_black: Mazi miru
+  stool_red: Muko mudukula omu mazi
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: Aga madoso ganahindulwa ca ligumiza omu ndimi nyinji
+  instructions_step_1_title: Olukere lurhanzi
+  instructions_step_1_text: Yunjuza amadoso omu lulimi osimire
+  instructions_step_2_title: Olukere lwa kabirhi
+  instructions_step_2_text: Hindula amadoso omu lulimi lwa munganga wawe omu kuhuma
+    oku ibendera ly'izino lilinganine n'olulimi
+  disclaimer_start: Ebiwalonz'okumanya byoshi byayankirirwa ci birhamany ikane n'owundi
+    muntu.
+  disclaimer_1: Oyemere onayunve oku aga madoso garhayerekiri ngasi mango ebikolesibwa
+    n'eyindi milungano y'abanganga.
+  disclaimer_2: Okukolesa amadoso oku njira speaksafecare kurhali kuyemera kwa'amadoso
+    n'evindi bigamba by' abanganga
+  disclaimer_3: Amadoso ganakolesibwa oku mukolo gw'okuyigiriza oku bakozi b'ecinganga
+    erhi abatursite.
+  disclaimer_4: Speaksafecare arhali wakurhola ngasi mihigo erhozirwe kurhenga oku
+    madoso.
+  disclaimer_5: Amadoso garhahindwirwi okubuka endwala.
+  disclaimer_6: Emyanzi obwizirwe oku lukere erhayerekini enjira z'okubuka. Nta njira
+    ehali egarhi ka munganga n'omulwala
+  disclaimer_7: Amadoso orhuyandikire kuli speaksafecare@gmail.com
+  clear_answers: ''
+  are_you_sure: ''
+kifuliiru:
+  alcohol: A’MAVU
+  appetite_loss: KUTERA MWETE GWO KULYA
+  blood_in: U’MUKO MU
+  brown: BIDUKULA
+  burn: KUHIRA
+  burning_sensation: NGULUMIRA MU MAGALA
+  choking: ! 'KUHEKA U’MUKA/BYOKULYA '
+  constipation: A’MAVI MAKOMU
+  cough: KAKONGO
+  cramps: I’KISHANI
+  diarrhea: U’LUHARO (UKUNYANYANYA)
+  difficulty_breathing: KUYISA BULIGO
+  diffuse: ! 'HOSHI '
+  dizziness: BITWITWI
+  drugs: KIMOGE
+  emergency_triage_questionnaire: BYADUBADUBA-BIBUZO BYO KULONDOLA
+  fainting: KUTERA UBWENGE (KUHOLA)
+  fatigue: MULUHO
+  fever: I’SHUSHIRA
+  green: BYASI BIBISHI
+  how_intense_is_pain: UYEREKE UBUZITO BWO KULYANIRWA KUTANGIRA KUHI GUMA HALINDE
+    KWI KUMI 1-10
+  intoxication_with: BYOKULA BIBI (KUKOLOBOLWA)
+  itching: LUBABA
+  language: Kifuliiru
+  localized: HAGUMA (HANDU HAGUMA)
+  nausea: SHOLOGOSI
+  numbness: KURUMBUKUTERA IMISI MU KIHE KININI
+  pain: BULYANIRWE
+  pain_scale: KUGOYERA 1-3, I’BITANGASHOBOKA=10
+  palpitations: MUTIMA GULIMUSHI LIKA DUBADUBA
+  poison: BYOKULYA BIBI
+  pressure: UKUTUNDA
+  stabbing: U’KUSHITA (U’KUSHUTA)
+  stool_desc: I’MYANDA MIRU – U’MUKO MUMYANDA  (AMAVI MIRU – UMUKO MUMAVI)
+  swelling: KUKEMA (IKIRUMBU KIHEMURI)
+  tightness: KUFYETA
+  urine: A’MASHWI
+  vomiting: UKUSHALA
+  weight_loss: UKUTERA UBUZITO
+  what_is_the_reason: BIKI BYATUMA WAYIJI BONA BAGANGA (U’MUFUMU)? LIBYAKYSIMIISA
+    UTOLE AHANDU AHA SOBAN WIRI KWO YUVWITI.
+  white: BYERU
+  with_secretions: KIKOROTWA
+  yellow: U’MUGINA
+  '': ''
+  how_long_suffering: I’NO NGORANE YATONDERA LIHI?
+  days: LUSIKU
+  months: U’MWEZI
+  years: IMYAKA
+  is_this_the_first_time: KABWO BUTAZI?
+  'yes': EGO (EEH)
+  'no': NANGA
+  number_of_times: KANGA
+  have_you_been_diagnosed: KA KERA UKABONWA KANDIRI KUBUKWA GANO MALWAZI?
+  hypertension: Mutima kupupapup
+  congestive_heart_failure: BULWAZI BWO MUTIMA
+  heart_attack: U’MUTIMA KUKANGUKA
+  date: LUSIKU – U’MWEZI – U’MWAKA
+  emphysema: KUHEMA KANDIRI KUGIRA MUKA MUMAGALA
+  chronic_bronchitis: BULWAZI BWA BAFUFWA BWESIKU NYINGI
+  asthma: MBEFU
+  stroke: MISI YA BWONGO KUBEREKA
+  diabetes: BULWAZI BWE SUKARI (KUSHUBALA SHUBALA)
+  type1: UBUTAZI
+  type2: UBUGIRAKABIRI
+  hiv_aids: BULWAZI BWA KAHEZA
+  physical_or_mental_handicap: BULEMA KANDI KUTERA U’BWENGE  (KIRÉRÉ)
+  specify: Kuti umuyuvwa
+  psychiatric_problems: KUSIREHA
+  cancer: KIMUNGU (KIHANDO I’KITA  UMUKIRA)
+  stomach_ulcer: BIHANDO BYAMU LUTOLERO
+  other_diseases: BUNDI BULWAZI BWE BITONDOLA
+  heart_and_veins: MUTIMA N’GEMISI Y’OMUKO
+  lungs: MAHAHA (BAFUFWA)
+  digestive_tract: BYA MUNDA
+  reproductive_system: BYO KUBUTA
+  endocrine_system: IKIRUMBU IKIMUTABALA IBINDI UKUKOLA BWIJA
+  muscles_and_bones: MUNYAMA N’AMAVUHA
+  do_you_take_meds: KO’MUNYWA I’MITI KANDIRI BITAMINI?
+  do_you_have_list_of_meds: ! 'KOGWETI  U’ MUHARURO GWE  MITI YAWE, KA WANGA TUYEREKA
+    YO? '
+  which_meds_do_you_take: IRINANGA, I’MITI MIKI UMUNYWA?
+  do_you_have_allergies: KA’GAKUGIRA BULIGO?
+  to_medication: KUMITI?
+  to_food: KUBYOLULYA?
+  day_month_year: LUSIKU – U’MWEZI – U’MWAKA
+  stool: MYANDA
+  stool_black: I’MYANDA MIIRU
+  stool_red: U’MUKO MU MYANDA
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: YIBI BIBUZO BYANGA HINDULWA DUBADUBA MUNDETO NYINGI.
+  instructions_step_1_title: UBUTAZI
+  instructions_step_1_text: UHINDULE IBIBUZO MU LUDETO LWO SIMIRI
+  instructions_step_2_title: UBWAKABIRI
+  instructions_step_2_text: UHINDULE IBIBUZO WA YIZUZA MU LUDETO LWO MUFUMU WAWE MUKU
+    SHONGA KU LEMBERA KANDI RI KW’I IZIMA IRITUNGINI N’OLUDETO LWAGE IBIKWAINIBTYOSHI
+    UGABIGWANA MU KIKOL ANWA KYAWE BITAGA NA LUNGIKWA MU BUNDI BULYO. (IZINA IRI KWANINI
+    (ISHUSHINI) NE NDETO YAYO)
+  disclaimer_start: ! 'MUKOLOLEKEZA Y IBIBIKOLANWA HANO HANDU:'
+  disclaimer_1: MUGASOBANUKIRWA N’OKUYEMERA KWO IBIBUZO IBIRIHANO BIRI BITUMBWE BYA
+    NABYO KANDI IRI BYA BENE NABYO HALIKO BITAYERESIRI BWENENE IBIKAKOLESIBWA N’EGINDI
+    MIKUNGI Y’ABAFUMU.
+  disclaimer_2: IBIBUZO BIKOLESIZWI HANO SPEAKSAFECARE BITASOBANWIRI UKU YEMERWA N’EGINDI
+    MIKUNGI Y’A BAFUMU.
+  disclaimer_3: IBIBUZO BIKOLESIZWI NAHO KU MAYIGIRIZO G’ABAHINGA B’OBUFUMU N’ABABALAMU
+  disclaimer_4: IBIBUZO BIKOLESIZWI NAHO KU MAYIGIRIZO G’ABAHINGA B’OBUFUMU N’ABABALAMU
+  disclaimer_5: ! 'HANO SPEAKSAFECARE ATAHITI UBUSHOB’OZI BWO KUSHUNGIKA IMYAAZI IRIRI
+    MU BINO BIBUZO. '
+  disclaimer_6: UKUKOLEESA BINO BIBUZO, BITANGAKOLESIBWA N’GAA KINDU IKYANGAGENDA
+    AHANDU HO BUFUMU BUGENDERIRI.
+  disclaimer_7: IMYAZI IYAYERESIBWA ITAYEREKANA IMIGEZA Y’OKUBUKWA. NDABWO BUGUMA
+    MUKATI K’OMUFUMU N’OMULWAZI UBWABONEKA.
   clear_answers: ''
   are_you_sure: ''

@@ -3,27 +3,30 @@
     <li>
       <ul class="languages">
         <% lang_array = [
-          ['en-US', 'Change to English', 'United%20Kingdom.png'],
-          ['es-MX', 'Cambiar a español', 'Mexico.png'],
-          ['fr-FR', 'Changer au français', 'France.png'],
-          ['sw', 'Mabadiliko ya Kiswahili', 'Kenya.png'],
-          ['ar', 'تغيير للعربية', 'Egypt.png'],
-          ['pt-PT', 'Mude para Português', 'Portugal.png'],
-          ['it', 'Cambia in Italiano', 'Italy.png'],
-          ['ru-RU', 'Изменение Россия', 'Russian%20Federation.png'],
-          ['sr', 'Промена на српској', 'Serbia.png'],
-          ['zh', '切换到中文', 'China.png'],
-          ['bg', 'Промяна на китайски', 'Bulgaria.png'],
-          ['ht', 'Chanjman nan kreyòl', 'Haiti.png'],
-          ['hi', 'हिन्दी में बदलें', 'India.png'],
-          ['tr', 'Türk değiştirin', 'Turkey.png'],
-          ['he', 'שינוי לעברית', 'Israel.png'],
-          ['fil', 'Baguhin sa Pilipino', 'Philippines.png'],
+          ['en-US', 'Change to English', 'http://www.printableworldflags.com/icon-flags/32/United%20Kingdom.png'],
+          ['es-MX', 'Cambiar a español', 'http://www.printableworldflags.com/icon-flags/32/Mexico.png'],
+          ['fr-FR', 'Changer au français', 'http://www.printableworldflags.com/icon-flags/32/France.png'],
+          ['sw', 'Mabadiliko ya Kiswahili', 'http://www.printableworldflags.com/icon-flags/32/Kenya.png'],
+          ['ar', 'تغيير للعربية', 'http://www.printableworldflags.com/icon-flags/32/Egypt.png'],
+          ['pt-PT', 'Mude para Português', 'http://www.printableworldflags.com/icon-flags/32/Portugal.png'],
+          ['it', 'Cambia in Italiano', 'http://www.printableworldflags.com/icon-flags/32/Italy.png'],
+          ['ru-RU', 'Изменение Россия', 'http://www.printableworldflags.com/icon-flags/32/Russian%20Federation.png'],
+          ['sr', 'Промена на српској', 'http://www.printableworldflags.com/icon-flags/32/Serbia.png'],
+          ['zh', '切换到中文', 'http://www.printableworldflags.com/icon-flags/32/China.png'],
+          ['bg', 'Промяна на китайски', 'http://www.printableworldflags.com/icon-flags/32/Bulgaria.png'],
+          ['ht', 'Chanjman nan kreyòl', 'http://www.printableworldflags.com/icon-flags/32/Haiti.png'],
+          ['hi', 'हिन्दी में बदलें', 'http://www.printableworldflags.com/icon-flags/32/India.png'],
+          ['tr', 'Türk değiştirin', 'http://www.printableworldflags.com/icon-flags/32/Turkey.png'],
+          ['he', 'שינוי לעברית', 'http://www.printableworldflags.com/icon-flags/32/Israel.png'],
+          ['fil', 'Baguhin sa Pilipino', 'http://www.printableworldflags.com/icon-flags/32/Philippines.png'],
+          ['kiben', 'Kibenbé', 'http://www.gettyicons.com/free-icons/103/flags/png/32/congo_flag_32.png'],
+          ['lulimi', 'Lulimi Mashi', 'http://www.gettyicons.com/free-icons/103/flags/png/32/congo_flag_32.png'],
+          ['kifuliiru', 'Kifuliiru', 'http://www.gettyicons.com/free-icons/103/flags/png/32/congo_flag_32.png'],
         ]
         %>
         <% lang_array.each do |lang| %>
           <li class="language-<%= lang[0] -%> selected-language"><a href="#" onclick="switchLocale('<%= lang[0] -%>');return false;">
-            <img src='http://www.printableworldflags.com/icon-flags/32/<%= lang[2] -%>'>
+            <img width='32' height='32' src='<%= lang[2] -%>'>
             <%= lang[1] %>
           </a></li>
         <% end %>
@@ -31,3 +34,4 @@
     </li>
   </ul>
 </div>
+http://www.printableworldflags.com/icon-flags/32/Congolese%20National.png

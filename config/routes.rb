@@ -1,5 +1,6 @@
 HospitalForms::Application.routes.draw do
   get "emergency_triage/index"
+  get "application/about"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -51,6 +52,7 @@ HospitalForms::Application.routes.draw do
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
   root :to => 'emergency_triage#index'
+  match 'about' => 'application#about'
 
   # See how all your routes lay out with "rake routes"
 
