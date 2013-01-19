@@ -1,8 +1,3 @@
-Add new languages from master spreadsheet
-  finish ios app
-Add tester - rocky in the congo: 872c20be1fbd3f1deb92c8a1c9346cbee896c417
-Add keywords for SEO (Search Engines)
-
 App should be able to speak the questions
 Ability to save parts of the form that won't change (like allergies)
 
