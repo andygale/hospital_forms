@@ -1736,11 +1736,11 @@ tr:
   are_you_sure: ''
 he:
   alcohol: אלכוהול
-  appetite_loss: תיאבון אובדן
+  appetite_loss: ! 'אובדן תיאבון '
   blood_in: דם ב
   brown: חום
   burn: לשרוף
-  burning_sensation: צריבה תחושת
+  burning_sensation: ! 'תחושת צריבה '
   choking: מחנק
   constipation: עצירות
   cough: שיעול
@@ -1761,9 +1761,9 @@ he:
 
 
 '
-  intoxication_with: ! '*?השתמשת חומרים באילו'
+  intoxication_with: באילו חומרים השתמשת *?
   itching: עקצוץ
-  language: ! 'אנגליתשפה: *'
+  language: ! 'שפה: אנגלית *'
   localized: ממוקם
   nausea: בחילה
   numbness: קהות
@@ -1771,18 +1771,18 @@ he:
   pain_scale: ! 'נסבלים = 1-3
 
     בלתי נסבלים = 10'
-  palpitations: לב דפיקות
+  palpitations: ! 'דפיקות לב '
   poison: ! 'רעל (לשעבר: מוצרים ביתיים)'
   pressure: לחץ
-  stabbing: הדקיר
-  stool_desc: אדום עם צואה) צואה (צואה שחורה או דם
-  swelling: יותר או אחת בגפה נפיחות
+  stabbing: דקירה
+  stool_desc: ! 'צואה (צואה שחורה או דם אדום עם צואה) '
+  swelling: ! 'נפיחות בגפה אחת או יותר '
   tightness: לחץ
   urine: שתן
   vomiting: הקאה
-  weight_loss: במשקלי רידה
-  what_is_the_reason: ! 'ביותר טוב שלך המצב את המתארים התנאים את בחר אנא ?שלך להתייעצות
-    הסיבה מהי '
+  weight_loss: ! 'ירידה במשקל '
+  what_is_the_reason: ! 'מהי הסיבה להתייעצות שלך? אנא בחר את התנאים המתארים את המצב
+    שלך טוב ביותר '
   white: . לבן
   with_secretions: ! ' הפרשות עם '
   yellow: צהוב
@@ -1808,28 +1808,28 @@ he:
   type1: 1 סוג
   type2: ! '2 סוג '
   hiv_aids: איידס/HIV
-  physical_or_mental_handicap: ! 'נפשית נכות או פיזית נכות '
+  physical_or_mental_handicap: ! 'נכות נפשית או נכות פיזית '
   specify: לפרט
-  psychiatric_problems: ! ' פסיכיאטריות בעיות '
+  psychiatric_problems: ! 'בעיות פסיכיאטריות '
   cancer: סרטן
   stomach_ulcer: ! 'אולקוס / קיבה כיב '
-  other_diseases: ! 'של אחרות מחלות '
-  heart_and_veins: ! 'ועורקים לב '
+  other_diseases: ! 'מחלות אחרות של '
+  heart_and_veins: ! 'לב ועורקים '
   lungs: ריאות
   digestive_tract: ! ' צינור העיכול '
-  reproductive_system: ! ' רבייה מערכת '
-  endocrine_system: ! 'האנדוקרינית מערכת '
-  muscles_and_bones: ! ' ועצמות שרירים '
-  do_you_take_meds: ! '? ויטמינים או/ו תרופות נוטל אתה האם  '
-  do_you_have_list_of_meds: ! 'לנו? יכולהראות שאתה שלך התרופות של רשימה לך יש האם '
-  which_meds_do_you_take: ! 'אם ,לא אילו תרופות אתה ?לוקח '
-  do_you_have_allergies: ':אלרגיות לך יש האם '
+  reproductive_system: ! ' מערכת רבייה '
+  endocrine_system: ! 'מערכת האנדוקרינית '
+  muscles_and_bones: ! ' שרירים ועצמות '
+  do_you_take_meds: ! 'האם אתה נוטל תרופות או/ו ויטמינים? '
+  do_you_have_list_of_meds: ! 'האם יש לך רשימה של התרופות שלך שאתה יכול להראות לנו? '
+  which_meds_do_you_take: אם לא, אילו תרופות אתה לוקח?
+  do_you_have_allergies: האם יש לך אלרגיות ?
   to_medication: לתרופות
   to_food: למזון
   day_month_year: ! 'שנה/חודש/ יום '
   stool: צואה
   stool_black: ! 'שחורה צואה '
-  stool_red: ! 'צואה עם אדום דם '
+  stool_red: ! 'צואה עם דם אדום '
   yes__first_time: ''
   yes__take_meds: ''
   yes__have_list: ''
@@ -1887,7 +1887,7 @@ fil:
     pinakamasakit
   intoxication_with: ! 'Pagkalango sa:'
   itching: Pangangati
-  language: Wikang ingles
+  language: ! 'Wikang: Pilipino'
   localized: Dito lamang
   nausea: Alibadbad
   numbness: Pagkamanhid
@@ -2353,3 +2353,244 @@ kifuliiru:
     MUKATI K’OMUFUMU N’OMULWAZI UBWABONEKA.
   clear_answers: ''
   are_you_sure: ''
+Luganda:
+  alcohol: OMWENGE
+  appetite_loss: EMEEME TEYAGALA KULYA
+  blood_in: MULIMU OMUSAAYI
+  brown: KITAKA
+  burn: MULIRO
+  burning_sensation: KWOOKELERA
+  choking: KUTUGIBWA
+  constipation: KWESIBA MULUBUTO
+  cough: OKUKOLOLA
+  cramps: OLUBUTO LUKUNYOOLA
+  diarrhea: EMBIIRO
+  difficulty_breathing: OKUZIYIRA
+  diffuse: BULIWAMU
+  dizziness: KANTOOLOZE
+  drugs: EDDAGALA
+  emergency_triage_questionnaire: ''
+  fainting: OKUZIRIKA
+  fatigue: OBUKOOWU
+  fever: OKWOKYA OMUBIRI
+  green: KILAGALA
+  how_intense_is_pain: OBULUMI BWO BWENKANA KKI KU KIGERO EKIVA KWE’ EMMU OKUTUUSA
+    KU KUMI
+  intoxication_with: OKUTAMIRA/OBUTWA
+  itching: OKUSIYIIBWA
+  language: OLUZUNGU
+  localized: KYAAWAMU
+  nausea: OKUSIINDUKILIRWA EMEEME
+  numbness: OKUSANYALALA
+  pain: OBULUMI
+  pain_scale: OKUGUMIRA OBULUMI OKUVA KWEMU OKUTUUSA KU KUMI
+  palpitations: ''
+  poison: OBUTWA
+  pressure: PULEESA
+  stabbing: EKIFUMITA
+  stool_desc: EKYOLOONI – KIDUGAAVU/KIMYUUFU
+  swelling: OKUZIMBA EMIKONO OBA AMAGULU
+  tightness: EKIKUNYIGA/EKIKULIPA
+  urine: OMUSULO
+  vomiting: OKUSESEMA
+  weight_loss: OKUKOGGA
+  what_is_the_reason: NSONGA KI EKULEESE OKUKEBERWA
+  white: EKYERU
+  with_secretions: OKUFULUMYA AMALUSU AMANGI, AMAZIGA N’E MINYIRA
+  yellow: KYEENVU
+  '': ''
+  how_long_suffering: ''
+  days: ENAKU MEKA
+  months: EMYENZI EMEKA
+  years: EMYAKA EMEKA
+  is_this_the_first_time: GUNO GWE MULUNDI OGUSOSE
+  'yes': YE
+  'no': NEDDA
+  number_of_times: EMIRUNDI EMEKA
+  have_you_been_diagnosed: ! 'WALI OLWADDEKO BINO '
+  hypertension: PULEESA
+  congestive_heart_failure: OMUTIMA OMUKOOWU
+  heart_attack: OKUTUKA OMUTIMA
+  date: ENAKU Z’OMWEZI
+  emphysema: ''
+  chronic_bronchitis: ''
+  asthma: ASIIMA
+  stroke: OKUBWA STROKE
+  diabetes: SUKAALI
+  type1: EKIKA  EKISOOKA
+  type2: EKIKA EKYOKUBIRI
+  hiv_aids: AKAWUUKA KA MUKENENYA
+  physical_or_mental_handicap: ''
+  specify: OBULEMU BWOOLINA
+  psychiatric_problems: OBULWADDE BWO’MUTWE
+  cancer: KOOKOLO
+  stomach_ulcer: ALUUSA
+  other_diseases: ENDWADDE ENDALA EZO’MUTIMA N’EMISUWA
+  heart_and_veins: ''
+  lungs: ! 'AMAWUUGWE '
+  digestive_tract: ENSEKE Z’EMMERE
+  reproductive_system: ! 'NABAANA '
+  endocrine_system: ''
+  muscles_and_bones: AMAGUMBA
+  do_you_take_meds: OMILA EDDAGALA OBA VITAMINI
+  do_you_have_list_of_meds: OLINA EBIKUFUUKULA OMUBIRI GWO
+  which_meds_do_you_take: BWEKIBA NGA SIBWEKIRI, DDAGALA KI LY’OKOZESA
+  do_you_have_allergies: OLINA EBIKUFUUKULA OMUBIRI GWO
+  to_medication: KU DDAGALA
+  to_food: KU MEERE
+  day_month_year: ENNAKU Z’OMWEZI
+  stool: EKYOLOONI
+  stool_black: EKYOLOONI EKIDDUGAVU
+  stool_red: EKYOLOONI EKIMYUUFU
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: ''
+  instructions_step_1_title: ''
+  instructions_step_1_text: ''
+  instructions_step_2_title: ''
+  instructions_step_2_text: ''
+  disclaimer_start: ''
+  disclaimer_1: ''
+  disclaimer_2: ''
+  disclaimer_3: ''
+  disclaimer_4: ''
+  disclaimer_5: ''
+  disclaimer_6: ''
+  disclaimer_7: ''
+  clear_answers: ''
+  are_you_sure: ''
+'':
+  alcohol: Alkohol
+  appetite_loss: Appetitlosigkeit
+  blood_in: ! 'Blut im:'
+  brown: braun
+  burn: Eine Verbrennung
+  burning_sensation: Brennendes Gefühl
+  choking: Ersticken, weil ein Objekt im Hals steckt
+  constipation: Verstopfung
+  cough: Husten
+  cramps: Krampf
+  diarrhea: Durchfall
+  difficulty_breathing: Kurzatmigkeit
+  diffuse: überall
+  dizziness: Schwindel
+  drugs: Medikamente
+  emergency_triage_questionnaire: Notfall-Fragebogen
+  fainting: Ohnmacht / Bewusstlosigkeit
+  fatigue: Müdigkeit
+  fever: Fieber
+  green: grün
+  how_intense_is_pain: Wie intensiv sind Ihre Schmerzen auf einer Skala von 1 bis
+    10?
+  intoxication_with: ! 'Vergiftung mit:'
+  itching: Juckreiz
+  language: ! 'Sprache: Deutsch'
+  localized: lokalisiert
+  nausea: Übelkeit
+  numbness: Taubheit
+  pain: Schmerz
+  pain_scale: Erträglich= 1-3 Unerträglich = 10
+  palpitations: Herzrasen
+  poison: Gift (ohne Haushaltsprodukte)
+  pressure: druckartig
+  stabbing: Messerstecherei
+  stool_desc: Stuhl( Schwarzer Stuhl / Blut mit Stuhl)
+  swelling: Schwellungen an einem oder mehrerer Körperteile
+  tightness: Engegefühl
+  urine: Urin
+  vomiting: Erbrechen
+  weight_loss: Gewichtsverlust
+  what_is_the_reason: Was ist der Grund für Ihren Arztbesuch? Bitte wählen Sie die
+    Bedingungen, die Ihre Situation am besten beschreiben.
+  white: weiß
+  with_secretions: mit Auswurf
+  yellow: gelb
+  '': ''
+  how_long_suffering: Wie lange haben sie an diesen Erscheinungen gelitten?
+  days: Tage
+  months: Monate
+  years: Jahre
+  is_this_the_first_time: Ist dies das erste Mal?
+  'yes': ja
+  'no': Nein
+  number_of_times: Anzahl
+  have_you_been_diagnosed: Wurde bei Ihnen jemals eines der folgenden gesundheitlichen
+    Probleme diagnostiziert oder behandelt.
+  hypertension: Bluthochdruck
+  congestive_heart_failure: Herzinsuffizienz
+  heart_attack: Herzinfarkt
+  date: Datum
+  emphysema: Lungenemphysem
+  chronic_bronchitis: chronische Bronchitis
+  asthma: Asthma
+  stroke: Schlaganfall
+  diabetes: Diabetes
+  type1: Typ I
+  type2: Typ II
+  hiv_aids: HIV / AIDS
+  physical_or_mental_handicap: Eine körperliche oder geistige Behinderung
+  specify: genauer
+  psychiatric_problems: psychische Probleme
+  cancer: Krebs
+  stomach_ulcer: Magengeschwür
+  other_diseases: Andere Erkrankungen des/der
+  heart_and_veins: Herz-Kreislaufsystem
+  lungs: Lunge
+  digestive_tract: Verdauungstrakt
+  reproductive_system: Reproduktionssystems
+  endocrine_system: hormonellen Systems
+  muscles_and_bones: Muskeln und Knochen
+  do_you_take_meds: Nehmen Sie Medikamente und / oder Vitamine?
+  do_you_have_list_of_meds: Haben Sie eine Liste Ihrer Medikamente, die Sie uns zeigen?
+  which_meds_do_you_take: Wenn nicht, welche Medikamente nehmen Sie
+  do_you_have_allergies: ! 'Haben Sie Allergien?:'
+  to_medication: gegen Medikamente
+  to_food: gegen Nahrungsmittel
+  day_month_year: TT/MM/YYYY
+  stool: Stuhl
+  stool_black: schwarzer Stuhl
+  stool_red: Blut im Stuhl
+  yes__first_time: ''
+  yes__take_meds: ''
+  yes__have_list: ''
+  no__first_time: ''
+  no__take_meds: ''
+  no__have_list: ''
+  specify__handicap: ''
+  specify__med_allergy: ''
+  specify__food_allergy: ''
+  instructions_start: Dieser Fragebogen kann sofort in viele Sprachen übersetzt werden.
+  instructions_step_1_title: Schritt 1
+  instructions_step_1_text: Füllen Sie den Fragebogen in Ihrer bevorzugten Sprache
+    aus.
+  instructions_step_2_title: Schritt 2
+  instructions_step_2_text: Übersetzen Sie den ausgefüllten Fragebogen in die Sprache
+    Ihrer Wahl, indem Sie die entsprechende Flagge oder Sprache anklicken. Alle Daten
+    bleiben auf Ihrem Gerät und werden nicht zu einem Server übertragen werden.
+  disclaimer_start: ! 'Indem Sie das Material auf dieser Seite anschauen, verstehen
+    und akzeptieren Sie, dass:'
+  disclaimer_1: Die Fragebogen die auf dieser Seite verwendet werden, sind das Produkt
+    des Autors und wiederspiegeln nicht unbedingt die von anderen medizinischen Organisationen
+    verwendetem Fragen
+  disclaimer_2: ! 'Die aufnahme des Materials auf der SpeakSafeCare Website führt
+    zur Zustimmung, durch andere medizinische Organisationen
+
+
+'
+  disclaimer_3: Das Material ist ausschließlich für pädagogische Zwecke, für qualifizierte
+    Fachkräfte des Gesundheitswesens sowie Reisende
+  disclaimer_4: SpeakSafeCare haftet nicht für Entscheidungen und Maßnahmen auf der
+    Grundlage der Informationen dieser Website
+  disclaimer_5: Die Informationen können nicht als Ersatz für eine ärztliche Beratung
+    eingesetzt werden
+  disclaimer_6: Die Informationen stellen keine Standardtherapie
+  disclaimer_7: Kein Arzt-Patient-Beziehung wird aufgebaut
+  clear_answers: Löschen aller Antworten
+  are_you_sure: sind Sie sicher

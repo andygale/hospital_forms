@@ -1,13 +1,8 @@
 ---
-logo-713350.jpg: !binary |-
-  bG9nby03MTMzNTAtN2Q0MjNmZWViZDIyOTAyYTcxOGQ1OWMwYzVlYTc1ZTUu
-  anBn
+logo-713350.jpg: logo-713350-7d423feebd22902a718d59c0c5ea75e5.jpg
 logo-713350.png: logo-713350-745608d169755d675adeb5163cbc6da8.png
-logo_cropped.png: !binary |-
-  bG9nb19jcm9wcGVkLTkwMDdmN2QxNTJiYjY4ZTc0MWRkZGNhNzhjNWViNDgz
-  LnBuZw==
-rails.png: !binary |-
-  cmFpbHMtYTIyMWNhNmZlZmQ2OTBkNTc3NjhjNDZmMDhkOGE0OGIucG5n
+logo_cropped.png: logo_cropped-9007f7d152bb68e741dddca78c5eb483.png
+rails.png: rails-a221ca6fefd690d57768c46f08d8a48b.png
 jquery-ui.min.js: jquery-ui.min-0e8a11c7e970b57b4bf5c449cb14480d.js
 jquery.min.js: jquery.min-b11f0e0c6ff2b15efcb77ee68ca72f6d.js
 application.js: application-60c405646ea60c227e2ea1e9f48e4561.js

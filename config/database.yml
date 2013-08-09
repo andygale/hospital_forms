@@ -10,10 +10,12 @@ development:
   # timeout: 5000
   adapter: postgresql
   encoding: unicode
+  host: localhost
   database: hospital_forms_development
   pool: 5
   username: postgres
-  password: postgres
+  #password: postgres
+  password: password
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
